@@ -1,0 +1,205 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 101
+Number of records retrieved in searches: 1468
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 12
+	Country: Brazil ; Times: 5
+	Country: Australia ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 1
+	Country: United States ; Times: 61
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-06 ; Times: 4
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-08 ; Times: 5
+	Date: 2015-12-03 ; Times: 1
+	Date: 2015-12-02 ; Times: 5
+	Date: 2015-12-01 ; Times: 8
+	Date: 2015-12-07 ; Times: 5
+	Date: 2015-12-16 ; Times: 6
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-04 ; Times: 8
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-23 ; Times: 5
+	Date: 2015-12-22 ; Times: 10
+	Date: 2015-12-24 ; Times: 2
+	Date: 2015-12-27 ; Times: 3
+	Date: 2015-12-29 ; Times: 2
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-14 ; Times: 8
+	Date: 2015-12-15 ; Times: 6
+	Date: 2015-12-30 ; Times: 2
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-10 ; Times: 6
+	Date: 2015-12-11 ; Times: 3
+	Date: 2015-12-12 ; Times: 5
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:280262" ; Times: 2
+	Query: "Numenius borealis" ; Times: 2
+	Query: "MMNS" ; Times: 1
+	Query: "Geocapromys ingrahami" ; Times: 1
+	Query: "canis rufus type:specimen" ; Times: 1
+	Query: "126225" ; Times: 1
+	Query: "geocapromys" ; Times: 1
+	Query: "126226" ; Times: 1
+	Query: "smilodon" ; Times: 1
+	Query: "Calidris canutus" ; Times: 1
+	Query: "Amorphochilus schnablii" ; Times: 3
+	Query: "94544" ; Times: 1
+	Query: "Emoia trossula" ; Times: 7
+	Query: "mammut" ; Times: 1
+	Query: "uf 272" ; Times: 1
+	Query: "83100" ; Times: 1
+	Query: "catalognumber:161288" ; Times: 1
+	Query: "116021" ; Times: 1
+	Query: "catalognumber:46477" ; Times: 1
+	Query: "192049" ; Times: 1
+	Query: "catalognumber:73504" ; Times: 1
+	Query: "specificepithet:alleni county:&#34;Volusia&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 3
+	Query: "specificepithet:onca family:Felidae" ; Times: 1
+	Query: "Plagiodontia" ; Times: 2
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Zygolophodon" ; Times: 1
+	Query: "155633" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 4
+	Query: "catalognumber:51891" ; Times: 1
+	Query: "stilosoma" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "107848" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "genus:Potamogale" ; Times: 1
+	Query: "Podiceps auritus" ; Times: 1
+	Query: "zombie" ; Times: 16
+	Query: "155921" ; Times: 1
+	Query: "UF 632" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 3
+	Query: "113810" ; Times: 1
+	Query: "specificepithet:Defensor" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "Cyclura cychlura" ; Times: 1
+	Query: "Oryzomys antillarum" ; Times: 2
+	Query: "106669" ; Times: 1
+	Query: "catalognumber: 111020" ; Times: 1
+	Query: "uf 1001" ; Times: 1
+	Query: "94519" ; Times: 1
+	Query: "catalognumber:94774" ; Times: 2
+	Query: "specificepithet:rufus genus:Canis" ; Times: 1
+	Query: "specificepithet:alleni genus:Regina class:Reptilia county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Geocapromys" ; Times: 1
+	Query: "110949" ; Times: 1
+	Query: "228115" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "87581" ; Times: 1
+	Query: "Sturnella magna" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(32.37184274299271,-84.80003356933594))&lt;14152" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "73952" ; Times: 1
+	Query: "uf 587" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 889 download events in this period)
+Total number of records downloaded: 19542
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 52
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 2
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-27 ; Times: 5
+	Date: 2015-12-02 ; Times: 4
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-26 ; Times: 2
+	Date: 2015-12-07 ; Times: 2
+	Date: 2015-12-04 ; Times: 1
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-23 ; Times: 2
+	Date: 2015-12-22 ; Times: 1
+	Date: 2015-12-25 ; Times: 6
+	Date: 2015-12-11 ; Times: 4
+	Date: 2015-12-17 ; Times: 6
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-29 ; Times: 3
+	Date: 2015-12-10 ; Times: 2
+	Date: 2015-12-18 ; Times: 3
+	Date: 2015-12-19 ; Times: 2
+	Date: 2015-12-24 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "Kinosternon" ; Times: 1
+	Query: "Cyclura nubila" ; Times: 1
+	Query: "specificepithet:canadensis genus:Lontra" ; Times: 1
+	Query: "Canis Lupus mappable:1 distance(location,geopoint(43.48481212891608,-100.1513671875))&lt;2291850" ; Times: 1
+	Query: "Nerodia cyclopion" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 2
+	Query: "order:Chiroptera stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 2
+	Query: "Lampropeltis getulus" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "specificepithet:onca family:Felidae" ; Times: 1
+	Query: "Masticophis flagellum" ; Times: 1
+	Query: "Lepomis" ; Times: 1
+	Query: "Oryzomys palustris" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis" ; Times: 2
+	Query: "Nerodia taxispilota" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "Pantherophis obsoletus" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 2
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "specificepithet:rufa genus:Aplodontia" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "Geomys pinetis" ; Times: 1
+	Query: "Gehyra" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 1
+	Query: "Cyclura cychlura" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "specificepithet:putorius genus:spilogale continent:North America AND (NOT california NOT oregon NOT washington NOT idaho NOT nevada NOT mexico NOT &#34;new mexico&#34; NOT &#34;jeff davis&#34; NOT &#34;Van horn&#34; NOT arizona NOT honduras NOT &#34;el salvador&#34; NOT brewster NOT presidio NOT &#34;val verde&#34;)" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "scaphiopus" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Sceloporus undulatus" ; Times: 1
+	Query: "Pseudobranchus" ; Times: 1
+
+
+End of report.
