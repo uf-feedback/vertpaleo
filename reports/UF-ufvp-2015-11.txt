@@ -1,0 +1,232 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 182
+Number of records retrieved in searches: 3854
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 13
+	Country: Mexico ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 133
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 6
+	Country: Japan ; Times: 1
+	Country: New Zealand ; Times: 3
+	Country: Russia ; Times: 9
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 23
+	Date: 2015-11-24 ; Times: 4
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-03 ; Times: 7
+	Date: 2015-11-11 ; Times: 3
+	Date: 2015-11-10 ; Times: 7
+	Date: 2015-11-13 ; Times: 6
+	Date: 2015-11-12 ; Times: 3
+	Date: 2015-11-14 ; Times: 2
+	Date: 2015-11-17 ; Times: 2
+	Date: 2015-11-16 ; Times: 2
+	Date: 2015-11-01 ; Times: 33
+	Date: 2015-11-20 ; Times: 4
+	Date: 2015-11-23 ; Times: 6
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-09 ; Times: 3
+	Date: 2015-11-28 ; Times: 2
+	Date: 2015-11-29 ; Times: 1
+	Date: 2015-11-02 ; Times: 14
+	Date: 2015-11-25 ; Times: 2
+	Date: 2015-11-26 ; Times: 7
+	Date: 2015-11-27 ; Times: 1
+	Date: 2015-11-06 ; Times: 28
+	Date: 2015-11-21 ; Times: 1
+	Date: 2015-11-04 ; Times: 12
+	Date: 2015-11-05 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "23206" ; Times: 1
+	Query: "23207" ; Times: 1
+	Query: "23209" ; Times: 1
+	Query: "94563" ; Times: 1
+	Query: "Drymarchon corais type:specimen institutioncode:UF mappable:1" ; Times: 1
+	Query: "FLMNH 123825" ; Times: 1
+	Query: "Pteronotus" ; Times: 1
+	Query: "Conuropsis Florida" ; Times: 1
+	Query: "Capromeryx" ; Times: 2
+	Query: "UF 275272" ; Times: 2
+	Query: "80723" ; Times: 1
+	Query: "80724" ; Times: 1
+	Query: "specificepithet:gallus genus:Gallus year &gt;= 1700 year &lt;= 1920" ; Times: 1
+	Query: "Oryzomys antillarum" ; Times: 1
+	Query: "family:rhinocerotidae" ; Times: 1
+	Query: "falciformis" ; Times: 1
+	Query: "231094" ; Times: 1
+	Query: "Sciurus carolinensis &#34;Country: USA&#34;" ; Times: 2
+	Query: "family:Vireonidae institutioncode:UF" ; Times: 3
+	Query: "catalognumber:24638" ; Times: 1
+	Query: "Brachyphylla" ; Times: 1
+	Query: "228115" ; Times: 2
+	Query: "288737" ; Times: 1
+	Query: "genus:Cantius" ; Times: 1
+	Query: "107871" ; Times: 1
+	Query: "Sciurus carolinensis country:&#34;USA&#34;" ; Times: 37
+	Query: "UF 275264" ; Times: 1
+	Query: "aves distance(location,geopoint(18.812717856407776,-71.180419921875))&lt;100000" ; Times: 1
+	Query: "class:Reptilia county:&#34;Dixie&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "28850" ; Times: 1
+	Query: "87620" ; Times: 1
+	Query: "UF 280688" ; Times: 1
+	Query: "order:squamata continent:North america fossil:1" ; Times: 1
+	Query: "catalognumber:24750 institutioncode:UF" ; Times: 1
+	Query: "Erophylla" ; Times: 1
+	Query: "33462" ; Times: 1
+	Query: "zombie" ; Times: 10
+	Query: "UF 275405" ; Times: 1
+	Query: "UF 275293" ; Times: 1
+	Query: "UF 280238" ; Times: 1
+	Query: "317876" ; Times: 2
+	Query: "66553" ; Times: 1
+	Query: "74990" ; Times: 1
+	Query: "panama boidae" ; Times: 1
+	Query: "family:Rhinocerotidae" ; Times: 1
+	Query: "22626" ; Times: 1
+	Query: "Geocapromys ingrahami" ; Times: 1
+	Query: "genus:teilhardina" ; Times: 1
+	Query: "229974" ; Times: 1
+	Query: "176575" ; Times: 1
+	Query: "UF 237882" ; Times: 2
+	Query: "UF 237883" ; Times: 1
+	Query: "176578" ; Times: 2
+	Query: "176579" ; Times: 1
+	Query: "gbifdatasetid:2fba9985-ac30-46cb-99bf-91ccde0d8d2f" ; Times: 6
+	Query: "28884" ; Times: 1
+	Query: "specificepithet:corais" ; Times: 1
+	Query: "Canis rufus" ; Times: 4
+	Query: "28860" ; Times: 1
+	Query: "Numenius borealis" ; Times: 8
+	Query: "28862" ; Times: 1
+	Query: "280097" ; Times: 1
+	Query: "28868" ; Times: 1
+	Query: "borophagus" ; Times: 1
+	Query: "26280" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "176891" ; Times: 2
+	Query: "canis rufus mappable:1" ; Times: 1
+	Query: "11531" ; Times: 1
+	Query: "141749" ; Times: 1
+	Query: "Rana capito" ; Times: 1
+	Query: "(panthera onca)" ; Times: 1
+	Query: "mammuthus columbi" ; Times: 1
+	Query: "187218" ; Times: 1
+	Query: "Spheniscus" ; Times: 1
+	Query: "Canis dirus" ; Times: 2
+	Query: "family:Testudinidae order:Testudines stateprovince:&#34;Texas&#34; AND (-Terrapene) mappable:1" ; Times: 1
+	Query: "UF 245539" ; Times: 1
+	Query: "192049" ; Times: 1
+	Query: "176592" ; Times: 1
+	Query: "catalognumber:9022" ; Times: 1
+	Query: "Canis dirus type:specimen" ; Times: 2
+	Query: "65941" ; Times: 1
+	Query: "specificepithet:corais collectioncode:UF" ; Times: 3
+	Query: "order:Testudines stateprovince:&#34;Colorado&#34; mappable:1" ; Times: 1
+	Query: "genus:Nannippus institutioncode:UF mappable:1 fossil:1" ; Times: 1
+	Query: "UF 280673" ; Times: 1
+	Query: "genus:Branta fossil:1" ; Times: 1
+	Query: "176585" ; Times: 1
+	Query: "type:specimen (11531)" ; Times: 1
+	Query: "176587" ; Times: 1
+	Query: "176586" ; Times: 1
+	Query: "petrochelidon fulva" ; Times: 1
+	Query: "sternotherus carinatus" ; Times: 1
+	Query: "176582" ; Times: 1
+	Query: "Pinguinus" ; Times: 1
+	Query: "canis rufus" ; Times: 2
+	Query: "alopias" ; Times: 2
+	Query: "Sciurus niger country:&#34;USA&#34;" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 751 download events in this period)
+Total number of records downloaded: 44935
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 74
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-03 ; Times: 14
+	Date: 2015-11-05 ; Times: 3
+	Date: 2015-11-02 ; Times: 7
+	Date: 2015-11-06 ; Times: 5
+	Date: 2015-11-15 ; Times: 3
+	Date: 2015-11-07 ; Times: 4
+	Date: 2015-11-19 ; Times: 4
+	Date: 2015-11-18 ; Times: 2
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-30 ; Times: 3
+	Date: 2015-11-04 ; Times: 4
+	Date: 2015-11-11 ; Times: 2
+	Date: 2015-11-10 ; Times: 6
+	Date: 2015-11-24 ; Times: 4
+	Date: 2015-11-25 ; Times: 2
+	Date: 2015-11-13 ; Times: 3
+	Date: 2015-11-01 ; Times: 8
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-14 ; Times: 2
+	Date: 2015-11-17 ; Times: 2
+	Date: 2015-11-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "panama boidae" ; Times: 1
+	Query: "class:mammalia stateprovince:California" ; Times: 37
+	Query: "cryptotis parva" ; Times: 1
+	Query: "Sciurus carolinensis country:&#34;USA&#34;" ; Times: 1
+	Query: "type:specimen order:Testudines stateprovince:&#34;Texas&#34; mappable:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:California" ; Times: 2
+	Query: "Tympanuchus cupido" ; Times: 1
+	Query: "class:aves mappable:1 year&gt;=1976 year&lt;=1977" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "genus:Crotalus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "Ursus" ; Times: 1
+	Query: "Sistrurus miliarius type:specimen mappable:1" ; Times: 1
+	Query: "Notophthalmus" ; Times: 1
+	Query: "Canis lupus North America" ; Times: 1
+	Query: "Testudines" ; Times: 1
+	Query: "canis rufus mappable:1" ; Times: 1
+	Query: "Farancia abacura class:Reptilia mappable:1" ; Times: 1
+	Query: "puffinus" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Colorado&#34; mappable:1" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "procyon lotor" ; Times: 2
+	Query: "order:Psittaciformes" ; Times: 2
+	Query: "Numenius borealis" ; Times: 3
+	Query: "bufo marinus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "panama colubridae" ; Times: 1
+	Query: "type:specimen order:Psittaciformes" ; Times: 1
+	Query: "neovison vison" ; Times: 3
+	Query: "Myocastor" ; Times: 1
+	Query: "Rana capito" ; Times: 1
+	Query: "mammuthus columbi" ; Times: 1
+	Query: "class:aves mappable:1 year&gt;=1976 year&lt;=1986" ; Times: 1
+	Query: "Sciurus niger country:&#34;USA&#34;" ; Times: 1
+	Query: "family:Emydidae order:Testudines stateprovince:&#34;Texas&#34; AND (-Terrapene) mappable:1" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
