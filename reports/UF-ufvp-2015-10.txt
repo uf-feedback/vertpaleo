@@ -1,0 +1,134 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 1414
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: United States ; Times: 24
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: Guatemala ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 6
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-19 ; Times: 4
+	Date: 2015-10-27 ; Times: 5
+	Date: 2015-10-29 ; Times: 8
+	Date: 2015-10-28 ; Times: 12
+	Date: 2015-10-30 ; Times: 2
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-23 ; Times: 5
+	Date: 2015-10-22 ; Times: 3
+	Date: 2015-10-20 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "sloth" ; Times: 1
+	Query: "32700" ; Times: 1
+	Query: "270479" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "aristelliger lar" ; Times: 1
+	Query: "smilodon fatalis" ; Times: 2
+	Query: "catalognumber:152961 institutioncode:UF" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Anolis mappable:1 stateprovince:Florida county:Alachua" ; Times: 1
+	Query: "smilodon gracilis" ; Times: 4
+	Query: "mammuthus columbi fossil:1" ; Times: 1
+	Query: "class:Mammalia institutioncode:UF" ; Times: 1
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "USNM 243654" ; Times: 2
+	Query: "specificepithet:Carolinensis genus:Anolis year:1957 mappable:1 stateprovince:Florida" ; Times: 1
+	Query: "Florida Phoenicopterus" ; Times: 4
+	Query: "121056" ; Times: 2
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "dyrosaurus" ; Times: 1
+	Query: "zombie" ; Times: 2
+	Query: "Tyrannosaurus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis mappable:1 stateprovince:Florida county:Marion" ; Times: 2
+	Query: "27542" ; Times: 1
+	Query: "UF 43019" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "blue whale" ; Times: 1
+	Query: "geomys fossil:1" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "institutioncode:uf" ; Times: 3
+	Query: "242887" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "class:amphibia fossil:1" ; Times: 1
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 823 download events in this period)
+Total number of records downloaded: 4400
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 3
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-30 ; Times: 8
+	Date: 2015-10-29 ; Times: 5
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-27 ; Times: 4
+	Date: 2015-10-31 ; Times: 4
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 2
+	Date: 2015-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Adinotherium" ; Times: 1
+	Query: "Sciurus carolinensis country:&#34;USA&#34;" ; Times: 1
+	Query: "bison priscus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "tantilla coronata" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Chelydra" ; Times: 1
+	Query: "Malaclemys terrapin" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "amphiuma means" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+
+
+End of report.
