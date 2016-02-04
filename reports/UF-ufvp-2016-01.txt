@@ -1,0 +1,164 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 849
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 40
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-05 ; Times: 5
+	Date: 2016-01-20 ; Times: 4
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 3
+	Date: 2016-01-24 ; Times: 3
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-08 ; Times: 2
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-23 ; Times: 3
+	Date: 2016-01-19 ; Times: 4
+	Date: 2016-01-07 ; Times: 2
+	Date: 2016-01-13 ; Times: 3
+	Date: 2016-01-12 ; Times: 2
+	Date: 2016-01-11 ; Times: 2
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-14 ; Times: 3
+	Date: 2016-01-31 ; Times: 2
+	Date: 2016-01-30 ; Times: 3
+	Date: 2016-01-25 ; Times: 2
+	Date: 2016-01-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:77896" ; Times: 1
+	Query: "Plesiogulo" ; Times: 1
+	Query: "catalognumber:78131" ; Times: 1
+	Query: "onca type:specimen (Panthera OR Felis)" ; Times: 2
+	Query: "smilodon" ; Times: 1
+	Query: "307865" ; Times: 1
+	Query: "Arctodus fossil:1" ; Times: 1
+	Query: "116021" ; Times: 1
+	Query: "232223" ; Times: 1
+	Query: "mesonychidae" ; Times: 1
+	Query: "amnh 4119" ; Times: 1
+	Query: "type:specimen (Ursidae Arctodus)" ; Times: 1
+	Query: "mobula japanica" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 1
+	Query: "Homoeosaurus" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "116441" ; Times: 1
+	Query: "mesonychia fossil:1" ; Times: 1
+	Query: "Texoceros" ; Times: 1
+	Query: "Moropus" ; Times: 1
+	Query: "125417" ; Times: 1
+	Query: "unsm" ; Times: 1
+	Query: "58820" ; Times: 1
+	Query: "240645" ; Times: 1
+	Query: "Capromeryx" ; Times: 1
+	Query: "zombie" ; Times: 8
+	Query: "216878" ; Times: 1
+	Query: "Farancia abacura" ; Times: 2
+	Query: "rhinoclemmys" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 1
+	Query: "clemmys guttata" ; Times: 2
+	Query: "108529" ; Times: 1
+	Query: "Scaphohippus" ; Times: 1
+	Query: "232235" ; Times: 1
+	Query: "catalognumber:216878" ; Times: 2
+	Query: "176998" ; Times: 1
+	Query: "type:specimen specificepithet:floridanus genus:podomys mappable:1 distance(location,geopoint(28.459033019728043,-82.85888671875))&lt;59773.98665425894" ; Times: 1
+	Query: "genus:Equus" ; Times: 1
+	Query: "tyrannosaurus" ; Times: 1
+	Query: "162073" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "Macrauchenia" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:Haliaeetus year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "FLMNH 47539" ; Times: 1
+	Query: "FLMNH 47538" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 507 download events in this period)
+Total number of records downloaded: 16778
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-31 ; Times: 4
+	Date: 2016-01-30 ; Times: 4
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-26 ; Times: 2
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-03 ; Times: 5
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-05 ; Times: 3
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sagrei" ; Times: 1
+	Query: "genus:haliaeetus year &gt;= 1996 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "mobula japanica" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 7
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "aristelliger" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "Muridae type:specimen country:&#34;USA&#34;" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 3
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: "order:Caudata country:&#34;USA&#34;" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "order:caudata continent:north america" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+
+
+End of report.
