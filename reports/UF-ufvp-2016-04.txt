@@ -1,0 +1,309 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 129
+Number of records retrieved in searches: 1314
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 91
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 3
+	Country: Panama ; Times: 6
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 2
+	Date: 2016-04-28 ; Times: 8
+	Date: 2016-04-07 ; Times: 8
+	Date: 2016-04-06 ; Times: 4
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-04 ; Times: 12
+	Date: 2016-04-21 ; Times: 7
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-09 ; Times: 4
+	Date: 2016-04-22 ; Times: 9
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-27 ; Times: 3
+	Date: 2016-04-26 ; Times: 11
+	Date: 2016-04-08 ; Times: 4
+	Date: 2016-04-18 ; Times: 5
+	Date: 2016-04-19 ; Times: 8
+	Date: 2016-04-14 ; Times: 3
+	Date: 2016-04-15 ; Times: 8
+	Date: 2016-04-16 ; Times: 2
+	Date: 2016-04-17 ; Times: 11
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-12 ; Times: 3
+	Date: 2016-04-13 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:64563" ; Times: 1
+	Query: "Athene AND Island" ; Times: 1
+	Query: "57321" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 3
+	Query: "24556" ; Times: 1
+	Query: "38758" ; Times: 1
+	Query: "28423" ; Times: 2
+	Query: "63498" ; Times: 1
+	Query: "R-15469" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "38882" ; Times: 1
+	Query: "catalognumber:186903" ; Times: 1
+	Query: "218427" ; Times: 1
+	Query: "24268" ; Times: 2
+	Query: "58425" ; Times: 1
+	Query: "stilosoma" ; Times: 3
+	Query: "panthera onca" ; Times: 6
+	Query: "Phoenicopterus ruber type:specimen" ; Times: 1
+	Query: "46748" ; Times: 1
+	Query: "phoenicopterus ruber stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "RHINOPTERIDAE" ; Times: 1
+	Query: "Dissorophus" ; Times: 1
+	Query: "258425" ; Times: 2
+	Query: "38774" ; Times: 1
+	Query: "55830" ; Times: 1
+	Query: "smilodon fatalis" ; Times: 1
+	Query: "catalognumber:63934" ; Times: 1
+	Query: "eryops" ; Times: 1
+	Query: "type:specimen class:mammalia catalognumber:14199" ; Times: 1
+	Query: "175440" ; Times: 1
+	Query: "rhino" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-109.617516))&lt;15000" ; Times: 1
+	Query: "14199 type:specimen class:mammalia" ; Times: 1
+	Query: "zombie" ; Times: 7
+	Query: "108467" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "dasypus FLMNH" ; Times: 2
+	Query: "Sciurus niger type:specimen fossil:1" ; Times: 1
+	Query: "class:aves catalognumber:23552" ; Times: 1
+	Query: "20587" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "octopus" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen AND (NOT roseus)" ; Times: 1
+	Query: "129686" ; Times: 1
+	Query: "184396" ; Times: 1
+	Query: "170562" ; Times: 1
+	Query: "126420" ; Times: 1
+	Query: "57993" ; Times: 1
+	Query: "dasypus FLMNH Alachua Florida" ; Times: 1
+	Query: "catalognumber:186930" ; Times: 1
+	Query: "135680" ; Times: 1
+	Query: "Stegosaurus" ; Times: 1
+	Query: "angeli" ; Times: 1
+	Query: "170933" ; Times: 1
+	Query: "161142" ; Times: 1
+	Query: "Monachus tropicalis" ; Times: 1
+	Query: "gbifdatasetid:2fba9985-ac30-46cb-99bf-91ccde0d8d2f" ; Times: 1
+	Query: "192626" ; Times: 1
+	Query: "MOBULIDAE" ; Times: 1
+	Query: "179835" ; Times: 1
+	Query: "179836" ; Times: 1
+	Query: "21952" ; Times: 1
+	Query: "carcharhinus isodon" ; Times: 1
+	Query: "158056" ; Times: 1
+	Query: "87674" ; Times: 1
+	Query: "314970" ; Times: 2
+	Query: "91380" ; Times: 1
+	Query: "genus:dasypus class:mammalia country:&#34;USA&#34;" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 2
+	Query: "ALOPIIDAE" ; Times: 1
+	Query: "catalognumber:148685" ; Times: 1
+	Query: "67524" ; Times: 3
+	Query: "165880" ; Times: 1
+	Query: "Nodosaurus" ; Times: 1
+	Query: "38875" ; Times: 2
+	Query: "75377" ; Times: 2
+	Query: "ODONTASPIDIDAE" ; Times: 1
+	Query: "smilodon" ; Times: 1
+	Query: "163822" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 1
+	Query: "Pelecanus erythrorhynchos stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "griselda" ; Times: 2
+	Query: "103433" ; Times: 2
+	Query: "26214" ; Times: 1
+	Query: "smilodon gracilis" ; Times: 2
+	Query: "C 0119" ; Times: 1
+	Query: "dimetrodon" ; Times: 1
+	Query: "GINGLYMOSTOMATIDAE" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "156622" ; Times: 1
+	Query: "ALOPIAS VULPINUS" ; Times: 1
+	Query: "UF 108889" ; Times: 2
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "19404" ; Times: 1
+	Query: "222388" ; Times: 1
+	Query: "catalognumber:104238" ; Times: 1
+	Query: "FLMNH 47539" ; Times: 1
+	Query: "FLMNH 47538" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 127 (out of 1312 download events in this period)
+Total number of records downloaded: 74265
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: Panama ; Times: 89
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 2
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-06 ; Times: 3
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-21 ; Times: 3
+	Date: 2016-04-20 ; Times: 5
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-22 ; Times: 35
+	Date: 2016-04-25 ; Times: 2
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-26 ; Times: 5
+	Date: 2016-04-08 ; Times: 4
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-19 ; Times: 38
+	Date: 2016-04-14 ; Times: 3
+	Date: 2016-04-15 ; Times: 2
+	Date: 2016-04-17 ; Times: 2
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-12 ; Times: 3
+	Date: 2016-04-23 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "MONACANTHIDAE" ; Times: 1
+	Query: "MURAENIDAE" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "ACROPOMATIDAE" ; Times: 1
+	Query: "LUTJANIDAE" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "BELONIDAE" ; Times: 1
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "ALBULIDAE" ; Times: 1
+	Query: "HEXANCHIDAE" ; Times: 1
+	Query: "POECILIIDAE" ; Times: 1
+	Query: "genus:dasypus class:mammalia country:&#34;USA&#34;" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "MUGILIDAE" ; Times: 1
+	Query: "ANOMALOPIDAE" ; Times: 1
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "ATHERINIDAE" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "CARCHARHINIDAE" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "heterodontidae" ; Times: 3
+	Query: "OPHIDIIDAE" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "SERRANIDAE" ; Times: 1
+	Query: "BALISTIDAE" ; Times: 1
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "SPHYRAENIDAE" ; Times: 2
+	Query: "HOLOCENTRIDAE" ; Times: 1
+	Query: "phoenicopterus ruber stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "RHINOPTERIDAE" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 1
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "SPHYRNIDAE" ; Times: 1
+	Query: "LABRIDAE" ; Times: 1
+	Query: "TRIGLIDAE" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "ENGRAULIDAE" ; Times: 2
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "OSTRACIIDAE" ; Times: 2
+	Query: "OGCOCEPHALIDAE" ; Times: 1
+	Query: "RHINOBATIDAE" ; Times: 1
+	Query: "APOGONIDAE" ; Times: 2
+	Query: "DIODONTIDAE" ; Times: 1
+	Query: "LAMNIDAE" ; Times: 1
+	Query: "ISTIOPHORIDAE" ; Times: 1
+	Query: "TETRAODONTIDAE" ; Times: 1
+	Query: "temnospondyli" ; Times: 1
+	Query: "lacm mammalia" ; Times: 1
+	Query: "Nactus" ; Times: 1
+	Query: "CLINIDAE" ; Times: 1
+	Query: "HEMIRAMPHIDAE" ; Times: 1
+	Query: "BREGMACEROTIDAE" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "GOBIIDAE" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "UROTRYGONIDAE" ; Times: 1
+	Query: "CYPRINODONTIDAE" ; Times: 1
+	Query: "dasypus FLMNH Alachua Florida" ; Times: 1
+	Query: "ANGUILLIDAE" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "SCORPAENIDAE" ; Times: 1
+	Query: "CENTROPOMIDAE" ; Times: 1
+	Query: "phoebastria" ; Times: 1
+	Query: "lutra lutra mappable:1" ; Times: 1
+	Query: "carcharhinidae" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "Sciurus niger" ; Times: 1
+	Query: "CORYPHAENIDAE" ; Times: 1
+	Query: "MOBULIDAE" ; Times: 1
+	Query: "type:specimen genus:Tachycineta mappable:1" ; Times: 2
+	Query: "CARAPIDAE" ; Times: 2
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "ELOPIDAE" ; Times: 1
+	Query: "BOTHIDAE" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "CENTROPHORIDAE" ; Times: 1
+	Query: "RACHYCENTRIDAE" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "BYTHITIDAE" ; Times: 1
+	Query: "ALOPIIDAE" ; Times: 1
+	Query: "SYNODONTIDAE" ; Times: 2
+	Query: "DALATIIDAE" ; Times: 1
+	Query: "OPISTOGNATHIDAE" ; Times: 1
+	Query: "SPARIDAE" ; Times: 1
+	Query: "POMATOMIDAE" ; Times: 2
+	Query: "DASYATIDAE" ; Times: 1
+	Query: "ODONTASPIDIDAE" ; Times: 1
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "Pelecanus erythrorhynchos stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "GERREIDAE" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "ARIIDAE" ; Times: 1
+	Query: "SCARIDAE" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "TRIAKIDAE" ; Times: 1
+	Query: "LEPISOSTEIDAE" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "TRICHIURIDAE" ; Times: 1
+	Query: "GINGLYMOSTOMATIDAE" ; Times: 1
+	Query: "MORONIDAE" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "Ophisaurus compressus" ; Times: 1
+	Query: "stolzmanni" ; Times: 1
+	Query: "PIMELODIDAE" ; Times: 1
+	Query: "CONGRIDAE" ; Times: 1
+	Query: "EPHIPPIDAE" ; Times: 1
+
+
+End of report.
