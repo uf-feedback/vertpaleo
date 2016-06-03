@@ -1,0 +1,169 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 93
+Number of records retrieved in searches: 1784
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 65
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 1
+	Date: 2016-05-18 ; Times: 6
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-13 ; Times: 7
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-11 ; Times: 3
+	Date: 2016-05-10 ; Times: 1
+	Date: 2016-05-31 ; Times: 19
+	Date: 2016-05-30 ; Times: 4
+	Date: 2016-05-08 ; Times: 3
+	Date: 2016-05-09 ; Times: 5
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-04 ; Times: 4
+	Date: 2016-05-07 ; Times: 4
+	Date: 2016-05-26 ; Times: 3
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 8
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-23 ; Times: 7
+	Date: 2016-05-20 ; Times: 4
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "57306" ; Times: 1
+	Query: "Trachemys scripta scripta stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "kinosternon steindachneri" ; Times: 1
+	Query: "206986" ; Times: 1
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "catalognumber:199499" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 2
+	Query: "catalognumber:199497" ; Times: 1
+	Query: "R-67076" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 11
+	Query: "python molurus" ; Times: 1
+	Query: "Miohippus" ; Times: 3
+	Query: "CROCODYLUS MORELETII" ; Times: 3
+	Query: "catalognumber:178426" ; Times: 1
+	Query: "205638" ; Times: 1
+	Query: "catalognumber:199498" ; Times: 1
+	Query: "solenodon paradoxus" ; Times: 3
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 1
+	Query: "150944" ; Times: 1
+	Query: "104182" ; Times: 1
+	Query: "Dimetrodon" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 1
+	Query: "aeretes" ; Times: 1
+	Query: "cistothorus platensis institutioncode:UF" ; Times: 1
+	Query: "siphonorhis brewsteri" ; Times: 2
+	Query: "catalognumber:95656 OR catalognumber:103274 OR catalognumber:186655 OR catalognumber:186656 OR catalognumber:220658 OR catalognumber:220659 OR catalognumber:220660 OR catalognumber:220661 OR catalognumber:224152 OR catalognumber:224153 OR catalognumber:285575 OR catalognumber:298234 OR catalognumber:301935 OR catalognumber:357942" ; Times: 1
+	Query: "Dinictis" ; Times: 2
+	Query: "187364" ; Times: 1
+	Query: "order:Anura (6584)" ; Times: 2
+	Query: "313891" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "275548" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 1
+	Query: "zombie" ; Times: 4
+	Query: "64234" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 1
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "110018}" ; Times: 1
+	Query: "panthera onca}" ; Times: 2
+	Query: "nesoctites micromegas" ; Times: 1
+	Query: "283175" ; Times: 1
+	Query: "Nebrius" ; Times: 2
+	Query: "catalognumber:66486" ; Times: 1
+	Query: "133942" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "catalognumber:199502" ; Times: 1
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "family:bovidae year &gt;= 1983 year &lt;= 1984" ; Times: 1
+	Query: "catalognumber:59092" ; Times: 1
+	Query: "UF 114321" ; Times: 2
+	Query: "catalognumber:199500" ; Times: 1
+	Query: "catalognumber:56127" ; Times: 1
+	Query: "UF 23945" ; Times: 2
+	Query: "numenius borealis" ; Times: 2
+	Query: "catalognumber:199501" ; Times: 1
+	Query: "genus:Clelia" ; Times: 1
+	Query: "Barbourofelis" ; Times: 2
+	Query: "pyrotherium" ; Times: 2
+	Query: "order:Chiroptera country:&#34;Haiti&#34;" ; Times: 1
+	Query: "290198" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 327 download events in this period)
+Total number of records downloaded: 5608
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 34
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-12 ; Times: 7
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-31 ; Times: 25
+	Date: 2016-05-07 ; Times: 1
+	Date: 2016-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "kinosternon steindachneri" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 5
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "Crocodylus rhombifer" ; Times: 1
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 10
+	Query: "python molurus" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 9
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "cistothorus platensis institutioncode:UF" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "solenodon paradoxus" ; Times: 1
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "mongolia" ; Times: 1
+
+
+End of report.
