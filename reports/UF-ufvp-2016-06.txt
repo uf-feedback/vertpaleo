@@ -1,0 +1,401 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 455
+Number of records retrieved in searches: 15262
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 332
+	Country: Russia ; Times: 7
+	Country: Australia ; Times: 5
+	Country: Portugal ; Times: 20
+	Country: Mexico ; Times: 72
+	Country: Unknown ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Argentina ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 91
+	Date: 2016-06-24 ; Times: 7
+	Date: 2016-06-23 ; Times: 25
+	Date: 2016-06-22 ; Times: 3
+	Date: 2016-06-21 ; Times: 15
+	Date: 2016-06-20 ; Times: 20
+	Date: 2016-06-05 ; Times: 14
+	Date: 2016-06-04 ; Times: 7
+	Date: 2016-06-07 ; Times: 5
+	Date: 2016-06-06 ; Times: 4
+	Date: 2016-06-01 ; Times: 22
+	Date: 2016-06-03 ; Times: 56
+	Date: 2016-06-02 ; Times: 78
+	Date: 2016-06-09 ; Times: 5
+	Date: 2016-06-08 ; Times: 6
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-19 ; Times: 8
+	Date: 2016-06-16 ; Times: 3
+	Date: 2016-06-17 ; Times: 3
+	Date: 2016-06-14 ; Times: 22
+	Date: 2016-06-15 ; Times: 3
+	Date: 2016-06-13 ; Times: 37
+	Date: 2016-06-10 ; Times: 5
+	Date: 2016-06-11 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:144961" ; Times: 1
+	Query: "57529" ; Times: 1
+	Query: "Reptilia 127321" ; Times: 1
+	Query: "Reptilia 127322" ; Times: 1
+	Query: "Reptilia 127323" ; Times: 1
+	Query: "46539" ; Times: 1
+	Query: "Reptilia 314705" ; Times: 1
+	Query: "specificepithet:zygaena genus:Sphyrna" ; Times: 1
+	Query: "Mammuthus imperator" ; Times: 1
+	Query: "bison bison   " ; Times: 6
+	Query: "order:anura institutioncode:UF" ; Times: 3
+	Query: "99393" ; Times: 1
+	Query: "61180" ; Times: 1
+	Query: "catalognumber:54126" ; Times: 1
+	Query: "53562" ; Times: 1
+	Query: "239364" ; Times: 1
+	Query: "49731" ; Times: 1
+	Query: "Reptilia 88686" ; Times: 1
+	Query: "224153" ; Times: 1
+	Query: "129246" ; Times: 1
+	Query: "125408" ; Times: 3
+	Query: "Reptilia 4058" ; Times: 4
+	Query: "Reptilia 259046" ; Times: 1
+	Query: "Reptilia 259049" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "Reptilia 36285" ; Times: 1
+	Query: "108985" ; Times: 1
+	Query: "14352" ; Times: 1
+	Query: "Reptilia 123899" ; Times: 2
+	Query: "Panthera onca" ; Times: 8
+	Query: "18771" ; Times: 1
+	Query: "Reptilia 3459" ; Times: 1
+	Query: "Gopherus 8795" ; Times: 1
+	Query: "Reptilia 6124" ; Times: 1
+	Query: "(unsm)" ; Times: 1
+	Query: "catalognumber:178445" ; Times: 1
+	Query: "263856" ; Times: 1
+	Query: "98762" ; Times: 2
+	Query: "77997" ; Times: 1
+	Query: "Protoceras" ; Times: 1
+	Query: "catalognumber:178448" ; Times: 1
+	Query: "catalognumber:178449" ; Times: 1
+	Query: "8442 mammalia" ; Times: 2
+	Query: "Daeodon" ; Times: 2
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 2
+	Query: "38682" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 3
+	Query: "98765" ; Times: 1
+	Query: "98764" ; Times: 1
+	Query: "106011" ; Times: 3
+	Query: "panthera onca" ; Times: 3
+	Query: "127250" ; Times: 2
+	Query: "53440" ; Times: 1
+	Query: "Reptilia 51340" ; Times: 1
+	Query: "Macrochelys Mississippi" ; Times: 2
+	Query: "141802" ; Times: 1
+	Query: "Tropiduridae 1" ; Times: 6
+	Query: "120059" ; Times: 1
+	Query: "Trachemys scripta 1" ; Times: 6
+	Query: "specificepithet:japanica genus:Mobula" ; Times: 2
+	Query: "128775" ; Times: 1
+	Query: "128774" ; Times: 1
+	Query: "128776" ; Times: 1
+	Query: "111499" ; Times: 3
+	Query: "Reptilia 151029" ; Times: 2
+	Query: "131078" ; Times: 1
+	Query: "Reptilia 150729" ; Times: 1
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 4
+	Query: "26378" ; Times: 1
+	Query: "Prosynthetoceras" ; Times: 6
+	Query: "Margarops fuscatus" ; Times: 1
+	Query: "R.161282" ; Times: 1
+	Query: "145108" ; Times: 1
+	Query: "162089" ; Times: 1
+	Query: "11139" ; Times: 7
+	Query: "Tapirus" ; Times: 1
+	Query: "86655" ; Times: 1
+	Query: "Pomatodelphis" ; Times: 4
+	Query: "98774" ; Times: 1
+	Query: "Reptilia 1003" ; Times: 2
+	Query: "75167" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 2
+	Query: "93683" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "Homo neanderthalensis" ; Times: 1
+	Query: "56134" ; Times: 1
+	Query: "Reptilia 171923" ; Times: 1
+	Query: "152658" ; Times: 1
+	Query: "46494" ; Times: 1
+	Query: "Reptilia 35998" ; Times: 1
+	Query: "88727" ; Times: 1
+	Query: "59041" ; Times: 2
+	Query: "Bathyopsis" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "zombie" ; Times: 7
+	Query: "Reptilia 1794" ; Times: 2
+	Query: "Candoia bibroni lau" ; Times: 2
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "Neovison vison 1" ; Times: 2
+	Query: "141630" ; Times: 1
+	Query: "49990" ; Times: 1
+	Query: "Felis catus" ; Times: 2
+	Query: "118669" ; Times: 1
+	Query: "Pseudemys concinna 1" ; Times: 4
+	Query: "211792" ; Times: 1
+	Query: "157870" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 2
+	Query: "104912" ; Times: 1
+	Query: "27097" ; Times: 1
+	Query: "Reptilia 3462" ; Times: 1
+	Query: "catalognumber:184713" ; Times: 1
+	Query: "Colodon" ; Times: 1
+	Query: "214726" ; Times: 2
+	Query: "251568" ; Times: 1
+	Query: "94314" ; Times: 1
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "98763" ; Times: 1
+	Query: "catalognumber:109343" ; Times: 1
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "Reptilia 20872" ; Times: 1
+	Query: "Reptilia 47463" ; Times: 2
+	Query: "Cervalces" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 17
+	Query: "genus:canis" ; Times: 1
+	Query: "Eptesicus AND Island" ; Times: 1
+	Query: "208318" ; Times: 1
+	Query: "Reptilia 42227" ; Times: 1
+	Query: "98759" ; Times: 1
+	Query: "80106" ; Times: 1
+	Query: "Sus scrofa" ; Times: 5
+	Query: "119164" ; Times: 1
+	Query: "119165" ; Times: 1
+	Query: "160399" ; Times: 3
+	Query: "specificepithet:itajara genus:Epinephelus" ; Times: 1
+	Query: "73277" ; Times: 1
+	Query: "98754" ; Times: 2
+	Query: "Reptilia 42699" ; Times: 1
+	Query: "141529" ; Times: 1
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "Reptilia 24183" ; Times: 1
+	Query: "catalognumber:236324" ; Times: 1
+	Query: "Homo erectus" ; Times: 1
+	Query: "catalognumber:236323" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 54
+	Query: "catalognumber:161331" ; Times: 1
+	Query: "Stegodon" ; Times: 1
+	Query: "38590" ; Times: 1
+	Query: "Candoia bibroni Lau" ; Times: 1
+	Query: "172508" ; Times: 1
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "Reptilia 24643" ; Times: 2
+	Query: "134397" ; Times: 1
+	Query: "64135" ; Times: 1
+	Query: "Reptilia 150723" ; Times: 1
+	Query: "248878" ; Times: 2
+	Query: "Solenodon paradoxus" ; Times: 2
+	Query: "Canis rufus" ; Times: 1
+	Query: "Sternotherus Wayne" ; Times: 1
+	Query: "39534" ; Times: 1
+	Query: "61247" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 1
+	Query: "Lasiurus AND Catalina" ; Times: 1
+	Query: "123899" ; Times: 1
+	Query: "borophagus" ; Times: 2
+	Query: "73821" ; Times: 1
+	Query: "specificepithet:acclivis genus:Larimus" ; Times: 1
+	Query: "72923" ; Times: 1
+	Query: "Asio stygius" ; Times: 2
+	Query: "Reptilia 158017" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "67447" ; Times: 1
+	Query: "Trachemys scripta 50812" ; Times: 1
+	Query: "225762" ; Times: 2
+	Query: "102893" ; Times: 1
+	Query: "Reptilia 23998" ; Times: 1
+	Query: "208320" ; Times: 1
+	Query: "Synthetoceras" ; Times: 1
+	Query: "Reptilia 2490" ; Times: 1
+	Query: "Reptilia 3460" ; Times: 1
+	Query: "167471" ; Times: 1
+	Query: "PRISTIS PRISTIS" ; Times: 1
+	Query: "Reptilia 23129" ; Times: 1
+	Query: "Reptilia 11091" ; Times: 1
+	Query: "204047" ; Times: 1
+	Query: "99609" ; Times: 1
+	Query: "29961" ; Times: 2
+	Query: "Reptilia 40013" ; Times: 1
+	Query: "catalognumber:45180" ; Times: 1
+	Query: "Contopus caribaeus" ; Times: 1
+	Query: "petrochelidon fulva" ; Times: 1
+	Query: "Candoia bibroni aiwa" ; Times: 2
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 4
+	Query: "catalognumber:72923" ; Times: 1
+	Query: "trachemys scripta scripta stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "catalognumber:59500" ; Times: 1
+	Query: "150922" ; Times: 1
+	Query: "genus:Bison" ; Times: 1
+	Query: "169051" ; Times: 1
+	Query: "59028" ; Times: 1
+	Query: "118956" ; Times: 1
+	Query: "Catagonus" ; Times: 1
+	Query: "specificepithet:mokarran genus:Sphyrna" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "14557" ; Times: 1
+	Query: "59026" ; Times: 1
+	Query: "281873" ; Times: 1
+	Query: "Reptilia 8516" ; Times: 2
+	Query: "Python molurus " ; Times: 2
+	Query: "281874" ; Times: 1
+	Query: "genus:bison" ; Times: 4
+	Query: "106853" ; Times: 3
+	Query: "30753" ; Times: 1
+	Query: "Reptilia 93437" ; Times: 1
+	Query: "150223" ; Times: 1
+	Query: "R 175527" ; Times: 1
+	Query: "Homo habilis" ; Times: 1
+	Query: "147216" ; Times: 1
+	Query: "16754" ; Times: 2
+	Query: "Canis lupus familiaris" ; Times: 2
+	Query: "137030" ; Times: 1
+	Query: "124151" ; Times: 1
+	Query: "164118" ; Times: 1
+	Query: "97086" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 1
+	Query: "211571" ; Times: 1
+	Query: "103398" ; Times: 1
+	Query: "Mammuthus columbi" ; Times: 4
+	Query: "208317" ; Times: 1
+	Query: "Tyrannosaurus rex" ; Times: 1
+	Query: "45816" ; Times: 1
+	Query: "50388" ; Times: 1
+	Query: "Reptilia 150718" ; Times: 1
+	Query: "Coryphodon" ; Times: 3
+	Query: "catalognumber:54126 year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "Reptilia 8223" ; Times: 1
+	Query: "77593" ; Times: 1
+	Query: "61092" ; Times: 1
+	Query: "139591" ; Times: 1
+	Query: "canis lupus   " ; Times: 6
+	Query: "25087" ; Times: 1
+	Query: "catalognumber:198383" ; Times: 1
+	Query: "112237" ; Times: 1
+	Query: "109843" ; Times: 1
+	Query: "canis rufus" ; Times: 8
+	Query: "96908" ; Times: 1
+	Query: "127778" ; Times: 1
+	Query: "homo habilis" ; Times: 6
+	Query: "Procyon lotor 1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 85 (out of 1052 download events in this period)
+Total number of records downloaded: 30895
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 50
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 28
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-23 ; Times: 5
+	Date: 2016-06-08 ; Times: 6
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-20 ; Times: 2
+	Date: 2016-06-05 ; Times: 3
+	Date: 2016-06-17 ; Times: 5
+	Date: 2016-06-14 ; Times: 17
+	Date: 2016-06-15 ; Times: 7
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-13 ; Times: 19
+	Date: 2016-06-03 ; Times: 8
+	Date: 2016-06-02 ; Times: 6
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "grus americana" ; Times: 3
+	Query: "deirochelys" ; Times: 2
+	Query: "Graptemys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "Catagonus" ; Times: 1
+	Query: "Gopherus" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "class:Reptilia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Eschrichtius ROBUSTUS" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 2
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Rhinoclemmys" ; Times: 1
+	Query: "genus:Nerodia mappable:1" ; Times: 1
+	Query: "lagenorhynchus" ; Times: 3
+	Query: "Trachemys" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "peromyscus gossypinus" ; Times: 1
+	Query: "puma concolor" ; Times: 6
+	Query: "Meleagris" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "Neovison vison" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "type:specimen genus:Anolis" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "celestus costatus" ; Times: 1
+	Query: "genus:lepidochelys" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "Marmota monax" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "micrurus fulvius year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Rhadinaea" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "iguana" ; Times: 1
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "PRISTIS PRISTIS" ; Times: 1
+
+
+End of report.
