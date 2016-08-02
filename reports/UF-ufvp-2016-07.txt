@@ -1,0 +1,227 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 202
+Number of records retrieved in searches: 8786
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 123
+	Country: Portugal ; Times: 16
+	Country: Mexico ; Times: 29
+	Country: Denmark ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: Japan ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 3
+	Date: 2016-07-10 ; Times: 3
+	Date: 2016-07-13 ; Times: 7
+	Date: 2016-07-12 ; Times: 1
+	Date: 2016-07-15 ; Times: 5
+	Date: 2016-07-14 ; Times: 24
+	Date: 2016-07-17 ; Times: 2
+	Date: 2016-07-19 ; Times: 10
+	Date: 2016-07-18 ; Times: 26
+	Date: 2016-07-20 ; Times: 6
+	Date: 2016-07-07 ; Times: 4
+	Date: 2016-07-24 ; Times: 1
+	Date: 2016-07-25 ; Times: 1
+	Date: 2016-07-26 ; Times: 2
+	Date: 2016-07-27 ; Times: 26
+	Date: 2016-07-06 ; Times: 1
+	Date: 2016-07-21 ; Times: 2
+	Date: 2016-07-22 ; Times: 7
+	Date: 2016-07-08 ; Times: 10
+	Date: 2016-07-09 ; Times: 5
+	Date: 2016-07-28 ; Times: 12
+	Date: 2016-07-29 ; Times: 44
+
+List of queries that retrieved data from the resource: 
+	Query: "244460" ; Times: 1
+	Query: "29865" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 1
+	Query: "Ectopistes migratorius virginia" ; Times: 2
+	Query: "UF 167277" ; Times: 2
+	Query: "Amphicyon" ; Times: 2
+	Query: "class:Mammalia county:&#34;Colleton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "R-66881" ; Times: 1
+	Query: "Branta dickeyi" ; Times: 1
+	Query: "Blastomeryx" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "family:Boidae country:&#34;Colombia&#34;" ; Times: 1
+	Query: "R-69104" ; Times: 1
+	Query: "78681" ; Times: 1
+	Query: "panthera onca" ; Times: 20
+	Query: "\152624" ; Times: 1
+	Query: "UF 157832" ; Times: 3
+	Query: "family:Boidae country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:nigromaculatus genus:Pomoxis" ; Times: 3
+	Query: "Trachemys scripta 1" ; Times: 3
+	Query: "specificepithet:japanica genus:Mobula" ; Times: 1
+	Query: "catalognumber:195940" ; Times: 1
+	Query: "36294" ; Times: 1
+	Query: "152624" ; Times: 1
+	Query: "catalognumber:161206" ; Times: 1
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 1
+	Query: "189561" ; Times: 3
+	Query: "189562" ; Times: 1
+	Query: "class:Reptilia county:&#34;Dorchester&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "59664" ; Times: 1
+	Query: "104370" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Carcharhinus" ; Times: 1
+	Query: "family:dasypodidae (shell)" ; Times: 1
+	Query: "UF 156936" ; Times: 3
+	Query: "144023" ; Times: 2
+	Query: "ectopistes migratorius virginia" ; Times: 2
+	Query: "UF 156938" ; Times: 2
+	Query: "Amazona leucocephala 1" ; Times: 1
+	Query: "69104" ; Times: 1
+	Query: "18611" ; Times: 1
+	Query: "specificepithet:terraenovae genus:Rhizoprionodon" ; Times: 1
+	Query: "117822" ; Times: 1
+	Query: "zombie" ; Times: 1
+	Query: "specificepithet:oxyrinchus genus:Isurus" ; Times: 1
+	Query: "167613" ; Times: 1
+	Query: "271751" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 1
+	Query: "41533" ; Times: 1
+	Query: "Oxyura jamaicensis 1" ; Times: 1
+	Query: "Neovison vison 1" ; Times: 2
+	Query: "specificepithet:faber genus:Chaetodipterus" ; Times: 1
+	Query: "Asio stygius" ; Times: 2
+	Query: "specificepithet:limbatus genus:Carcharhinus" ; Times: 1
+	Query: "Pseudemys concinna 1" ; Times: 1
+	Query: "catalognumber:1215" ; Times: 1
+	Query: "36259 fossil:1" ; Times: 2
+	Query: "Myocastor coypus 1" ; Times: 1
+	Query: "specificepithet:undulatus genus:Micropogonias" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "189484" ; Times: 1
+	Query: "Oxyura hulberti" ; Times: 1
+	Query: "257864" ; Times: 1
+	Query: "catalognumber:18873" ; Times: 1
+	Query: "26335" ; Times: 1
+	Query: "Dendrocygna autumnalis 1" ; Times: 1
+	Query: "specificepithet:vulpinus genus:Alopias" ; Times: 1
+	Query: "specificepithet:xanthurus genus:Leiostomus" ; Times: 2
+	Query: "type:specimen catalognumber:3956" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 2
+	Query: "amorphochilus schnablii" ; Times: 4
+	Query: "gbifdatasetid:2fba9985-ac30-46cb-99bf-91ccde0d8d2f" ; Times: 1
+	Query: "class:Mammalia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 3
+	Query: "R.65002" ; Times: 1
+	Query: "garciae" ; Times: 2
+	Query: "specificepithet:nebulosus genus:Cynoscion" ; Times: 1
+	Query: "24340" ; Times: 1
+	Query: "specificepithet:osseus genus:Lepisosteus" ; Times: 1
+	Query: "specificepithet:acclivis genus:Larimus" ; Times: 1
+	Query: "36259" ; Times: 1
+	Query: "specificepithet:narinari genus:Aetobatus" ; Times: 1
+	Query: "specificepithet:brevirostris genus:Negaprion" ; Times: 1
+	Query: "numenius borealis" ; Times: 2
+	Query: "36394" ; Times: 1
+	Query: "class:Mammalia county:&#34;Florence&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "30033" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 1
+	Query: "specificepithet:cromis genus:Pogonias" ; Times: 1
+	Query: "catalognumber:170844" ; Times: 2
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 3
+	Query: "Calyptophilus frugivorus" ; Times: 1
+	Query: "catalognumber:218579" ; Times: 1
+	Query: "Meleagris gallopavo 1" ; Times: 1
+	Query: "recordedby:Neeley" ; Times: 1
+	Query: "22406" ; Times: 1
+	Query: "UF 176984" ; Times: 2
+	Query: "Colinus virginianus 1" ; Times: 2
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "class:Mammalia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:crocodylus country:&#34;MEXICO&#34;" ; Times: 2
+	Query: "class:Reptilia county:&#34;Colleton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:guttata genus:Clemmys stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "buccinator" ; Times: 3
+	Query: "217877" ; Times: 1
+	Query: "specificepithet:vulpes genus:Albula" ; Times: 1
+	Query: "specificepithet:mokarran genus:Sphyrna" ; Times: 1
+	Query: "catalognumber:49041" ; Times: 1
+	Query: "206575" ; Times: 1
+	Query: "156543" ; Times: 1
+	Query: "95894" ; Times: 1
+	Query: "catalognumber:80029" ; Times: 2
+	Query: "tyrannosaurus" ; Times: 1
+	Query: "catalognumber:86029" ; Times: 1
+	Query: "specificepithet:chrysoptera genus:Orthopristis" ; Times: 1
+	Query: "catalognumber:200652" ; Times: 3
+	Query: "anolis cybotes florida" ; Times: 1
+	Query: "UF 157813" ; Times: 4
+	Query: "class:Mammalia county:&#34;Dorchester&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "74206" ; Times: 3
+	Query: "Procyon lotor 1" ; Times: 18
+	Query: "140561" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1219 download events in this period)
+Total number of records downloaded: 14075
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: France ; Times: 1
+	Country: United States ; Times: 19
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-24 ; Times: 3
+	Date: 2016-07-10 ; Times: 1
+	Date: 2016-07-13 ; Times: 1
+	Date: 2016-07-27 ; Times: 1
+	Date: 2016-07-20 ; Times: 3
+	Date: 2016-07-14 ; Times: 3
+	Date: 2016-07-22 ; Times: 1
+	Date: 2016-07-19 ; Times: 2
+	Date: 2016-07-08 ; Times: 3
+	Date: 2016-07-09 ; Times: 4
+	Date: 2016-07-28 ; Times: 1
+	Date: 2016-07-29 ; Times: 1
+	Date: 2016-07-11 ; Times: 2
+	Date: 2016-07-07 ; Times: 7
+	Date: 2016-07-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Erimyzon sucetta" ; Times: 1
+	Query: "type:specimen specificepithet:novemcinctus genus:dasypus" ; Times: 1
+	Query: "marmota monax type:specimen" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "agamidae" ; Times: 1
+	Query: "dasypodidae" ; Times: 1
+	Query: "amorphochilus schnablii" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "buccinator" ; Times: 1
+	Query: "Reithrodontomys humulis type:specimen" ; Times: 1
+	Query: "family:dasypodidae" ; Times: 1
+	Query: "boidae" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "mammalia Mexico" ; Times: 4
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Erethizon dorsatum type:specimen" ; Times: 1
+	Query: "perognathus" ; Times: 2
+	Query: "reptilia Mexico" ; Times: 6
+	Query: "Dipodomys" ; Times: 1
+	Query: "Peromyscus polionotus type:specimen" ; Times: 1
+
+
+End of report.
