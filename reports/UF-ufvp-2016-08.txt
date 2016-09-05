@@ -1,0 +1,248 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 213
+Number of records retrieved in searches: 10290
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 177
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 17
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 5
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-13 ; Times: 2
+	Date: 2016-08-14 ; Times: 3
+	Date: 2016-08-15 ; Times: 18
+	Date: 2016-08-16 ; Times: 24
+	Date: 2016-08-17 ; Times: 8
+	Date: 2016-08-18 ; Times: 5
+	Date: 2016-08-19 ; Times: 15
+	Date: 2016-08-30 ; Times: 12
+	Date: 2016-08-31 ; Times: 6
+	Date: 2016-08-29 ; Times: 3
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-25 ; Times: 7
+	Date: 2016-08-24 ; Times: 15
+	Date: 2016-08-27 ; Times: 4
+	Date: 2016-08-26 ; Times: 5
+	Date: 2016-08-21 ; Times: 4
+	Date: 2016-08-20 ; Times: 58
+	Date: 2016-08-09 ; Times: 3
+	Date: 2016-08-22 ; Times: 5
+	Date: 2016-08-23 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:bonasus genus:Rhinoptera" ; Times: 2
+	Query: "257864" ; Times: 1
+	Query: "270479" ; Times: 1
+	Query: "catalognumber:114007" ; Times: 1
+	Query: "Aepyornis" ; Times: 2
+	Query: "class:Osteichthyes type:specimen mappable:1" ; Times: 1
+	Query: "catalognumber:115634" ; Times: 1
+	Query: "specificepithet:olivaris genus:Pylodictis" ; Times: 1
+	Query: "137291 uf" ; Times: 3
+	Query: "specificepithet:cepedianus genus:Notorynchus" ; Times: 1
+	Query: "108905" ; Times: 1
+	Query: "Trachemys scripta stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "200271" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "Dicynodon" ; Times: 1
+	Query: "chelonoidis" ; Times: 5
+	Query: "panthera onca" ; Times: 1
+	Query: "lutra institutioncode:UF" ; Times: 1
+	Query: "specificepithet:brevipinna genus:Carcharhinus" ; Times: 1
+	Query: "catalognumber:25201" ; Times: 1
+	Query: "285672" ; Times: 1
+	Query: "specificepithet:japanica genus:Mobula" ; Times: 1
+	Query: "Patton 23711" ; Times: 1
+	Query: "254751" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus institutioncode:UF" ; Times: 2
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 2
+	Query: "specificepithet:maximus genus:Lachnolaimus" ; Times: 2
+	Query: "217907" ; Times: 3
+	Query: "trachemys scripta stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "nasua institutioncode:UF" ; Times: 2
+	Query: "specificepithet:brachyurus genus:Carcharhinus" ; Times: 1
+	Query: "lontra fossil:1" ; Times: 6
+	Query: "140640 uf" ; Times: 4
+	Query: "96656" ; Times: 1
+	Query: "ectopistes migratorius virginia" ; Times: 1
+	Query: "52883" ; Times: 1
+	Query: "catalognumber:116487" ; Times: 1
+	Query: "specificepithet:acronotus genus:Carcharhinus" ; Times: 1
+	Query: "specificepithet:nigromaculatus genus:Pomoxis" ; Times: 4
+	Query: "catagonus" ; Times: 3
+	Query: "specificepithet:saxatilis genus:Morone" ; Times: 2
+	Query: "catalognumber:119809" ; Times: 1
+	Query: "zombie" ; Times: 7
+	Query: "specificepithet:oxyrinchus genus:Isurus" ; Times: 3
+	Query: "specificepithet:sapidissima genus:Alosa" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 1
+	Query: "Syndyoceras" ; Times: 1
+	Query: "133833" ; Times: 1
+	Query: "95656" ; Times: 1
+	Query: "nasua AND (NOT narica) institutioncode:UF" ; Times: 2
+	Query: "Spinosaurus aegyptiacus" ; Times: 1
+	Query: "specificepithet:undulatus genus:Micropogonias" ; Times: 2
+	Query: "164650" ; Times: 1
+	Query: "specificepithet:seminolus genus:lasiurus institutioncode:UF" ; Times: 2
+	Query: "sloth" ; Times: 1
+	Query: "Megantereon" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "21820" ; Times: 1
+	Query: "type:specimen specificepithet:constrictor genus:Boa mappable:1" ; Times: 2
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 2
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 3
+	Query: "137479 uf" ; Times: 3
+	Query: "lontra canadensis fossil:1" ; Times: 5
+	Query: "specificepithet:xanthurus genus:Leiostomus" ; Times: 3
+	Query: "stilosoma extenuatum" ; Times: 1
+	Query: "trachemys scripta scripta south carolina" ; Times: 1
+	Query: "specificepithet:superciliosus genus:Alopias" ; Times: 1
+	Query: "amorphochilus schnablii" ; Times: 2
+	Query: "gbifdatasetid:2fba9985-ac30-46cb-99bf-91ccde0d8d2f" ; Times: 4
+	Query: "266624" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 2
+	Query: "72619" ; Times: 1
+	Query: "specificepithet:nebulosus genus:Cynoscion" ; Times: 1
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "specificepithet:falciformis genus:Carcharhinus" ; Times: 2
+	Query: "specificepithet:obscurus genus:Carcharhinus" ; Times: 1
+	Query: "114007" ; Times: 1
+	Query: "175126" ; Times: 1
+	Query: "64030" ; Times: 1
+	Query: "specificepithet:osseus genus:Lepisosteus" ; Times: 2
+	Query: "specificepithet:acclivis genus:Larimus" ; Times: 2
+	Query: "specificepithet:narinari genus:Aetobatus" ; Times: 1
+	Query: "mustela AND (NOT erminea AND NOT frenata AND NOT nivalis AND NOT vison) institutioncode:UF" ; Times: 2
+	Query: "specificepithet:brevirostris genus:Negaprion" ; Times: 4
+	Query: "genus:onychomys fossil:1" ; Times: 1
+	Query: "specificepithet:limbatus genus:Carcharhinus" ; Times: 2
+	Query: "specificepithet:hippos genus:Caranx" ; Times: 3
+	Query: "specificepithet:faber genus:Chaetodipterus" ; Times: 2
+	Query: "Thrinaxodon" ; Times: 1
+	Query: "panthera onca mappable:1" ; Times: 1
+	Query: "286108" ; Times: 1
+	Query: "specificepithet:cuvier genus:Galeocerdo" ; Times: 1
+	Query: "Smilodon gracilis" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 2
+	Query: "71290" ; Times: 1
+	Query: "specificepithet:taurus genus:Carcharias" ; Times: 1
+	Query: "44536" ; Times: 1
+	Query: "catalognumber:41513" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 8
+	Query: "169695" ; Times: 1
+	Query: "92074" ; Times: 1
+	Query: "92074 uf" ; Times: 2
+	Query: "specificepithet:foetens genus:Synodus" ; Times: 1
+	Query: "specificepithet:salmoides genus:Micropterus" ; Times: 1
+	Query: "&#34;seminole field&#34; fossil:1" ; Times: 1
+	Query: "type:specimen stateprovince:&#34;Virginia&#34; (Erethizon)" ; Times: 1
+	Query: "10923 UF" ; Times: 1
+	Query: "Homo sapiens" ; Times: 3
+	Query: "tapirus" ; Times: 2
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "13787" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 5
+	Query: "specificepithet:vulpes genus:Albula" ; Times: 1
+	Query: "specificepithet:carcharias genus:Carcharodon" ; Times: 2
+	Query: "Emoia trossula" ; Times: 1
+	Query: "catalognumber:11355 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:120426" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "10923 uf" ; Times: 5
+	Query: "Barbourofelis" ; Times: 3
+	Query: "catalognumber:61565 institutioncode:UF" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 924 download events in this period)
+Total number of records downloaded: 61349
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Unknown ; Times: 4
+	Country: Austria ; Times: 1
+	Country: Mexico ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 7
+	Date: 2016-08-28 ; Times: 3
+	Date: 2016-08-18 ; Times: 6
+	Date: 2016-08-24 ; Times: 4
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 9
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 2
+	Date: 2016-08-30 ; Times: 5
+	Date: 2016-08-22 ; Times: 4
+	Date: 2016-08-25 ; Times: 4
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-14 ; Times: 2
+	Date: 2016-08-31 ; Times: 2
+	Date: 2016-08-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "Anolis" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "genus:Equus fossil:1" ; Times: 1
+	Query: "Sternotherus minor" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "lontra canadensis fossil:1" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Chondrichthyes" ; Times: 1
+	Query: "Clelia clelia (Clelia AND clelia)" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1980" ; Times: 1
+	Query: "lontra fossil:1" ; Times: 4
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "myotis grisescens" ; Times: 1
+	Query: "type:specimen stateprovince:&#34;Virginia&#34; (Erethizon)" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "anolis cybotes" ; Times: 1
+	Query: "Ambystoma tigrinum tigrinum AND (NOT mavortium) mappable:1" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 2
+	Query: "order:Chiroptera country:&#34;Peru&#34;" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "anolis sagrei" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "Pituophis catenifer" ; Times: 2
+	Query: "lutra" ; Times: 1
+	Query: "echimyidae" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "mammalia Cryptotis" ; Times: 2
+
+
+End of report.
