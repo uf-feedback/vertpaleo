@@ -1,0 +1,175 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 117
+Number of records retrieved in searches: 6300
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 50
+	Country: Portugal ; Times: 55
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-02 ; Times: 5
+	Date: 2016-09-21 ; Times: 3
+	Date: 2016-09-13 ; Times: 9
+	Date: 2016-09-12 ; Times: 2
+	Date: 2016-09-11 ; Times: 2
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-08 ; Times: 31
+	Date: 2016-09-09 ; Times: 23
+	Date: 2016-09-14 ; Times: 6
+	Date: 2016-09-04 ; Times: 6
+	Date: 2016-09-05 ; Times: 8
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-07 ; Times: 17
+	Date: 2016-09-01 ; Times: 2
+	Date: 2016-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "21963" ; Times: 2
+	Query: "234374" ; Times: 1
+	Query: "catalognumber:12498" ; Times: 1
+	Query: "218939" ; Times: 1
+	Query: "Chrysemys picta 1" ; Times: 1
+	Query: "77230" ; Times: 1
+	Query: "227520" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "Anas cyanoptera 1" ; Times: 2
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 1
+	Query: "Dermoptera AND (USA) mappable:1" ; Times: 1
+	Query: "Anas crecca 1" ; Times: 1
+	Query: "Aramus guarauna 1" ; Times: 1
+	Query: "Anas discors 1" ; Times: 2
+	Query: "Procoptodon" ; Times: 3
+	Query: "Bubo virginianus 1" ; Times: 1
+	Query: "Dendrocygna autumnalis 1" ; Times: 2
+	Query: "118309" ; Times: 2
+	Query: "Cygnus columbianus 1" ; Times: 1
+	Query: "137925" ; Times: 1
+	Query: "stateprovince:&#34;Aguascalientes&#34; fossil:1" ; Times: 1
+	Query: "Anas americana 1" ; Times: 3
+	Query: "Colinus virginianus 1" ; Times: 5
+	Query: "specificepithet:griseus genus:Hexanchus" ; Times: 1
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 1
+	Query: "specificepithet:seminolus genus:lasiurus stateprovince:&#34;florida&#34; institutioncode:UF" ; Times: 1
+	Query: "type:specimen specificepithet:portoricensis genus:Isolobodon" ; Times: 3
+	Query: "Cathartes aura 1" ; Times: 1
+	Query: "Amorphochilus" ; Times: 3
+	Query: "Meleagris gallopavo 1" ; Times: 2
+	Query: "Anolis sagrei sagrei  1" ; Times: 1
+	Query: "anolis leachii" ; Times: 2
+	Query: "Lophodytes cucullatus 1" ; Times: 2
+	Query: "Heterodon county:&#34;Augusta&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "72673" ; Times: 1
+	Query: "70064" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 5
+	Query: "Amazona leucocephala 1" ; Times: 2
+	Query: "Anas rubripes 1" ; Times: 1
+	Query: "140930" ; Times: 1
+	Query: "catagonus" ; Times: 2
+	Query: "Tapirus" ; Times: 1
+	Query: "Haliaeetus leucocephalus 1" ; Times: 1
+	Query: "Sturnella magna 1" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 3
+	Query: "Meleagris ocellata 1" ; Times: 1
+	Query: "120126" ; Times: 1
+	Query: "R-185165" ; Times: 1
+	Query: "Aquila chrysaetos 1" ; Times: 1
+	Query: "Molossidae Eumops floridanus" ; Times: 3
+	Query: "Anthracothorax dominicus 1" ; Times: 1
+	Query: "Neovison vison 1" ; Times: 2
+	Query: "Dolichonyx oryzivorus 1" ; Times: 1
+	Query: "27582" ; Times: 1
+	Query: "25239" ; Times: 1
+	Query: "Bucephala clangula 1" ; Times: 1
+	Query: "Ortalis vetula 1" ; Times: 1
+	Query: "Buteo jamaicensis 1" ; Times: 1
+	Query: "99447" ; Times: 1
+	Query: "Bubo bubo 1" ; Times: 1
+	Query: "Aythya valisineria 1" ; Times: 1
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "44736" ; Times: 1
+	Query: "Pseudemys concinna 1" ; Times: 1
+	Query: "69273" ; Times: 1
+	Query: "Aix sponsa 1" ; Times: 2
+	Query: "82991" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 1
+	Query: "Eudocimus albus 1" ; Times: 1
+	Query: "Anolis sagrei 1" ; Times: 1
+	Query: "Apalone ferox 1" ; Times: 1
+	Query: "Grus canadensis 1" ; Times: 2
+	Query: "Trachemys scripta 1" ; Times: 3
+	Query: "9795 class:Aves" ; Times: 1
+	Query: "Cygnus buccinator" ; Times: 2
+	Query: "floridanus eumops" ; Times: 1
+	Query: "Cardinalis cardinalis 1" ; Times: 2
+	Query: "specificepithet:obscurus genus:Carcharhinus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 100 (out of 811 download events in this period)
+Total number of records downloaded: 446
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 92
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 4
+	Date: 2016-09-12 ; Times: 3
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-08 ; Times: 23
+	Date: 2016-09-09 ; Times: 2
+	Date: 2016-09-14 ; Times: 1
+	Date: 2016-09-04 ; Times: 4
+	Date: 2016-09-05 ; Times: 7
+	Date: 2016-09-06 ; Times: 18
+	Date: 2016-09-07 ; Times: 23
+	Date: 2016-09-01 ; Times: 2
+	Date: 2016-09-02 ; Times: 8
+	Date: 2016-09-03 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Agkistrodon piscivorus specificepithet:piscivorus genus:Agkistrodon year &gt;= 1980 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Anthracothorax dominicus" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 1
+	Query: "falco peregrinus continent:america" ; Times: 1
+	Query: "cistothorus platensis type:specimen" ; Times: 1
+	Query: "Amorphochilus" ; Times: 1
+	Query: "Natalus" ; Times: 1
+	Query: "(dermoptera) mappable:1" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 23
+	Query: "artibeus jamaicensis" ; Times: 1
+	Query: "clelia" ; Times: 2
+	Query: "anolis ricordi" ; Times: 1
+	Query: "bufo woodhousii" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 47
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "Cygnus buccinator" ; Times: 1
+	Query: "cygnus" ; Times: 1
+	Query: "Conepatus leuconotus" ; Times: 1
+	Query: "Aimophila aestivalis" ; Times: 1
+	Query: "&#34;dermoptera&#34; mappable:1" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Idaho&#34;" ; Times: 4
+	Query: "dermoptera" ; Times: 2
+
+
+End of report.
