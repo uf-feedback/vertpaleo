@@ -1,0 +1,253 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 213
+Number of records retrieved in searches: 6903
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 8
+	Country: Colombia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 15
+	Country: Finland ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Austria ; Times: 1
+	Country: China ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Puerto Rico ; Times: 10
+	Country: Germany ; Times: 1
+	Country: United States ; Times: 144
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 4
+	Date: 2018-05-29 ; Times: 4
+	Date: 2018-05-20 ; Times: 5
+	Date: 2018-05-21 ; Times: 9
+	Date: 2018-05-22 ; Times: 11
+	Date: 2018-05-23 ; Times: 27
+	Date: 2018-05-24 ; Times: 6
+	Date: 2018-05-25 ; Times: 4
+	Date: 2018-05-27 ; Times: 1
+	Date: 2018-05-07 ; Times: 9
+	Date: 2018-05-04 ; Times: 20
+	Date: 2018-05-05 ; Times: 2
+	Date: 2018-05-02 ; Times: 8
+	Date: 2018-05-03 ; Times: 11
+	Date: 2018-05-01 ; Times: 8
+	Date: 2018-05-08 ; Times: 6
+	Date: 2018-05-09 ; Times: 18
+	Date: 2018-05-30 ; Times: 4
+	Date: 2018-05-15 ; Times: 4
+	Date: 2018-05-14 ; Times: 8
+	Date: 2018-05-17 ; Times: 15
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-11 ; Times: 5
+	Date: 2018-05-10 ; Times: 12
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-12 ; Times: 3
+	Date: 2018-05-19 ; Times: 3
+	Date: 2018-05-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "71073" ; Times: 1
+	Query: "11051" ; Times: 1
+	Query: "specificepithet:ruber genus:phoenicopterus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "uf 65783" ; Times: 1
+	Query: "catalognumber:151832" ; Times: 1
+	Query: "vntype:specimen specificepithet:hasitata genus:Pterodroma" ; Times: 1
+	Query: "155132" ; Times: 1
+	Query: "155131" ; Times: 1
+	Query: "catalognumber:121173" ; Times: 1
+	Query: "149388" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "109699" ; Times: 1
+	Query: "chilabothrus" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Panthera onca" ; Times: 11
+	Query: "24432" ; Times: 2
+	Query: "order:Chiroptera AND hastypestatus:1 AND NOT (MSB)" ; Times: 2
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "18002" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus mappable:1 year&gt;=2000" ; Times: 2
+	Query: "panthera onca" ; Times: 3
+	Query: "37184" ; Times: 1
+	Query: "125990" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "genus:pecari institutioncode:UF" ; Times: 1
+	Query: "Diplocaulus" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 12
+	Query: "catalognumber:223155" ; Times: 1
+	Query: "class:Reptilia country:&#34;Colombia&#34; institutioncode:UF" ; Times: 2
+	Query: "10048" ; Times: 1
+	Query: "distance(location,geopoint(37.6772884172284,-89.0633709977937))&lt;27695" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "catalognumber:95077" ; Times: 1
+	Query: "eumops floridanus" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "class:Reptilia country:&#34;Colombia&#34; AND (NOT SAURIA NOT CROCODYLIA) institutioncode:UF" ; Times: 2
+	Query: "specificepithet:carolina genus:Terrapene county:&#34;De Soto&#34; stateprovince:&#34;Florida&#34;" ; Times: 4
+	Query: "vntype:specimen genus:Diplocaulus basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "275720" ; Times: 1
+	Query: "institutioncode:uf Conuropsis" ; Times: 1
+	Query: "95215" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 1
+	Query: "275719" ; Times: 1
+	Query: "class:Reptilia country:&#34;Honduras&#34; AND (NOT SAURIA NOT CROCODYLIA) institutioncode:UF" ; Times: 2
+	Query: "genus:Diplocaulus basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "266166" ; Times: 1
+	Query: "family:tayassuidae institutioncode:UF" ; Times: 2
+	Query: "specificepithet:holbrookii genus:Scaphiopus institutioncode:UF" ; Times: 2
+	Query: "mbr 5322" ; Times: 1
+	Query: "vntype:specimen order:Nectridea basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "zombie" ; Times: 3
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "Spizaetus" ; Times: 1
+	Query: "40447" ; Times: 2
+	Query: "specificepithet:cinerea genus:Hyla institutioncode:UF" ; Times: 2
+	Query: "37232" ; Times: 1
+	Query: "specificepithet:carolina genus:Terrapene county:&#34;Hardee&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "specificepithet:polionotus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "stateprovince:&#34;nebraska&#34; institutioncode:UF" ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "Carcharias taurus" ; Times: 4
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys mappable:1 year&gt;=2000" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979 institutioncode:UF" ; Times: 1
+	Query: "UF 65801" ; Times: 1
+	Query: "impennis" ; Times: 1
+	Query: "107218" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor mappable:1 year&gt;=2000" ; Times: 1
+	Query: "aepyornis" ; Times: 4
+	Query: "catalognumber:52212 institutioncode:UF" ; Times: 2
+	Query: "specificepithet:bicolor genus:Tiaris" ; Times: 1
+	Query: "catalognumber:238981" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolina genus:Terrapene county:&#34;De Soto&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "27634" ; Times: 1
+	Query: "133988" ; Times: 1
+	Query: "Tyrannus caudifasciatus" ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "catalognumber:128267 institutioncode:UF" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969 institutioncode:UF" ; Times: 1
+	Query: "clemmys guttata stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "44963" ; Times: 1
+	Query: "105031" ; Times: 1
+	Query: "uf 43205" ; Times: 2
+	Query: "bowling green" ; Times: 1
+	Query: "class:Reptilia country:&#34;Panama&#34; AND (NOT SAURIA NOT CROCODYLIA) institutioncode:UF" ; Times: 6
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "238226" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "Impennis" ; Times: 2
+	Query: "Pseudemys Mississippi" ; Times: 1
+	Query: "cyclura cayman" ; Times: 3
+	Query: "specificepithet:martinica genus:Elaenia" ; Times: 1
+	Query: "Isolobodon portoricensis" ; Times: 10
+	Query: "genus:tayassu institutioncode:UF" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "UF 65783" ; Times: 1
+	Query: "uf 43204" ; Times: 1
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "62245" ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 5
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1930 year &lt;= 1939 institutioncode:UF" ; Times: 1
+	Query: "31227" ; Times: 2
+	Query: "specificepithet:gallopavo genus:Meleagris mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Elaenia martinica" ; Times: 4
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999 institutioncode:UF" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959 institutioncode:UF" ; Times: 1
+	Query: "specificepithet:impennis" ; Times: 1
+	Query: "genus:arctodus" ; Times: 1
+	Query: "catalognumber:203840" ; Times: 1
+	Query: "vntype:specimen family:Sciuridae (miocene) isfossil:1" ; Times: 1
+	Query: "speotyto cunicularia" ; Times: 1
+	Query: "class:Reptilia country:&#34;Panama&#34; institutioncode:UF" ; Times: 1
+	Query: "Geomys pinetis" ; Times: 3
+	Query: "catalognumber:74264 institutioncode:UF" ; Times: 1
+	Query: "39454" ; Times: 1
+	Query: "vntype:specimen genus:Diplocaulus order:Nectridea basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolina genus:Terrapene county:&#34;Hardee&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "50785" ; Times: 2
+	Query: "pantherophis guttatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1178 download events in this period)
+Total number of records downloaded: 36045
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 9
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-07 ; Times: 7
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-02 ; Times: 4
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-18 ; Times: 5
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-20 ; Times: 2
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 2
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Amphiuma means" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "agkistrodon" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "genus:arctodus" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "genus:crotalus" ; Times: 1
+	Query: "Macropus robustus" ; Times: 1
+	Query: "Elaenia martinica" ; Times: 1
+	Query: "vntype:specimen family:Sciuridae (miocene) isfossil:1" ; Times: 1
+	Query: "Tyrannus caudifasciatus" ; Times: 1
+	Query: "Lepidochelys kempii" ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "class:AVES institutioncode:UF" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "clemmys guttata stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Serpentes" ; Times: 1
+	Query: "class:amphibia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
