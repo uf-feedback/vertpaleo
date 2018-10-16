@@ -1,0 +1,534 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1158
+Number of records retrieved in searches: 125899
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 13
+	Country: Brazil ; Times: 18
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 30
+	Country: Unknown ; Times: 8
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 1028
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 23
+	Country: Peru ; Times: 10
+	Country: China ; Times: 1
+	Country: Argentina ; Times: 7
+	Country: Guadeloupe ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 66
+	Date: 2018-03-29 ; Times: 26
+	Date: 2018-03-17 ; Times: 6
+	Date: 2018-03-16 ; Times: 3
+	Date: 2018-03-15 ; Times: 4
+	Date: 2018-03-14 ; Times: 3
+	Date: 2018-03-13 ; Times: 4
+	Date: 2018-03-12 ; Times: 23
+	Date: 2018-03-11 ; Times: 6
+	Date: 2018-03-10 ; Times: 9
+	Date: 2018-03-31 ; Times: 2
+	Date: 2018-03-30 ; Times: 9
+	Date: 2018-03-19 ; Times: 8
+	Date: 2018-03-18 ; Times: 1
+	Date: 2018-03-01 ; Times: 24
+	Date: 2018-03-02 ; Times: 123
+	Date: 2018-03-03 ; Times: 33
+	Date: 2018-03-04 ; Times: 13
+	Date: 2018-03-05 ; Times: 111
+	Date: 2018-03-28 ; Times: 57
+	Date: 2018-03-07 ; Times: 4
+	Date: 2018-03-08 ; Times: 17
+	Date: 2018-03-09 ; Times: 21
+	Date: 2018-03-24 ; Times: 1
+	Date: 2018-03-25 ; Times: 19
+	Date: 2018-03-22 ; Times: 3
+	Date: 2018-03-23 ; Times: 22
+	Date: 2018-03-20 ; Times: 112
+	Date: 2018-03-21 ; Times: 68
+	Date: 2018-03-27 ; Times: 157
+	Date: 2018-03-26 ; Times: 203
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Glaucomys specificepithet:volans" ; Times: 5
+	Query: "vntype:specimen specificepithet:americana genus:Grus" ; Times: 1
+	Query: "genus:Mormoops specificepithet:blainvillii" ; Times: 5
+	Query: "119705" ; Times: 1
+	Query: "catalognumber:66195 institutioncode:UF" ; Times: 1
+	Query: "Conepatus" ; Times: 4
+	Query: "genus:Smilodectes specificepithet:gracilis" ; Times: 7
+	Query: "genus:Paramys specificepithet:copei" ; Times: 8
+	Query: "genus:Titanoboa specificepithet:cerrejonensis" ; Times: 5
+	Query: "Patagioenas leucocephala" ; Times: 1
+	Query: "Panthera onca" ; Times: 11
+	Query: "52261" ; Times: 1
+	Query: "genus:Nekrolagus specificepithet:progressus" ; Times: 5
+	Query: "genus:Dasypus specificepithet:bellus" ; Times: 5
+	Query: "catalognumber:211720" ; Times: 1
+	Query: "genus:Ignacius specificepithet:fremontensis" ; Times: 5
+	Query: "genus:Macrochelys specificepithet:temminckii" ; Times: 5
+	Query: "panthera onca" ; Times: 4
+	Query: "genus:Tantilla specificepithet:coronata" ; Times: 5
+	Query: "genus:Gehyra specificepithet:oceanica" ; Times: 2
+	Query: "genus:Lasiurus specificepithet:seminolus" ; Times: 5
+	Query: "genus:Alligator  specificepithet:mississippiensis" ; Times: 3
+	Query: "genus:Gopherus specificepithet:polyphemus" ; Times: 6
+	Query: "specificepithet:intermedius genus:Lasiurus mappable:1" ; Times: 4
+	Query: "247917" ; Times: 1
+	Query: "genus:Notemigonus" ; Times: 2
+	Query: "genus:Colinus specificepithet:virginianus " ; Times: 1
+	Query: "fieldnumber:4638" ; Times: 1
+	Query: "genus:Sphyrapicus specificepithet:varius" ; Times: 2
+	Query: "genus:Sphoeroides specificepithet:spengleri" ; Times: 5
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "catalognumber:64879" ; Times: 1
+	Query: "genus:Acritoparamys specificepithet:atavus" ; Times: 5
+	Query: "genus:Cubophis specificepithet:vudii" ; Times: 5
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Colon&#34; country:&#34;Panama&#34; institutioncode:UF" ; Times: 1
+	Query: "genus:Gallus specificepithet:gallus" ; Times: 6
+	Query: "genus:Parahippus specificepithet:leonensis" ; Times: 5
+	Query: "genus:Macrocranion specificepithet:nitens" ; Times: 5
+	Query: "specificepithet:intermedius genus:lasiurus mappable:1" ; Times: 6
+	Query: "genus:Aix specificepithet:sponsa" ; Times: 5
+	Query: "genus:Rhadinaea county:&#34;Levy&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "genus:Pandion specificepithet:haliaetus" ; Times: 5
+	Query: "Monachus" ; Times: 1
+	Query: "genus:Neocnus specificepithet:comes" ; Times: 5
+	Query: "recordedby:Marcia" ; Times: 1
+	Query: "catalognumber:331063" ; Times: 1
+	Query: "90545" ; Times: 1
+	Query: "90544" ; Times: 1
+	Query: "90543" ; Times: 1
+	Query: "90542" ; Times: 2
+	Query: "catalognumber:148814" ; Times: 1
+	Query: "genus:Amia" ; Times: 1
+	Query: "genus:Circus specificepithet:cyaneus" ; Times: 2
+	Query: "genus:Tapirus (Helicotapirus) specificepithet:veroensis" ; Times: 5
+	Query: "72742" ; Times: 1
+	Query: "catalognumber:117945" ; Times: 3
+	Query: "genus:Eumops specificepithet:glaucinus" ; Times: 5
+	Query: "Teleoceras vntype:specimen basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "genus:Neohipparion specificepithet:trampasense" ; Times: 5
+	Query: "genus:Thecadactylus specificepithet:rapicauda" ; Times: 5
+	Query: "class:Mammalia institutioncode:UF" ; Times: 1
+	Query: "genus:Masticophis specificepithet:flagellum" ; Times: 1
+	Query: "aepyornis" ; Times: 9
+	Query: "genus:Minytrema specificepithet:melanops" ; Times: 5
+	Query: "genus:Pteronotus specificepithet:macleayii" ; Times: 5
+	Query: "genus:Anas specificepithet:discors" ; Times: 6
+	Query: "catalognumber:13515" ; Times: 1
+	Query: "seymouria" ; Times: 2
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 2
+	Query: "B 1482" ; Times: 1
+	Query: "genus:Oxyura specificepithet:jamaicensis" ; Times: 5
+	Query: "genus:Acratocnus specificepithet:ye" ; Times: 5
+	Query: "genus:Epinephelus specificepithet:nigritus" ; Times: 6
+	Query: "genus:Athene specificepithet:cunicularia" ; Times: 4
+	Query: "genus:Desmodus" ; Times: 1
+	Query: "genus:Microtus specificepithet:pinetorum" ; Times: 2
+	Query: "genus:Nannippus specificepithet:peninsulatus" ; Times: 5
+	Query: "genus:Lynx specificepithet:rufus" ; Times: 1
+	Query: "genus:Pseudacris specificepithet:ornata" ; Times: 7
+	Query: "136841" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis isfossil:1" ; Times: 1
+	Query: "genus:Aepyornis" ; Times: 3
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 6
+	Query: "genus:Catharus specificepithet:minimus " ; Times: 2
+	Query: "genus:Phaethon specificepithet:lepturus" ; Times: 5
+	Query: "genus:Amphiuma specificepithet:means" ; Times: 5
+	Query: "genus:Amia specificepithet:calva" ; Times: 4
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "genus:Ectypodus specificepithet:tardus" ; Times: 5
+	Query: "genus:Texomys specificepithet:stewarti" ; Times: 6
+	Query: "genus:Mormoops specificepithet:megalophylla" ; Times: 5
+	Query: "specificepithet:tridactyla genus:Myrmecophaga" ; Times: 1
+	Query: "genus:Opheodrys specificepithet:aestivus" ; Times: 2
+	Query: "genus:Alligator specificepithet:mississippiensis" ; Times: 2
+	Query: "105820" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "16577" ; Times: 1
+	Query: "genus:Carcharocles specificepithet:megalodon" ; Times: 4
+	Query: "genus:Teilhardina specificepithet:americana" ; Times: 11
+	Query: "catalognumber:188229" ; Times: 1
+	Query: "Pterodroma cahow" ; Times: 1
+	Query: "gundlachii" ; Times: 5
+	Query: "genus:Podomys specificepithet:floridanus" ; Times: 5
+	Query: "catalognumber:63511" ; Times: 2
+	Query: "catalognumber:7360" ; Times: 2
+	Query: "genus:Plagioctenodon specificepithet:savagei" ; Times: 5
+	Query: "genus:Reithrodontomys specificepithet:humulis" ; Times: 5
+	Query: "21570" ; Times: 2
+	Query: "genus:Neotoma specificepithet:floridana" ; Times: 5
+	Query: "genus:Lagodon specificepithet:rhomboides" ; Times: 5
+	Query: "specificepithet:amoenus genus:Carphophis mappable:1" ; Times: 1
+	Query: "genus:Puma specificepithet:concolor" ; Times: 5
+	Query: "genus:Anas specificepithet:crecca" ; Times: 2
+	Query: "genus:Carcharocles specificepithet:auriculatus" ; Times: 6
+	Query: "genus:Aquila specificepithet:chrysaetos" ; Times: 5
+	Query: "156605" ; Times: 1
+	Query: "genus:Cathartes" ; Times: 3
+	Query: "specificepithet:pecari genus:Tayassu" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis isfossil:1" ; Times: 1
+	Query: "genus:Lontra specificepithet:canadensis" ; Times: 5
+	Query: "genus:Holmesina specificepithet:floridanus" ; Times: 5
+	Query: "12594 R" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "genus:Panamacebus specificepithet:transitus" ; Times: 5
+	Query: "136806" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 12
+	Query: "genus:Drymarchon specificepithet:corais" ; Times: 5
+	Query: "genus:Ficus" ; Times: 1
+	Query: "16171" ; Times: 1
+	Query: "genus:Macrocranion specificepithet:junnei" ; Times: 5
+	Query: "catalognumber:259611" ; Times: 1
+	Query: "genus:Homotherium specificepithet:serum" ; Times: 5
+	Query: "93526" ; Times: 1
+	Query: "genus:Dinohippus specificepithet:mexicanus" ; Times: 6
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "genus:boa stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "Coturnicops" ; Times: 1
+	Query: "catalognumber:99074 institutioncode:UF" ; Times: 3
+	Query: "genus:Smilodon specificepithet:fatalis" ; Times: 5
+	Query: "genus:leiocephalus year &gt;= 1990 year &lt;= 2018 institutioncode:UF" ; Times: 1
+	Query: "225131" ; Times: 1
+	Query: "genus:Mimoperadectes  specificepithet:labrus" ; Times: 3
+	Query: "26996" ; Times: 1
+	Query: "catalognumber:24417" ; Times: 1
+	Query: "101537" ; Times: 2
+	Query: "Camelidae" ; Times: 3
+	Query: "genus:Lasiurus specificepithet:intermedius" ; Times: 5
+	Query: "genus:Herpetotherium specificepithet:innominatum" ; Times: 5
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "genus:Palaeolagus specificepithet:haydeni" ; Times: 5
+	Query: "specificepithet:constrictor genus:Boa country:&#34;Panama&#34; AND (NOT MCZ)" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Panama&#34; country:&#34;Panama&#34; AND (NOT ANOLIS) institutioncode:UF" ; Times: 1
+	Query: "genus:Nycticeius specificepithet:humeralis" ; Times: 5
+	Query: "catalognumber:140339" ; Times: 1
+	Query: "139626" ; Times: 1
+	Query: "122774" ; Times: 1
+	Query: "245101" ; Times: 1
+	Query: "160535" ; Times: 1
+	Query: "101843" ; Times: 1
+	Query: "genus:Colpocherus" ; Times: 1
+	Query: "genus:Mimoperadectes specificepithet:labrus" ; Times: 2
+	Query: "genus:Chelydra" ; Times: 1
+	Query: "genus:Megalonyx specificepithet:leptostomus" ; Times: 5
+	Query: "173489" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis" ; Times: 1
+	Query: "catalognumber:241235" ; Times: 1
+	Query: "geomys pinetis" ; Times: 3
+	Query: "catalognumber:26157" ; Times: 1
+	Query: "genus:Nyctinomops specificepithet:macrotis" ; Times: 2
+	Query: "genus:Anguilla specificepithet:rostrata" ; Times: 2
+	Query: "26356" ; Times: 1
+	Query: "244353" ; Times: 1
+	Query: "genus:Brachyphylla specificepithet:nana" ; Times: 5
+	Query: "Gadus" ; Times: 1
+	Query: "genus:Eoryctes specificepithet:melanus" ; Times: 5
+	Query: "genus:Rhineura county:&#34;Levy&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "recordedby:Rios" ; Times: 1
+	Query: "buteo swainsoni" ; Times: 1
+	Query: "253198" ; Times: 1
+	Query: "genus:Trachemys specificepithet:inflata" ; Times: 5
+	Query: "92774" ; Times: 1
+	Query: "18525" ; Times: 1
+	Query: "genus:Megalops specificepithet:atlanticus" ; Times: 5
+	Query: "genus:Lampropeltis specificepithet:triangulum" ; Times: 2
+	Query: "genus:Tyto specificepithet:alba" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Chiriqui&#34; country:&#34;Panama&#34; institutioncode:UF" ; Times: 1
+	Query: "genus:Arctodus specificepithet:simus" ; Times: 5
+	Query: "genus:Equus (plesippus) specificepithet:simplicidens" ; Times: 6
+	Query: "genus:Merycoidodon specificepithet:culbertsoni" ; Times: 5
+	Query: "65223" ; Times: 1
+	Query: "genus:Neohipparion specificepithet:eurystyle" ; Times: 5
+	Query: "genus:Peromyscus specificepithet:gossypinus" ; Times: 1
+	Query: "Solenodontidae" ; Times: 1
+	Query: "genus:Wyonycteris" ; Times: 3
+	Query: "genus:Phyllonycteris specificepithet:poeyi" ; Times: 5
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 5
+	Query: "genus:Archaeohippus specificepithet:blackbergi" ; Times: 5
+	Query: "genus:Peradectes specificepithet:protinnominatus" ; Times: 5
+	Query: "specificepithet:pardalis genus:Leopardus family:Felidae" ; Times: 1
+	Query: "kinsey" ; Times: 1
+	Query: "genus:Sifrhippus specificepithet:sandrae" ; Times: 6
+	Query: "91774" ; Times: 2
+	Query: "genus:Tapirus specificepithet:webbi" ; Times: 5
+	Query: "genus:Cubophis specificepithet:cantherigerus" ; Times: 5
+	Query: "trichechus" ; Times: 5
+	Query: "genus:Holmesina specificepithet:septentrionalis" ; Times: 5
+	Query: "238744" ; Times: 1
+	Query: "genus:Phyllonycteris specificepithet:aphylla" ; Times: 5
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "Grus americana" ; Times: 1
+	Query: "genus:Miniochoerus specificepithet:gracilis" ; Times: 5
+	Query: "class:Reptilia stateprovince:&#34;Panama&#34; country:&#34;Panama&#34; AND (NOT SAURIA) institutioncode:UF" ; Times: 7
+	Query: "119120" ; Times: 1
+	Query: "genus:Phenacolemur specificepithet:simonsi" ; Times: 5
+	Query: "Teleoceras" ; Times: 1
+	Query: "genus:Apalone specificepithet:spinifera" ; Times: 5
+	Query: "genus:Opsanus specificepithet:beta" ; Times: 5
+	Query: "genus:Paromomys specificepithet:depressidens" ; Times: 6
+	Query: "UF 93190" ; Times: 1
+	Query: "parnell" ; Times: 3
+	Query: "specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "187264" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "genus:Equus specificepithet:ferus" ; Times: 5
+	Query: "catalognumber:42382" ; Times: 2
+	Query: "genus:Hyla specificepithet:femoralis" ; Times: 3
+	Query: "genus:Cantius specificepithet:ralstoni" ; Times: 7
+	Query: "138534" ; Times: 1
+	Query: "stateprovince:&#34;Panama&#34; country:&#34;Panama&#34; institutioncode:UF" ; Times: 1
+	Query: "tursiops" ; Times: 3
+	Query: "53539" ; Times: 1
+	Query: "genus:Mesohippus specificepithet:bairdi" ; Times: 6
+	Query: "genus:Scaphiopus specificepithet:holbrookii" ; Times: 2
+	Query: "genus:Erophylla specificepithet:sezekorni" ; Times: 2
+	Query: "genus:Anchitherium specificepithet:clarencei" ; Times: 5
+	Query: "genus:Ameiurus specificepithet:melas" ; Times: 5
+	Query: "genus:Castor specificepithet:canadensis" ; Times: 2
+	Query: "genus:Monophyllus specificepithet:redmani" ; Times: 2
+	Query: "genus:Mammut specificepithet:americanum" ; Times: 5
+	Query: "248994" ; Times: 1
+	Query: "caviidae" ; Times: 1
+	Query: "genus:Neofiber specificepithet:alleni" ; Times: 5
+	Query: "specificepithet:tetradactyla genus:Tamandua" ; Times: 1
+	Query: "genus:conepatus" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "50204" ; Times: 1
+	Query: "Phoenicopteridae" ; Times: 1
+	Query: "specificepithet:constrictor genus:Boa country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Oryzomys specificepithet:palustris" ; Times: 4
+	Query: "catalognumber:76325" ; Times: 2
+	Query: "genus:Neovison specificepithet:vison" ; Times: 2
+	Query: "genus:Tapirus (Helicotapirus) specificepithet:haysii" ; Times: 6
+	Query: "genus:Chilonatalus specificepithet:micropus" ; Times: 5
+	Query: "specificepithet:latrans genus:Canis institutioncode:UF" ; Times: 1
+	Query: "genus:Plagioctenoides specificepithet:microlestes" ; Times: 9
+	Query: "97501" ; Times: 1
+	Query: "genus:Colinus" ; Times: 1
+	Query: "genus:Clangula specificepithet:hyemalis" ; Times: 2
+	Query: "genus:Titanis specificepithet:walleri" ; Times: 5
+	Query: "genus:Phalacrocorax specificepithet:carbo" ; Times: 5
+	Query: "genus:Podilymbus specificepithet:podiceps" ; Times: 5
+	Query: "specificepithet:parva genus:Cryptotis" ; Times: 1
+	Query: "catalognumber:99211 institutioncode:UF" ; Times: 2
+	Query: "genus:Rana specificepithet:capito" ; Times: 5
+	Query: "genus:Phugatherium specificepithet:dichroplax" ; Times: 5
+	Query: "genus:Phenacolemur specificepithet:praecox" ; Times: 5
+	Query: "catalognumber:20841" ; Times: 1
+	Query: "genus:Nannippus specificepithet:aztecus" ; Times: 5
+	Query: "smilodon" ; Times: 3
+	Query: "genus:Ochrotomys specificepithet:nuttalli" ; Times: 5
+	Query: "genus:Eumops specificepithet:underwoodi" ; Times: 5
+	Query: "genus:Farancia specificepithet:abacura" ; Times: 5
+	Query: "catalognumber:66195" ; Times: 1
+	Query: "194936" ; Times: 1
+	Query: "genus:Leopardus specificepithet:pardalis" ; Times: 5
+	Query: "genus:Ursus specificepithet:americanus" ; Times: 1
+	Query: "genus:Eremotherium specificepithet:eomigrans" ; Times: 5
+	Query: "genus:Paramys specificepithet:taurus" ; Times: 8
+	Query: "62969" ; Times: 1
+	Query: "genus:Calippus specificepithet:elachistus" ; Times: 5
+	Query: "genus:Ursus year &gt;= 1923 year &lt;= 1923" ; Times: 1
+	Query: "genus:Teilhardina specificepithet:brandti" ; Times: 9
+	Query: "class:Reptilia country:&#34;Panama&#34; AND (NOT KU NOT CAS NOT UMMZ) institutioncode:UF" ; Times: 1
+	Query: "recordedby:Sanderson" ; Times: 1
+	Query: "genus:Thecadactylus continent:Caribbean" ; Times: 1
+	Query: "Geomys pinetis" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus stateprovince:&#34;florida&#34; year &gt;= 2010 year &lt;= 2018" ; Times: 2
+	Query: "catalognumber:99058 institutioncode:UF" ; Times: 3
+	Query: "genus:Plagioctenodon specificepithet:krausae" ; Times: 5
+	Query: "genus:Gavia specificepithet:immer" ; Times: 4
+	Query: "genus:Calippus specificepithet:cerasinus" ; Times: 5
+	Query: "genus:Xiphactinus specificepithet:audax" ; Times: 6
+	Query: "specificepithet:onca " ; Times: 1
+	Query: "genus:Clemmys specificepithet:guttata" ; Times: 2
+	Query: "genus:Anas specificepithet:acuta" ; Times: 2
+	Query: "genus:cyclura" ; Times: 1
+	Query: "genus:Meleagris specificepithet:gallopavo" ; Times: 5
+	Query: "fieldnumber:15722" ; Times: 2
+	Query: "genus:Solenodon specificepithet:paradoxus" ; Times: 6
+	Query: "8221" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Panama&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Metatomarctus specificepithet:canavus" ; Times: 5
+	Query: "genus:Sternotherus specificepithet:minor" ; Times: 6
+	Query: "catalognumber:43401" ; Times: 1
+	Query: "genus:Alca specificepithet:torda" ; Times: 5
+	Query: "genus:Ictalurus specificepithet:punctatus" ; Times: 2
+	Query: "coturnicops vntype:specimen" ; Times: 2
+	Query: "15119" ; Times: 1
+	Query: "genus:Cantius specificepithet:torresi" ; Times: 7
+	Query: "specificepithet:lupus genus:Canis institutioncode:UF" ; Times: 1
+	Query: "genus:Parahippus specificepithet:barbouri" ; Times: 6
+	Query: "genus:Tapirus (Helicotapirus) specificepithet:lundeliusi" ; Times: 6
+	Query: "class:Reptilia stateprovince:&#34;Chiriqui&#34; country:&#34;Panama&#34; AND (NOT KU NOT CAS NOT UMMZ) institutioncode:UF" ; Times: 1
+	Query: "catalognumber:204727" ; Times: 1
+	Query: "264341" ; Times: 1
+	Query: "130171" ; Times: 1
+	Query: "genus:Oryzomys" ; Times: 1
+	Query: "genus:Acritoparamys specificepithet:atwateri" ; Times: 5
+	Query: "135640" ; Times: 1
+	Query: "genus:Machairodus" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Chiriqui&#34; country:&#34;Panama&#34; AND (NOT KU NOT CAS NOT UMMZ)" ; Times: 1
+	Query: "genus:Myotis specificepithet:austroriparius" ; Times: 5
+	Query: "35919" ; Times: 1
+	Query: "genus:Panthera" ; Times: 2
+	Query: "genus:Gomphotherium" ; Times: 3
+	Query: "catalognumber:203218" ; Times: 1
+	Query: "catalognumber:203216" ; Times: 1
+	Query: "catalognumber:203217" ; Times: 1
+	Query: "239400" ; Times: 1
+	Query: "genus:Elops specificepithet:saurus" ; Times: 5
+	Query: "zombie" ; Times: 2
+	Query: "genus:Bagre specificepithet:marinus" ; Times: 5
+	Query: "genus:Parocnus specificepithet:serus" ; Times: 5
+	Query: "genus:Phoenicopterus specificepithet:ruber" ; Times: 5
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "genus:Neocnus specificepithet:dousman" ; Times: 5
+	Query: "genus:Boa country:&#34;Panama&#34; institutioncode:UF" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "catalognumber:203275" ; Times: 1
+	Query: "order:Aepyornithiformes" ; Times: 1
+	Query: "135790" ; Times: 1
+	Query: "genus:Notemigonus specificepithet:crysoleucas" ; Times: 1
+	Query: "nana jamaica" ; Times: 2
+	Query: "genus:Rhinoclemmys country:&#34;Panama&#34;" ; Times: 1
+	Query: "44414" ; Times: 1
+	Query: "genus:Crotalus specificepithet:viridis" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "genus:Ignacius specificepithet:graybullianus" ; Times: 5
+	Query: "LEOPARDUS PARDALIS" ; Times: 1
+	Query: "26861" ; Times: 1
+	Query: "(Lithobates catesbeianus)" ; Times: 3
+	Query: "genus:Brachyphylla specificepithet:cavernarum" ; Times: 2
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "16003" ; Times: 1
+	Query: "genus:Megalonyx specificepithet:jeffersoni" ; Times: 5
+	Query: "genus:Phyllops specificepithet:falcatus" ; Times: 5
+	Query: "genus:Canis specificepithet:dirus" ; Times: 5
+	Query: "genus:Felis specificepithet:catus" ; Times: 2
+	Query: "specificepithet:constrictor genus:Boa stateprovince:&#34;Panama&#34; country:&#34;Panama&#34; AND (NOT MCZ)" ; Times: 1
+	Query: "24890" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 2
+	Query: "coturnicops noveboracensis vntype:specimen" ; Times: 1
+	Query: "Parnell" ; Times: 2
+	Query: "neocnus" ; Times: 7
+	Query: "catalognumber:27577" ; Times: 1
+	Query: "genus:Niptomomys specificepithet:doreenae" ; Times: 7
+	Query: "genus:Lepisosteus specificepithet:oculatus" ; Times: 5
+	Query: "genus:Tapirus specificepithet:polkensis" ; Times: 5
+	Query: "Gadus morhua mappable:1" ; Times: 1
+	Query: "genus:Apatemys specificepithet:chardini" ; Times: 5
+	Query: "genus:Monachus" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis institutioncode:UF" ; Times: 1
+	Query: "Patagioenas squamosa" ; Times: 1
+	Query: "Megalodon south carolina" ; Times: 1
+	Query: "genus:Micropterus specificepithet:salmoides" ; Times: 2
+	Query: "Equidae" ; Times: 4
+	Query: "genus:Rhineura specificepithet:floridana" ; Times: 5
+	Query: "specificepithet:leuconotus genus:Conepatus" ; Times: 1
+	Query: "catalognumber:64268" ; Times: 1
+	Query: "catalognumber:203841" ; Times: 1
+	Query: "genus:Branisella specificepithet:boliviana" ; Times: 5
+	Query: "scientificname:Panthera onca " ; Times: 1
+	Query: "genus:Pylodictis specificepithet:olivaris" ; Times: 5
+	Query: "194928" ; Times: 1
+	Query: "genus:Clelia specificepithet:clelia" ; Times: 5
+	Query: "specificepithet:viscacia genus:Lagidium" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Panama&#34; country:&#34;Panama&#34; AND (NOT KU NOT CAS NOT UMMZ) institutioncode:UF" ; Times: 1
+	Query: "254416" ; Times: 1
+	Query: "genus:Pipistrellus stateprovince:&#34;Florida&#34;" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1284 download events in this period)
+Total number of records downloaded: 267715
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 35
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-12 ; Times: 1
+	Date: 2018-03-06 ; Times: 2
+	Date: 2018-03-10 ; Times: 5
+	Date: 2018-03-02 ; Times: 3
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-17 ; Times: 2
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-05 ; Times: 2
+	Date: 2018-03-28 ; Times: 2
+	Date: 2018-03-29 ; Times: 3
+	Date: 2018-03-26 ; Times: 4
+	Date: 2018-03-09 ; Times: 2
+	Date: 2018-03-27 ; Times: 4
+	Date: 2018-03-25 ; Times: 3
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-20 ; Times: 1
+	Date: 2018-03-18 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Felidae" ; Times: 1
+	Query: "order:Rodentia country:&#34;USA&#34;" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:Grus" ; Times: 3
+	Query: "family:laridae mappable:1" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis isfossil:1" ; Times: 1
+	Query: "Grus americana" ; Times: 1
+	Query: "genus:Monachus" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "class:Aves 2000 specimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:junco" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "class:Mammalia institutioncode:UF" ; Times: 1
+	Query: "recordedby:Rios" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "family:Laridae mappable:1" ; Times: 1
+	Query: "order:Anura institutioncode:UF" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:UF" ; Times: 2
+	Query: "conuropsis" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 3
+	Query: "Panthera onca" ; Times: 1
+	Query: "family:alcidae AND (NOT eggs) mappable:1" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "seymouria" ; Times: 1
+	Query: "specificepithet:amoenus genus:Carphophis mappable:1" ; Times: 4
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "family:alcidae mappable:1" ; Times: 2
+	Query: "class:Aves year &gt;= 2000 year &lt;= 2010 month &gt;= 1 month &lt;= 12 startdayofyear &gt;= 1" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Aves 2010" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "family:Soricidae country:&#34;USA&#34;" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+
+
+End of report.
