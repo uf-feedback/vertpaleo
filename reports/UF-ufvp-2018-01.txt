@@ -1,0 +1,441 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 478
+Number of records retrieved in searches: 22117
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 124
+	Country: Denmark ; Times: 12
+	Country: Singapore ; Times: 3
+	Country: India ; Times: 4
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 12
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 4
+	Country: Unknown ; Times: 17
+	Country: China ; Times: 2
+	Country: United States ; Times: 285
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 45
+	Date: 2018-01-18 ; Times: 21
+	Date: 2018-01-31 ; Times: 24
+	Date: 2018-01-30 ; Times: 13
+	Date: 2018-01-11 ; Times: 6
+	Date: 2018-01-10 ; Times: 7
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-12 ; Times: 7
+	Date: 2018-01-15 ; Times: 18
+	Date: 2018-01-14 ; Times: 2
+	Date: 2018-01-17 ; Times: 45
+	Date: 2018-01-16 ; Times: 78
+	Date: 2018-01-24 ; Times: 20
+	Date: 2018-01-25 ; Times: 25
+	Date: 2018-01-08 ; Times: 9
+	Date: 2018-01-09 ; Times: 8
+	Date: 2018-01-28 ; Times: 6
+	Date: 2018-01-29 ; Times: 12
+	Date: 2018-01-02 ; Times: 4
+	Date: 2018-01-03 ; Times: 5
+	Date: 2018-01-26 ; Times: 11
+	Date: 2018-01-01 ; Times: 4
+	Date: 2018-01-06 ; Times: 4
+	Date: 2018-01-21 ; Times: 3
+	Date: 2018-01-22 ; Times: 33
+	Date: 2018-01-05 ; Times: 6
+	Date: 2018-01-04 ; Times: 6
+	Date: 2018-01-23 ; Times: 42
+	Date: 2018-01-27 ; Times: 5
+	Date: 2018-01-20 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "D. virginiana Didelphis virginiana mappable:1" ; Times: 3
+	Query: "Anas acuta" ; Times: 1
+	Query: "10299" ; Times: 1
+	Query: "Clelia clelia" ; Times: 2
+	Query: "specificepithet:platymarginata genus:trachemys" ; Times: 1
+	Query: "Coccyzus minor" ; Times: 1
+	Query: "11682" ; Times: 1
+	Query: "specificepithet:Bison genus:Bison" ; Times: 1
+	Query: "Lampropeltis triangulum" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "Egretta thula" ; Times: 1
+	Query: "specificepithet:mlynarskii genus:Hesperotestudo county:&#34;Columbia&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "Mustela frenata" ; Times: 1
+	Query: "48520" ; Times: 1
+	Query: "catalognumber:157325 institutioncode:UF" ; Times: 1
+	Query: "specificepithet:mlynarskii genus:Hesperotestudo county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 3
+	Query: "&#34;didelphis virginiana&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:platymarginata genus:Trachemys" ; Times: 1
+	Query: "92095" ; Times: 1
+	Query: "Zenaida macroura" ; Times: 1
+	Query: "specificepithet:mlynarskii genus:Hesperotestudo county:&#34;Hillsborough&#34; stateprovince:&#34;Florida&#34;" ; Times: 3
+	Query: "catalognumber:121671" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "county:&#34;Union&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "202688" ; Times: 1
+	Query: "Jacana spinosa" ; Times: 1
+	Query: "233347" ; Times: 1
+	Query: "specificepithet:mlynarskii genus:Hesperotestudo county:&#34;Citrus&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:mlynarskii genus:Hesperotestudo county:&#34;Citrus&#34; stateprovince:&#34;Florida&#34; AND (NOT MARION COUNTY)" ; Times: 1
+	Query: "Jacana spinosa spinosa" ; Times: 1
+	Query: "Equus ferus" ; Times: 5
+	Query: "specificepithet:guttata institutioncode:UF" ; Times: 1
+	Query: "166146" ; Times: 2
+	Query: "&#34;Equus ferus&#34; mappable:1" ; Times: 2
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "genus:drymarchon stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "catalognumber:166146 institutioncode:UF" ; Times: 4
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "genus:Helodermoides institutioncode:UF" ; Times: 1
+	Query: "Nycticorax nycticorax" ; Times: 1
+	Query: "Anhinga anhinga" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 1
+	Query: "Eucinostomus gula" ; Times: 2
+	Query: "Actitis macularius" ; Times: 1
+	Query: "Eudocimus  albus" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 32
+	Query: "95638" ; Times: 1
+	Query: "Egretta tricolor" ; Times: 1
+	Query: "(225778)" ; Times: 1
+	Query: "urodela" ; Times: 1
+	Query: "specificepithet:mlynarskii genus:Hesperotestudo institutioncode:UF" ; Times: 1
+	Query: "Chaetodipterus faber" ; Times: 2
+	Query: "Symbolophorus veranyi mappable:1" ; Times: 1
+	Query: "catalognumber:12694 institutioncode:UF" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 2
+	Query: "specificepithet:mlynarskii genus:Hesperotestudo county:&#34;Levy&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "specificepithet:mlynarskii genus:Hesperotestudo county:&#34;Charlotte&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Megalops atlanticus" ; Times: 2
+	Query: "Progne subis" ; Times: 1
+	Query: "Conepatus leuconotus" ; Times: 1
+	Query: "Aythya collaris" ; Times: 1
+	Query: "Calidris alba" ; Times: 1
+	Query: "Ardea alba" ; Times: 1
+	Query: "86159" ; Times: 1
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "&#34;ERETHIZON DORSATUM&#34; mappable:1" ; Times: 1
+	Query: "chelydra serpentina stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "Oxyura jamaicensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:brasiliensis genus:tadarida country:&#34;haiti&#34;" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+	Query: "Equus asinus asinus" ; Times: 1
+	Query: "Vireo crassirostris" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "91908" ; Times: 1
+	Query: "Anas crecca" ; Times: 1
+	Query: "Pygoscelis adeliae" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Ixobrychus exilis" ; Times: 1
+	Query: "vntype:specimen specificepithet:hudsonicus genus:poecile year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "caracara cheriway" ; Times: 2
+	Query: "catalognumber:1290" ; Times: 2
+	Query: "Fulica americana" ; Times: 1
+	Query: "catalognumber:1044" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "Anas americana" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "29233" ; Times: 1
+	Query: "r-87617" ; Times: 1
+	Query: "Chilabothrus" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "specificepithet:mlynarskii genus:hesperotestudo" ; Times: 1
+	Query: "(scientificname:Poecile hudsonicus)" ; Times: 2
+	Query: "76908" ; Times: 1
+	Query: "Phalacrocorax auritus" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 2
+	Query: "UF 339" ; Times: 2
+	Query: "36607" ; Times: 3
+	Query: "catalognumber:155266 institutioncode:UF" ; Times: 3
+	Query: "187896" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "Botaurus lentiginosus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "Parnell" ; Times: 1
+	Query: "77136" ; Times: 1
+	Query: "Loxigilla violacea" ; Times: 1
+	Query: "genus:heterodon simus stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "specificepithet:mlynarskii genus:Hesperotestudo county:&#34;Brevard&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Glyptosaurus" ; Times: 4
+	Query: "Tyto alba" ; Times: 1
+	Query: "specificepithet:mlynarskii genus:Hesperotestudo county:&#34;Sumter&#34; stateprovince:&#34;Florida&#34; AND (NOT MARION COUNTY)" ; Times: 1
+	Query: "118132" ; Times: 1
+	Query: "zombie" ; Times: 1
+	Query: "Gallinula galeata" ; Times: 1
+	Query: "24880" ; Times: 1
+	Query: "erethizon dorsatum mappable:1" ; Times: 3
+	Query: "gallus gallus vntype:specimen class:aves AND (domesticus) year &lt;= 1930" ; Times: 1
+	Query: "Equus asinus" ; Times: 1
+	Query: "class:Osteichthyes" ; Times: 1
+	Query: "109562" ; Times: 1
+	Query: "Epicyon" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "Recurvirostra americana" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "leptodactylus holotype" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "198634" ; Times: 1
+	Query: "20821" ; Times: 1
+	Query: "Strongylura marina" ; Times: 2
+	Query: "class:Chondrichthyes institutioncode:UF" ; Times: 2
+	Query: "146799" ; Times: 1
+	Query: "specificepithet:xympithecus genus:Xenicibis" ; Times: 2
+	Query: "FM 68805" ; Times: 1
+	Query: "Tringa melanoleuca" ; Times: 1
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "sloth" ; Times: 1
+	Query: "E. Dorsatum mappable:1" ; Times: 1
+	Query: "&#34;Didelphis virginiana&#34; mappable:1" ; Times: 1
+	Query: "Egretta caerulea" ; Times: 1
+	Query: "catalognumber:108889 institutioncode:UF" ; Times: 1
+	Query: "genus:Helodermoides" ; Times: 3
+	Query: "Cathartes aura" ; Times: 1
+	Query: "138617" ; Times: 1
+	Query: "(Panthera onca) mappable:1" ; Times: 1
+	Query: "trichechidae vntype:specimen institutioncode:UF" ; Times: 2
+	Query: "nimravidae" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis country:&#34;USA&#34; mappable:1" ; Times: 1
+	Query: "&#34;panthera onca&#34; mappable:1" ; Times: 1
+	Query: "Dorosoma petenense" ; Times: 2
+	Query: "specificepithet:mlynarskii genus:Hesperotestudo stateprovince:&#34;Florida&#34; AND (NOT MARION COUNTY)" ; Times: 5
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 2
+	Query: "geocapromys ingrahami" ; Times: 1
+	Query: "E. dorsatum Erethizon dorsatum mappable:1" ; Times: 3
+	Query: "Dendrocygna autumnalis" ; Times: 1
+	Query: "84111" ; Times: 1
+	Query: "order:lamniformes institutioncode:UF" ; Times: 1
+	Query: "amorphochilus schnablii" ; Times: 2
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 4
+	Query: "(dermoptera) mappable:1" ; Times: 2
+	Query: "Dinictis" ; Times: 1
+	Query: "242617" ; Times: 1
+	Query: "Ariopsis felis" ; Times: 2
+	Query: "21220" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 1
+	Query: "Trachinotus carolinus" ; Times: 2
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 39
+	Query: "Butorides virescens" ; Times: 1
+	Query: "147190" ; Times: 2
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 2
+	Query: "gallus gallus vntype:specimen AND (domesticus) year &lt;= 1930" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 3
+	Query: "(tremarctos) mappable:1" ; Times: 1
+	Query: "penelope" ; Times: 3
+	Query: "146800" ; Times: 2
+	Query: "genus:pituophis stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "Aramus guarauna" ; Times: 1
+	Query: "24291" ; Times: 1
+	Query: "order:Eulipotyphla" ; Times: 1
+	Query: "119073" ; Times: 4
+	Query: "Ceratoscopelus maderensis mappable:1" ; Times: 1
+	Query: "26413" ; Times: 1
+	Query: "Panthera" ; Times: 2
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "specificepithet:mlynarskii genus:Hesperotestudo county:&#34;Marion&#34; stateprovince:&#34;Florida&#34;" ; Times: 6
+	Query: "vntype:specimen fieldnumber:1195" ; Times: 1
+	Query: "Dendrocygna autumnalis autumnalis vntype:specimen" ; Times: 1
+	Query: "numenius borealis" ; Times: 1
+	Query: "dermoptera" ; Times: 5
+	Query: "61419" ; Times: 1
+	Query: "&#34;erethizon dorsatum&#34; mappable:1" ; Times: 4
+	Query: "geomys pinetis" ; Times: 6
+	Query: "panthera onca mappable:1" ; Times: 1
+	Query: "Elops saurus" ; Times: 2
+	Query: "&#34;Erethizon&#34; &#34;dorsatum&#34; mappable:1" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "chelydra serpentina united states Mississippi" ; Times: 1
+	Query: "specificepithet:mlynarskii genus:Hesperotestudo county:&#34;Brevard&#34; stateprovince:&#34;Florida&#34; AND (NOT MARION COUNTY)" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "genus:Megascops institutioncode:UF" ; Times: 1
+	Query: "&#34;Neochoerus pinckneyi&#34;" ; Times: 1
+	Query: "89962" ; Times: 1
+	Query: "136206" ; Times: 1
+	Query: "Siphonorhis americana" ; Times: 1
+	Query: "Charadrius vociferus" ; Times: 1
+	Query: "18139" ; Times: 2
+	Query: "Anas discors" ; Times: 1
+	Query: "Dermoptera vntype:specimen mappable:1" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "mammalia recordedby:bloom" ; Times: 1
+	Query: "Calidris pusilla" ; Times: 1
+	Query: "Phoenicopteriformes" ; Times: 1
+	Query: "catalognumber:155267 institutioncode:UF" ; Times: 4
+	Query: "Tringa flavipes" ; Times: 1
+	Query: "123553" ; Times: 1
+	Query: "catalognumber:10738" ; Times: 3
+	Query: "genus:Glyptosaurus institutioncode:UF" ; Times: 1
+	Query: "Hylocichla mustelina" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "161314" ; Times: 1
+	Query: "catalognumber:96993" ; Times: 1
+	Query: "Erethizon dorsatum mappable:1" ; Times: 3
+	Query: "Vireo griseus" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "Leucophaeus atricilla" ; Times: 1
+	Query: "Lepus alleni" ; Times: 2
+	Query: "Sirenia mappable:1" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 1
+	Query: "Catharus minimus" ; Times: 1
+	Query: "catalognumber:4458" ; Times: 2
+	Query: "42679" ; Times: 1
+	Query: "catalognumber:4208" ; Times: 1
+	Query: "specificepithet:mlynarskii genus:Hesperotestudo" ; Times: 4
+	Query: "201193" ; Times: 1
+	Query: "John Meacham" ; Times: 1
+	Query: "Acipenser vntype:specimen" ; Times: 2
+	Query: "Equus ferus ferus" ; Times: 5
+	Query: "class:mammalia institutioncode:UF" ; Times: 1
+	Query: "Carcharhinus leucas" ; Times: 2
+	Query: "Monachus tropicalis " ; Times: 2
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Hell Creek Fm." ; Times: 1
+	Query: "Bagre marinus" ; Times: 2
+	Query: "specificepithet:mlynarskii genus:Hesperotestudo county:&#34;Charlotte&#34; stateprovince:&#34;Florida&#34; AND (NOT MARION COUNTY)" ; Times: 1
+	Query: "trichechidae vntype:specimen" ; Times: 10
+	Query: "genus:heterodon platyrhinos stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "Dermoptera" ; Times: 4
+	Query: "Tringa solitaria" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 1
+	Query: "specificepithet:mlynarskii genus:Hesperotestudo county:&#34;Hendry&#34; stateprovince:&#34;Florida&#34;" ; Times: 3
+	Query: "distance(location,geopoint(37.1380698235,-76.3332721125))&lt;5212" ; Times: 2
+	Query: "genus:Ophisaurus family:Anguidae class:Reptilia country:&#34;USA&#34;" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "catalognumber:35341" ; Times: 1
+	Query: "Opsanus beta" ; Times: 2
+	Query: "catalognumber:205388" ; Times: 1
+	Query: "specificepithet:mlynarskii genus:Hesperotestudo county:&#34;Sumter&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "51835" ; Times: 1
+	Query: "Micropogonias undulatus" ; Times: 2
+	Query: "Geocapromys ingrahami" ; Times: 1
+	Query: "Lasiurus seminolus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 286 (out of 1398 download events in this period)
+Total number of records downloaded: 37136
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 9
+	Country: Mexico ; Times: 6
+	Country: France ; Times: 1
+	Country: United States ; Times: 268
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 10
+	Date: 2018-01-18 ; Times: 8
+	Date: 2018-01-31 ; Times: 12
+	Date: 2018-01-30 ; Times: 26
+	Date: 2018-01-11 ; Times: 2
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-14 ; Times: 1
+	Date: 2018-01-16 ; Times: 1
+	Date: 2018-01-24 ; Times: 33
+	Date: 2018-01-08 ; Times: 2
+	Date: 2018-01-09 ; Times: 5
+	Date: 2018-01-28 ; Times: 3
+	Date: 2018-01-29 ; Times: 3
+	Date: 2018-01-02 ; Times: 9
+	Date: 2018-01-25 ; Times: 37
+	Date: 2018-01-26 ; Times: 5
+	Date: 2018-01-27 ; Times: 2
+	Date: 2018-01-06 ; Times: 4
+	Date: 2018-01-21 ; Times: 5
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-22 ; Times: 31
+	Date: 2018-01-05 ; Times: 2
+	Date: 2018-01-23 ; Times: 73
+	Date: 2018-01-20 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "geomys pinetis" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "genus:Megascops institutioncode:UF" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 100
+	Query: "Lasiurus cinereus mappable:1" ; Times: 1
+	Query: "caracara cheriway" ; Times: 1
+	Query: "coereba flaveola" ; Times: 1
+	Query: "stateprovince:mississippi class:reptilia" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "colombia" ; Times: 1
+	Query: "Dermoptera vntype:specimen mappable:1" ; Times: 1
+	Query: "Myotis grisescens mappable:1" ; Times: 1
+	Query: "Lasiurus borealis mappable:1" ; Times: 1
+	Query: "Rattus rattus" ; Times: 2
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Accipiter" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "genus:boa" ; Times: 1
+	Query: "amorphochilus schnablii" ; Times: 1
+	Query: "(dermoptera ) mappable:1" ; Times: 3
+	Query: "Dermoptera mappable:1" ; Times: 91
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "(dermoptera) mappable:1" ; Times: 9
+	Query: "specificepithet:asio genus:Megascops mappable:1" ; Times: 1
+	Query: "Herpestes javanicus" ; Times: 1
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Neovison vison" ; Times: 1
+	Query: "Laterallus" ; Times: 1
+	Query: "Acipenser vntype:specimen" ; Times: 1
+	Query: "order:Testudines (road OR vehicle)" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 2
+	Query: "(Dermoptera) mappable:1" ; Times: 4
+	Query: "DERMOPTERA mappable:1" ; Times: 9
+	Query: "Mimus gundlachii" ; Times: 2
+	Query: "Dermoptera" ; Times: 2
+	Query: "Lepus alleni" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 4
+	Query: "Epicyon" ; Times: 1
+	Query: "order:Eulipotyphla" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "order:Didelphimorphia" ; Times: 1
+	Query: "&#34;Falco sparverius&#34; vntype:specimen" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis mappable:1" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "dermoptera" ; Times: 15
+	Query: "Reithrodontomys humulis" ; Times: 1
+	Query: "Lasiurus seminolus mappable:1" ; Times: 1
+
+
+End of report.
