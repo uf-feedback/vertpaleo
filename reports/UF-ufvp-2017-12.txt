@@ -1,0 +1,281 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 261
+Number of records retrieved in searches: 8971
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 36
+	Country: Poland ; Times: 10
+	Country: France ; Times: 38
+	Country: United States ; Times: 135
+	Country: Netherlands ; Times: 1
+	Country: Slovakia ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: Peru ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 2
+	Date: 2017-12-31 ; Times: 1
+	Date: 2017-12-16 ; Times: 18
+	Date: 2017-12-17 ; Times: 1
+	Date: 2017-12-14 ; Times: 14
+	Date: 2017-12-15 ; Times: 2
+	Date: 2017-12-12 ; Times: 12
+	Date: 2017-12-13 ; Times: 3
+	Date: 2017-12-10 ; Times: 10
+	Date: 2017-12-11 ; Times: 45
+	Date: 2017-12-18 ; Times: 4
+	Date: 2017-12-19 ; Times: 5
+	Date: 2017-12-29 ; Times: 3
+	Date: 2017-12-28 ; Times: 11
+	Date: 2017-12-27 ; Times: 5
+	Date: 2017-12-26 ; Times: 3
+	Date: 2017-12-25 ; Times: 9
+	Date: 2017-12-24 ; Times: 7
+	Date: 2017-12-23 ; Times: 8
+	Date: 2017-12-22 ; Times: 5
+	Date: 2017-12-21 ; Times: 4
+	Date: 2017-12-20 ; Times: 14
+	Date: 2017-12-05 ; Times: 16
+	Date: 2017-12-04 ; Times: 11
+	Date: 2017-12-07 ; Times: 7
+	Date: 2017-12-06 ; Times: 24
+	Date: 2017-12-01 ; Times: 7
+	Date: 2017-12-03 ; Times: 4
+	Date: 2017-12-02 ; Times: 1
+	Date: 2017-12-09 ; Times: 1
+	Date: 2017-12-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:austroriparius genus:Myotis" ; Times: 1
+	Query: "institutioncode:uf Clemmys" ; Times: 2
+	Query: "Carcharhinus sealei" ; Times: 2
+	Query: "genus:Trachemys stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "camelidae" ; Times: 1
+	Query: "bighorn basin" ; Times: 1
+	Query: "specificepithet:platymarginata genus:Trachemys" ; Times: 8
+	Query: "13083" ; Times: 1
+	Query: "vntype:specimen genus:Geomys family:Geomyidae country:&#34;USA&#34; year &gt;= 1970 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "Florida pituophis" ; Times: 2
+	Query: "Conuropsis carolinensis" ; Times: 2
+	Query: "institutioncode:uf Clemmys guttata" ; Times: 1
+	Query: "catalognumber:91074" ; Times: 2
+	Query: "catalognumber:642" ; Times: 1
+	Query: "vntype:specimen specificepithet:floridanus genus:Podomys OR Peromyscus stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis  mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 1
+	Query: "catalognumber:47641" ; Times: 2
+	Query: "Eucinostomus gula" ; Times: 1
+	Query: "John vntype:specimen specificepithet:floridanus genus:Podomys OR Peromyscus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "4953 Aves" ; Times: 1
+	Query: "institutioncode:uf Chrysemys picta" ; Times: 1
+	Query: "Chaetodipterus faber" ; Times: 1
+	Query: "119073" ; Times: 1
+	Query: "corvus palmarum" ; Times: 8
+	Query: "19598" ; Times: 1
+	Query: "Megalops atlanticus" ; Times: 1
+	Query: "223283" ; Times: 1
+	Query: "223285" ; Times: 1
+	Query: "genus:Crotalus catalognumber:5628" ; Times: 1
+	Query: "Colubridae Lee florida" ; Times: 1
+	Query: "specificepithet:defensor institutioncode:UF" ; Times: 1
+	Query: "Regina alleni" ; Times: 1
+	Query: "Reptilia county:&#34;Duval&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "panthera onca" ; Times: 2
+	Query: "Carcharhinus brachyurus" ; Times: 2
+	Query: "110080" ; Times: 1
+	Query: "44494" ; Times: 1
+	Query: "120038" ; Times: 1
+	Query: "genus:Crotalus catalognumber:5629" ; Times: 1
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "grus americana" ; Times: 1
+	Query: "specificepithet:floridanus genus:Podomys OR Peromyscus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "322735" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 4
+	Query: "Reptilia county:&#34;Putnam&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:alleni county:&#34;Brevard&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Dixie&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "Florida vntype:specimen specificepithet:maritimus genus:Ammodramus year &gt;= 1950 year &lt;= 1990" ; Times: 1
+	Query: "genus:Crotalus catalognumber:5632" ; Times: 1
+	Query: "genus:Crotalus catalognumber:5633" ; Times: 1
+	Query: "genus:Crotalus catalognumber:5630" ; Times: 1
+	Query: "genus:Crotalus catalognumber:5631" ; Times: 1
+	Query: "cordier" ; Times: 3
+	Query: "11682" ; Times: 1
+	Query: "Bufo quercicus mappable:1" ; Times: 2
+	Query: "220237" ; Times: 1
+	Query: "family=Rhineuridae year&gt;2000" ; Times: 1
+	Query: "genus:Hesperotestudo stateprovince:&#34;South Carolina&#34; institutioncode:UF" ; Times: 1
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34; year &gt;= 2012 year &lt;= 2017" ; Times: 1
+	Query: "lampropeltis getulus" ; Times: 1
+	Query: "28290 Aves" ; Times: 2
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "Drymarchon stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "Hemipristis elongata" ; Times: 8
+	Query: "Mobula hypostoma" ; Times: 2
+	Query: "Grus americana iowa" ; Times: 1
+	Query: "distance(location,geopoint(37.1380698235,-76.3332721125))&lt;5212" ; Times: 1
+	Query: "catalognumber:86867" ; Times: 1
+	Query: "17521 class:mammalia" ; Times: 1
+	Query: "Pseudorca crassidens" ; Times: 3
+	Query: "specificepithet:carolina genus:Terrapene mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 3
+	Query: "zombie" ; Times: 1
+	Query: "Locality county:&#34;St. Johns&#34; stateprovince:&#34;Florida&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 3
+	Query: "lemur" ; Times: 1
+	Query: "17301" ; Times: 1
+	Query: "22094" ; Times: 1
+	Query: "Fort Thompson Florida" ; Times: 1
+	Query: "sloth" ; Times: 1
+	Query: "specificepithet:constrictor genus:Boa mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 5
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34;" ; Times: 6
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Elops saurus" ; Times: 1
+	Query: "407142" ; Times: 1
+	Query: "Gopherus county:&#34;St. Johns&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Heterodontus portusjacksoni" ; Times: 2
+	Query: "Crocodile Islands" ; Times: 1
+	Query: "44483" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis  mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 2
+	Query: "Strongylura marina" ; Times: 1
+	Query: "catalognumber:66653" ; Times: 1
+	Query: "34420" ; Times: 1
+	Query: "41234" ; Times: 1
+	Query: "77075" ; Times: 1
+	Query: "Opsanus beta" ; Times: 1
+	Query: "Nerodia erythrogaster stateprovince:&#34;Florida&#34; year &gt;= 1970 year &lt;= 1980" ; Times: 2
+	Query: "Pseudorca crassidens vntype:specimen" ; Times: 1
+	Query: "Trachinotus carolinus" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 5
+	Query: "160535" ; Times: 1
+	Query: "Pituophis stateprovince:&#34;Florida&#34;" ; Times: 5
+	Query: "Sternotherus county:&#34;Hillsborough&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Glaucidium siju" ; Times: 1
+	Query: "DRYMARCHON couperi" ; Times: 1
+	Query: "185734" ; Times: 1
+	Query: "Symbolophorus veranyi mappable:1" ; Times: 1
+	Query: "Ceratoscopelus maderensis mappable:1" ; Times: 1
+	Query: "ectopistes" ; Times: 2
+	Query: "19403" ; Times: 1
+	Query: "class:Reptilia country:&#34;Colombia&#34; institutioncode:UF" ; Times: 1
+	Query: "97811" ; Times: 1
+	Query: "Locality county:&#34;St. Johns&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 6
+	Query: "catalognumber:158557" ; Times: 4
+	Query: "Hexanchus griseus mappable:1" ; Times: 1
+	Query: "Locality county:&#34;St. Johns&#34; stateprovince:&#34;Florida&#34; AND (Wilson quarry) year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "LASIURUS SEMINOLUS" ; Times: 2
+	Query: "Gadus morhua mappable:1" ; Times: 1
+	Query: "catalognumber:39249" ; Times: 2
+	Query: "catalognumber:66763" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 4
+	Query: "16622" ; Times: 1
+	Query: "genus:Crotalus catalognumber:23859" ; Times: 2
+	Query: "genus:Rhineura county:&#34;Levy&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Rhizoprionodon longurio" ; Times: 1
+	Query: "Micropogonias undulatus" ; Times: 1
+	Query: "206666" ; Times: 1
+	Query: "rhinoptera steindachneri" ; Times: 2
+	Query: "37061" ; Times: 1
+	Query: "Merluccius albidus mappable:1" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 8
+	Query: "catalognumber:17194" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 9
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida (USA United States America)" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 2
+	Query: "genus:Stilosoma stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "specificepithet:constrictor genus:Boa  mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 1
+	Query: "specificepithet:platymarginata genus:Trachemys institutioncode:UF" ; Times: 2
+	Query: "Rhinoptera bonasus" ; Times: 1
+	Query: "Locality county:&#34;St. Johns&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "genus:Sphyrna" ; Times: 8
+	Query: "genus:Crotalus catalognumber:5627" ; Times: 1
+	Query: "Siren county:&#34;St. Johns&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "77705" ; Times: 1
+	Query: "Reptilia county:&#34;St. Johns&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "29809" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "Pagrus pagrus mappable:1" ; Times: 1
+	Query: "Carcharhinus leucas" ; Times: 1
+	Query: "specificepithet:mlynarskii genus:Hesperotestudo institutioncode:UF" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 674 download events in this period)
+Total number of records downloaded: 5283
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-29 ; Times: 1
+	Date: 2017-12-27 ; Times: 2
+	Date: 2017-12-31 ; Times: 1
+	Date: 2017-12-11 ; Times: 1
+	Date: 2017-12-07 ; Times: 1
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-20 ; Times: 9
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-14 ; Times: 6
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-13 ; Times: 2
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-26 ; Times: 3
+	Date: 2017-12-18 ; Times: 4
+	Date: 2017-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "vntype:specimen class:Amphibia country:&#34;Bolivia&#34; mappable:1" ; Times: 1
+	Query: "eumeces inexpectatus" ; Times: 1
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "vntype:specimen class:Reptilia country:&#34;Bolivia&#34; mappable:1" ; Times: 3
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "clangula hyemalis" ; Times: 1
+	Query: "sorex longirostris" ; Times: 1
+	Query: "vntype:specimen genus:Geomys family:Geomyidae country:&#34;USA&#34; year &gt;= 1970 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34; year &gt;= 1979 year &lt;= 2018 mappable:1" ; Times: 3
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis" ; Times: 1
+	Query: "cnemidophorus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "serpentes colombia" ; Times: 1
+	Query: "eumeces laticeps" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Odocoileus virginianus mappable:1" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "Rhinobatos" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia mappable:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34; mappable:1" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+
+
+End of report.
