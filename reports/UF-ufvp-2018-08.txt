@@ -1,0 +1,332 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 303
+Number of records retrieved in searches: 14464
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 202
+	Country: Israel ; Times: 9
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 43
+	Country: Unknown ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 11
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 6
+	Country: Denmark ; Times: 2
+	Country: Sri Lanka ; Times: 13
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-31 ; Times: 2
+	Date: 2018-08-18 ; Times: 1
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-16 ; Times: 3
+	Date: 2018-08-23 ; Times: 10
+	Date: 2018-08-14 ; Times: 5
+	Date: 2018-08-15 ; Times: 22
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-13 ; Times: 5
+	Date: 2018-08-10 ; Times: 9
+	Date: 2018-08-11 ; Times: 11
+	Date: 2018-08-02 ; Times: 9
+	Date: 2018-08-08 ; Times: 9
+	Date: 2018-08-03 ; Times: 7
+	Date: 2018-08-17 ; Times: 2
+	Date: 2018-08-27 ; Times: 2
+	Date: 2018-08-26 ; Times: 7
+	Date: 2018-08-25 ; Times: 6
+	Date: 2018-08-24 ; Times: 5
+	Date: 2018-08-09 ; Times: 7
+	Date: 2018-08-22 ; Times: 38
+	Date: 2018-08-21 ; Times: 23
+	Date: 2018-08-20 ; Times: 42
+	Date: 2018-08-05 ; Times: 4
+	Date: 2018-08-04 ; Times: 6
+	Date: 2018-08-07 ; Times: 6
+	Date: 2018-08-06 ; Times: 11
+	Date: 2018-08-01 ; Times: 21
+	Date: 2018-08-29 ; Times: 6
+	Date: 2018-08-28 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Equus (plesippus) specificepithet:simplicidens" ; Times: 4
+	Query: "panthera" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 2
+	Query: "class:Mammalia (Cabassous OR (Panthera AND onca) OR (Ateles AND belzebuth)) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "10699" ; Times: 1
+	Query: "172021" ; Times: 2
+	Query: "specificepithet:borealis genus:Numenius institutioncode:UF" ; Times: 1
+	Query: "60257" ; Times: 2
+	Query: "Pituophis Florida" ; Times: 1
+	Query: "specificepithet:capito family:Ranidae" ; Times: 1
+	Query: "Candoia bibroni" ; Times: 1
+	Query: "genus:Sifrhippus specificepithet:sandrae" ; Times: 4
+	Query: "21408" ; Times: 1
+	Query: "genus:solenodon" ; Times: 4
+	Query: "chrysemys mississippi" ; Times: 3
+	Query: "195267" ; Times: 1
+	Query: "167625" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 5
+	Query: "Orthogeomys" ; Times: 5
+	Query: "104041" ; Times: 1
+	Query: "162279" ; Times: 1
+	Query: "T-1484" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Numenius institutioncode:UF" ; Times: 1
+	Query: "genus:Scaphiopus order:Anura county:&#34;Alachua&#34; year &gt;= 2000" ; Times: 1
+	Query: "catalognumber:67859" ; Times: 1
+	Query: "genus:Protosciurus " ; Times: 4
+	Query: "34645" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "30046" ; Times: 1
+	Query: "25211" ; Times: 1
+	Query: "genus:Tretanorhinus class:Reptilia institutioncode:UF" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "catalognumber:102593" ; Times: 3
+	Query: "61905" ; Times: 2
+	Query: "genus:Scaphiopus order:Anura stateprovince:&#34;Florida&#34; year &gt;= 2000" ; Times: 2
+	Query: "genus:Tapirus (Helicotapirus) specificepithet:lundeliusi" ; Times: 4
+	Query: "Gymnogyps californianus" ; Times: 8
+	Query: "panthera onca" ; Times: 6
+	Query: "25891" ; Times: 1
+	Query: "57648" ; Times: 1
+	Query: "88945" ; Times: 1
+	Query: "catalognumber:292979" ; Times: 1
+	Query: "282979" ; Times: 1
+	Query: "11472" ; Times: 1
+	Query: "Drymarchon" ; Times: 1
+	Query: "catalognumber:290545" ; Times: 1
+	Query: "catalognumber:290543" ; Times: 1
+	Query: "96782" ; Times: 1
+	Query: "genus:Rhineura county:&#34;alachua&#34;" ; Times: 1
+	Query: "128101" ; Times: 1
+	Query: "244493" ; Times: 1
+	Query: "catalognumber:46769" ; Times: 1
+	Query: "66407 o" ; Times: 1
+	Query: "genus:Scaphiopus order:Anura stateprovince:&#34;Florida&#34; year &gt;= 1990" ; Times: 1
+	Query: "185761" ; Times: 1
+	Query: "26688" ; Times: 1
+	Query: "143809" ; Times: 1
+	Query: "60030" ; Times: 1
+	Query: "Puma concolor " ; Times: 1
+	Query: "69084" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "173164" ; Times: 3
+	Query: "catalognumber:44643 institutioncode:UF" ; Times: 3
+	Query: "70707" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 16
+	Query: "catalognumber:153230" ; Times: 1
+	Query: "69162" ; Times: 1
+	Query: "30447" ; Times: 1
+	Query: "180379" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "genus:Dinohippus specificepithet:mexicanus" ; Times: 4
+	Query: "133884" ; Times: 2
+	Query: "genus:Epinephelus specificepithet:nigritus" ; Times: 3
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "class:Mammalia (Cabassous OR Panthera OR Ateles) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "catalognumber:211269" ; Times: 1
+	Query: "mammalia (Mayport Florida)" ; Times: 1
+	Query: "zombie" ; Times: 3
+	Query: "FLMNH 166068" ; Times: 2
+	Query: "Carcharodon" ; Times: 2
+	Query: "catalognumber:41241 institutioncode:UF" ; Times: 3
+	Query: "(Cabassous OR Panthera) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "39306" ; Times: 1
+	Query: "265555" ; Times: 1
+	Query: "26380" ; Times: 1
+	Query: "Conepatus" ; Times: 1
+	Query: "genus:Scaphiopus order:Anura county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990" ; Times: 1
+	Query: "216116" ; Times: 1
+	Query: "11297" ; Times: 1
+	Query: "sloth" ; Times: 1
+	Query: "304579" ; Times: 1
+	Query: "catalognumber:326403" ; Times: 1
+	Query: "151985" ; Times: 1
+	Query: "genus:Tapirus (Helicotapirus) specificepithet:veroensis" ; Times: 4
+	Query: "266237" ; Times: 1
+	Query: "249468" ; Times: 1
+	Query: "class:Mammalia (Cabassous OR Panthera OR (Ateles AND belzebuth)) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "158365" ; Times: 1
+	Query: "alligator olseni" ; Times: 2
+	Query: "genus:Rhineura" ; Times: 2
+	Query: "specificepithet:ossifragus genus:corvus class:aves" ; Times: 1
+	Query: "Agkistrodon piscivorus 100" ; Times: 1
+	Query: "414111" ; Times: 1
+	Query: "214277" ; Times: 1
+	Query: "class:Reptilia locality:Cartagena" ; Times: 2
+	Query: "catalognumber:43864 institutioncode:UF" ; Times: 4
+	Query: "catalognumber:117386" ; Times: 1
+	Query: "T 1484" ; Times: 1
+	Query: "24921" ; Times: 1
+	Query: "genus:Tapirus (Helicotapirus) specificepithet:haysii" ; Times: 4
+	Query: "class:Mammalia ((Cabassous AND unicinctus) OR (Panthera AND onca) OR (Ateles AND belzebuth)) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "class:Mammalia (Cabassous OR Panthera OR (Ateles AND chamek)) year &gt;= 2000 year &lt;= 2018" ; Times: 2
+	Query: "24949" ; Times: 1
+	Query: "genus:Pantherophis isfossil:1" ; Times: 4
+	Query: "238142" ; Times: 1
+	Query: "15862" ; Times: 2
+	Query: "genus:Scaphiopus order:Anura county:&#34;Alachua&#34; year &gt;= 2000 month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 1
+	Query: "10395" ; Times: 1
+	Query: "Lepidochelys kempii" ; Times: 1
+	Query: "82383" ; Times: 1
+	Query: "319276" ; Times: 1
+	Query: "92685" ; Times: 2
+	Query: "59754" ; Times: 1
+	Query: "76835" ; Times: 1
+	Query: "185763" ; Times: 1
+	Query: "Crocodylus moreletii México" ; Times: 1
+	Query: "Conepatus leuconotus" ; Times: 1
+	Query: "homotherium" ; Times: 1
+	Query: "27449" ; Times: 1
+	Query: "17984" ; Times: 1
+	Query: "Parnell" ; Times: 1
+	Query: "147781" ; Times: 1
+	Query: "278416" ; Times: 1
+	Query: "parnell" ; Times: 3
+	Query: "82879" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "48541" ; Times: 1
+	Query: "228603" ; Times: 1
+	Query: "MBR 970 class:aves" ; Times: 1
+	Query: "fugax" ; Times: 1
+	Query: "304519" ; Times: 1
+	Query: "89692" ; Times: 1
+	Query: "15273 UF" ; Times: 1
+	Query: "93971" ; Times: 1
+	Query: "111755" ; Times: 1
+	Query: "Puma concolor" ; Times: 21
+	Query: "MBR 1774" ; Times: 1
+	Query: "genus:Drymarchon year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "catalognumber:16759" ; Times: 1
+	Query: "210887" ; Times: 1
+	Query: "169850" ; Times: 1
+	Query: "257040" ; Times: 1
+	Query: "catalognumber:146886 institutioncode:UF" ; Times: 1
+	Query: "218257" ; Times: 1
+	Query: "43649" ; Times: 1
+	Query: "98047" ; Times: 1
+	Query: "25004" ; Times: 1
+	Query: "genus:Rhineura county:&#34;Alachua&#34;" ; Times: 1
+	Query: "Crocodylus moreletii mexico" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 1
+	Query: "41411" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 2
+	Query: "crocodylus moreletii" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 4
+	Query: "order:Anura county:&#34;Alachua&#34; year &gt;= 2000 month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "92542" ; Times: 1
+	Query: "genus:Catharus specificepithet:minimus " ; Times: 1
+	Query: "26582" ; Times: 1
+	Query: "catalognumber:926 institutioncode:UF" ; Times: 2
+	Query: "12116" ; Times: 1
+	Query: "order:Anura county:&#34;Alachua&#34; month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "catalognumber:51160" ; Times: 1
+	Query: "178185" ; Times: 1
+	Query: "(Cabassous OR Panthera OR Ateles) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "tapirus" ; Times: 1
+	Query: "catalognumber:290563" ; Times: 1
+	Query: "13171" ; Times: 1
+	Query: "(Panthera onca) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 1416 download events in this period)
+Total number of records downloaded: 15576
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Mexico ; Times: 30
+	Country: United States ; Times: 14
+	Country: Netherlands ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Spain ; Times: 10
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-05 ; Times: 5
+	Date: 2018-08-03 ; Times: 3
+	Date: 2018-08-19 ; Times: 3
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 2
+	Date: 2018-08-09 ; Times: 9
+	Date: 2018-08-08 ; Times: 2
+	Date: 2018-08-21 ; Times: 3
+	Date: 2018-08-20 ; Times: 2
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 13
+	Date: 2018-08-14 ; Times: 7
+	Date: 2018-08-15 ; Times: 4
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-07 ; Times: 3
+	Date: 2018-08-10 ; Times: 3
+	Date: 2018-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Passerculus sandwichensis" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "country:&#34;poland&#34;" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "crotalus" ; Times: 2
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 6
+	Query: "hELODERMA" ; Times: 1
+	Query: "genus:Pantherophis isfossil:1" ; Times: 2
+	Query: "sistrurus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "family:Colubridae" ; Times: 2
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "podicipedidae" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "genus:Clelia" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "crotalinae" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:clelia genus:Clelia" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 2
+	Query: "genus:Anolis year&gt;1900 year&lt;2018" ; Times: 2
+
+
+End of report.
