@@ -1,0 +1,298 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 296
+Number of records retrieved in searches: 9083
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Turkey ; Times: 1
+	Country: Canada ; Times: 10
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 41
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: United States ; Times: 212
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 5
+	Country: United Kingdom ; Times: 13
+	Country: China ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 11
+	Date: 2018-09-23 ; Times: 4
+	Date: 2018-09-02 ; Times: 4
+	Date: 2018-09-03 ; Times: 4
+	Date: 2018-09-26 ; Times: 12
+	Date: 2018-09-01 ; Times: 6
+	Date: 2018-09-20 ; Times: 4
+	Date: 2018-09-21 ; Times: 8
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-05 ; Times: 23
+	Date: 2018-09-08 ; Times: 1
+	Date: 2018-09-09 ; Times: 10
+	Date: 2018-09-28 ; Times: 5
+	Date: 2018-09-29 ; Times: 2
+	Date: 2018-09-30 ; Times: 5
+	Date: 2018-09-11 ; Times: 8
+	Date: 2018-09-10 ; Times: 9
+	Date: 2018-09-13 ; Times: 73
+	Date: 2018-09-12 ; Times: 4
+	Date: 2018-09-14 ; Times: 4
+	Date: 2018-09-17 ; Times: 27
+	Date: 2018-09-16 ; Times: 3
+	Date: 2018-09-19 ; Times: 12
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-25 ; Times: 25
+	Date: 2018-09-27 ; Times: 8
+	Date: 2018-09-06 ; Times: 14
+	Date: 2018-09-07 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "249095" ; Times: 1
+	Query: "Mammuthus primigenius" ; Times: 1
+	Query: "genus:Conuropsis basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "lamna nasus" ; Times: 6
+	Query: "catalognumber:54649 &#34;didelphis virginiana&#34;" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 1
+	Query: "278934" ; Times: 3
+	Query: "hutia" ; Times: 1
+	Query: "genus:Ophisaurus county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "unica unica" ; Times: 1
+	Query: "catalognumber:66441 institutioncode:UF" ; Times: 1
+	Query: "genus:Sifrhippus specificepithet:sandrae" ; Times: 1
+	Query: "287944" ; Times: 1
+	Query: "catalognumber:244835 institutioncode:UF" ; Times: 4
+	Query: "287943" ; Times: 4
+	Query: "family:viperidae county:&#34;charlotte&#34;" ; Times: 1
+	Query: "Florida pituophis" ; Times: 5
+	Query: "genus:Platygonus catalognumber:18099 institutioncode:UF" ; Times: 1
+	Query: "279843" ; Times: 1
+	Query: "family:Equidae continent:North America basisofrecord:FossilSpecimen isfossil:1" ; Times: 2
+	Query: "catalognumber:244834 institutioncode:UF" ; Times: 3
+	Query: "catalognumber:477 institutioncode:UF" ; Times: 1
+	Query: "22579" ; Times: 1
+	Query: "Panthera onca" ; Times: 4
+	Query: "278942" ; Times: 1
+	Query: "278943" ; Times: 3
+	Query: "catalognumber:18099 institutioncode:UF" ; Times: 2
+	Query: "Georgia Southern University" ; Times: 1
+	Query: "278944" ; Times: 1
+	Query: "specificepithet:floridanus genus:podomys" ; Times: 3
+	Query: "116396" ; Times: 1
+	Query: "genus:Tapirus (Helicotapirus) specificepithet:lundeliusi" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "UF 134729" ; Times: 2
+	Query: "panthera onca" ; Times: 14
+	Query: "278439" ; Times: 1
+	Query: "catalognumber:226326 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:149669" ; Times: 1
+	Query: "phyllops falcatus" ; Times: 1
+	Query: "UF 63183" ; Times: 1
+	Query: "catalognumber:203112 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:102604 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "specificepithet:onca genus:panthera year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "catalognumber:2417 institutioncode:UF" ; Times: 1
+	Query: "specificepithet:couperi genus:Drymarchon year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "catalognumber:102633 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:115555" ; Times: 1
+	Query: "Drymarchon florida" ; Times: 3
+	Query: "249088" ; Times: 1
+	Query: "49597" ; Times: 1
+	Query: "catalognumber:132000 institutioncode:UF" ; Times: 4
+	Query: "246225" ; Times: 2
+	Query: "genus:lampropeltis stateprovince:&#34;florida&#34; distance(location,geopoint(26.95251969989374,-81.79866147395296))&lt;100000" ; Times: 1
+	Query: "balaenoptera floridana" ; Times: 1
+	Query: "UF 134734" ; Times: 2
+	Query: "287493" ; Times: 3
+	Query: "Rhadinaea Florida" ; Times: 1
+	Query: "balaenoptera" ; Times: 2
+	Query: "249059" ; Times: 2
+	Query: "catalognumber:1467 institutioncode:UF" ; Times: 4
+	Query: "catalognumber:18223 institutioncode:UF" ; Times: 2
+	Query: "287394" ; Times: 1
+	Query: "rhino" ; Times: 1
+	Query: "catalognumber:142362 institutioncode:UF" ; Times: 2
+	Query: "genus:Dinohippus specificepithet:mexicanus" ; Times: 1
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "family:Rhinocerotidae isfossil:1" ; Times: 2
+	Query: "117645" ; Times: 2
+	Query: "117643" ; Times: 2
+	Query: "117648" ; Times: 1
+	Query: "zombie" ; Times: 3
+	Query: "16088" ; Times: 1
+	Query: "catalognumber:30216 institutioncode:UF" ; Times: 2
+	Query: "259059" ; Times: 2
+	Query: "order:Squamata county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; AND (NOT hemidactylus NOT Serpentes) year &gt;= 1990" ; Times: 1
+	Query: "catalognumber:87789 institutioncode:UF" ; Times: 2
+	Query: "95155" ; Times: 1
+	Query: "catalognumber:96257 institutioncode:UF" ; Times: 2
+	Query: "95157" ; Times: 1
+	Query: "95156" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "278493" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "octopus" ; Times: 1
+	Query: "216441" ; Times: 1
+	Query: "sloth" ; Times: 2
+	Query: "80729" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "genus:Protosciurus " ; Times: 1
+	Query: "123479" ; Times: 1
+	Query: "genus:Tapirus (Helicotapirus) specificepithet:veroensis" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "catalognumber:226485 institutioncode:UF" ; Times: 2
+	Query: "genus:Pterosphenus" ; Times: 2
+	Query: "UF 88726" ; Times: 1
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "STRI 1145" ; Times: 1
+	Query: "miocene" ; Times: 1
+	Query: "catalognumber:17520 institutioncode:UF" ; Times: 1
+	Query: "246255" ; Times: 1
+	Query: "family:emydidae county:&#34;charlotte&#34;" ; Times: 1
+	Query: "49597 mammalia" ; Times: 2
+	Query: "aepyornis" ; Times: 1
+	Query: "UF 128167" ; Times: 1
+	Query: "genus:Tapirus (Helicotapirus) specificepithet:haysii" ; Times: 1
+	Query: "24094" ; Times: 1
+	Query: "catalognumber:207963 institutioncode:UF" ; Times: 2
+	Query: "117622" ; Times: 1
+	Query: "order:Squamata county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; AND (NOT hemidactylus NOT Serpentes NOT anolis NOT rhineura) year &gt;= 1990" ; Times: 2
+	Query: "Fundulus heteroclitus" ; Times: 2
+	Query: "genus:Pterosphenus institutioncode:UF" ; Times: 3
+	Query: "specificepithet:extenuatum genus:stilosoma year &gt;= 1970" ; Times: 1
+	Query: "Heterodon simus mappable:1" ; Times: 5
+	Query: "catalognumber:18027 institutioncode:UF" ; Times: 2
+	Query: "116390" ; Times: 2
+	Query: "family:viperidae county:&#34;sarasota&#34;" ; Times: 3
+	Query: "catalognumber:102026" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Kansas&#34; institutioncode:UF" ; Times: 1
+	Query: "Heterodon simus Florida" ; Times: 1
+	Query: "246221" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus isfossil:1" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "cubophis" ; Times: 1
+	Query: "genus:Epinephelus specificepithet:nigritus" ; Times: 1
+	Query: "mammuthus columbi" ; Times: 13
+	Query: "catalognumber:81237 institutioncode:UF" ; Times: 6
+	Query: "Florida stilosoma" ; Times: 1
+	Query: "247643" ; Times: 1
+	Query: "117615" ; Times: 1
+	Query: "catalognumber:113563" ; Times: 1
+	Query: "Couch" ; Times: 1
+	Query: "family:Lamnidae county:&#34;sarasota&#34;" ; Times: 1
+	Query: "ciconia ciconia" ; Times: 1
+	Query: "caballos" ; Times: 1
+	Query: "99925" ; Times: 1
+	Query: "212301" ; Times: 1
+	Query: "95154" ; Times: 1
+	Query: "genus:peromyscus county:&#34;Dade&#34; stateprovince:&#34;Florida&#34;" ; Times: 3
+	Query: "93278" ; Times: 1
+	Query: "John Nichols" ; Times: 1
+	Query: "117617" ; Times: 1
+	Query: "43935" ; Times: 1
+	Query: "locality:Corinto" ; Times: 3
+	Query: "159797" ; Times: 1
+	Query: "catalognumber:176513" ; Times: 1
+	Query: "295059" ; Times: 1
+	Query: "Lemur" ; Times: 1
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "catalognumber:259097 institutioncode:UF" ; Times: 2
+	Query: "class:aves (16088)" ; Times: 1
+	Query: "vntype:specimen genus:megascops basisofrecord:FossilSpecimen isfossil:1" ; Times: 2
+	Query: "Mammuthus columbi" ; Times: 2
+	Query: "259095" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 1
+	Query: "R 15654" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "catalognumber:309473" ; Times: 1
+	Query: "family:Rhinocerotidae continent:North America isfossil:1" ; Times: 1
+	Query: "Loxia megaplaga" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "catalognumber:1973 &#34;didelphis virginiana&#34;" ; Times: 1
+	Query: "genus:Equus (plesippus) specificepithet:simplicidens" ; Times: 1
+	Query: "MCZ 3805" ; Times: 2
+	Query: "family:Lamnidae county:&#34;charlotte&#34;" ; Times: 1
+	Query: "catalognumber:17189 institutioncode:UF" ; Times: 2
+	Query: "vntype:specimen genus:Neofiber continent:North America" ; Times: 1
+	Query: "Galeocerdo cuvier" ; Times: 14
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 846 download events in this period)
+Total number of records downloaded: 13232
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Spain ; Times: 2
+	Country: Mexico ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-17 ; Times: 8
+	Date: 2018-09-27 ; Times: 4
+	Date: 2018-09-13 ; Times: 4
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 5
+	Date: 2018-09-12 ; Times: 2
+	Date: 2018-09-06 ; Times: 2
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-18 ; Times: 3
+	Date: 2018-09-28 ; Times: 2
+	Date: 2018-09-04 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "specificepithet:onca genus:panthera year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "family:Dipsadidae" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus isfossil:1" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma mappable:1" ; Times: 1
+	Query: "Herpestes auropunctatus" ; Times: 1
+	Query: "tyto glaucops" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Dipsadidae" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "specificepithet:undulatus genus:sceloporus" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 2
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "terrapene carolina carolina" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "amphiuma means" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "eschrichtius robustus" ; Times: 2
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Kansas&#34; institutioncode:UF" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus mappable:1" ; Times: 1
+	Query: "family:Rhinocerotidae continent:North America isfossil:1" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Kansas&#34; institutioncode:UF" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "continent:South America" ; Times: 1
+	Query: "pseudorca crassidens" ; Times: 1
+
+
+End of report.
