@@ -1,0 +1,356 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 439
+Number of records retrieved in searches: 5539
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Brazil ; Times: 9
+	Country: Russia ; Times: 1
+	Country: Australia ; Times: 53
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 41
+	Country: Unknown ; Times: 12
+	Country: Cayman Islands ; Times: 2
+	Country: France ; Times: 3
+	Country: United States ; Times: 292
+	Country: Ecuador ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Antigua and Barbuda ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Puerto Rico ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Finland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 14
+	Date: 2018-06-06 ; Times: 47
+	Date: 2018-06-05 ; Times: 16
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-29 ; Times: 13
+	Date: 2018-06-02 ; Times: 3
+	Date: 2018-06-01 ; Times: 6
+	Date: 2018-06-25 ; Times: 45
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-27 ; Times: 8
+	Date: 2018-06-26 ; Times: 3
+	Date: 2018-06-21 ; Times: 19
+	Date: 2018-06-20 ; Times: 18
+	Date: 2018-06-23 ; Times: 8
+	Date: 2018-06-22 ; Times: 15
+	Date: 2018-06-09 ; Times: 2
+	Date: 2018-06-08 ; Times: 37
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 8
+	Date: 2018-06-12 ; Times: 3
+	Date: 2018-06-13 ; Times: 18
+	Date: 2018-06-14 ; Times: 45
+	Date: 2018-06-15 ; Times: 36
+	Date: 2018-06-16 ; Times: 13
+	Date: 2018-06-17 ; Times: 4
+	Date: 2018-06-18 ; Times: 7
+	Date: 2018-06-19 ; Times: 28
+	Date: 2018-06-03 ; Times: 4
+	Date: 2018-06-28 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "UF 73201" ; Times: 2
+	Query: "Solenodontidae" ; Times: 4
+	Query: "UF 73203" ; Times: 2
+	Query: "catalognumber:66171" ; Times: 1
+	Query: "UF N 419" ; Times: 1
+	Query: "UF 109332" ; Times: 1
+	Query: "65362" ; Times: 1
+	Query: "95500" ; Times: 1
+	Query: "UF 108691" ; Times: 3
+	Query: "UF 108693" ; Times: 1
+	Query: "UF 70093" ; Times: 1
+	Query: "UF 70092" ; Times: 3
+	Query: "107927" ; Times: 1
+	Query: "tyto glaucops" ; Times: 1
+	Query: "catalognumber:18445 institutioncode:UF" ; Times: 2
+	Query: "133939" ; Times: 3
+	Query: "UF 71472" ; Times: 2
+	Query: "UF 31350" ; Times: 2
+	Query: "95780" ; Times: 5
+	Query: "326981" ; Times: 1
+	Query: "UF 59244" ; Times: 4
+	Query: "UF 58819" ; Times: 3
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1965" ; Times: 1
+	Query: "UF 58813" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1963" ; Times: 2
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1962" ; Times: 1
+	Query: "50623" ; Times: 4
+	Query: "Panthera onca" ; Times: 2
+	Query: "UF 64220" ; Times: 3
+	Query: "49503" ; Times: 1
+	Query: "UF 150147" ; Times: 2
+	Query: "UF 150146" ; Times: 2
+	Query: "59215" ; Times: 1
+	Query: "distance(location,geopoint(37.8548349724,-89.8514679239135))&lt;13787" ; Times: 1
+	Query: "Macrochelys" ; Times: 1
+	Query: "99460" ; Times: 2
+	Query: "UF 144690" ; Times: 4
+	Query: "UF 101197" ; Times: 1
+	Query: "laterallus" ; Times: 2
+	Query: "catalognumber:9392 institutioncode:UF" ; Times: 2
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "175101" ; Times: 3
+	Query: "smilodectes" ; Times: 2
+	Query: "UF 58431" ; Times: 5
+	Query: "Sphyraena barracuda mappable:1" ; Times: 1
+	Query: "UF 64505" ; Times: 1
+	Query: "98464" ; Times: 1
+	Query: "catalognumber:6398 institutioncode:UF" ; Times: 2
+	Query: "specificepithet:nubila genus:Cyclura" ; Times: 2
+	Query: "UF 58848" ; Times: 2
+	Query: "UF 1686" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "proteus" ; Times: 3
+	Query: "UF 64385" ; Times: 3
+	Query: "Hippocamelus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "UF 157240" ; Times: 1
+	Query: "Chilabothrus" ; Times: 1
+	Query: "UF 37917" ; Times: 1
+	Query: "specificepithet:schnablii genus:Amorphochilus" ; Times: 1
+	Query: "UF 20991" ; Times: 1
+	Query: "UF 60201" ; Times: 1
+	Query: "white rhino" ; Times: 1
+	Query: "distance(location,geopoint(37.9940788312488,-89.8514679239135))&lt;13019" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 13
+	Query: "11605" ; Times: 1
+	Query: "UF 58757" ; Times: 3
+	Query: "59971" ; Times: 1
+	Query: "UF 32133" ; Times: 2
+	Query: "genus:Thecadactylus" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 4
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "catalognumber:130666" ; Times: 1
+	Query: "UF 20248" ; Times: 2
+	Query: "64465" ; Times: 1
+	Query: "70092" ; Times: 1
+	Query: "245362" ; Times: 1
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "zombie" ; Times: 2
+	Query: "229846" ; Times: 1
+	Query: "36384`1" ; Times: 1
+	Query: "Phyllops falcatus" ; Times: 1
+	Query: "299226" ; Times: 1
+	Query: "genus:podomys institutioncode:UF" ; Times: 1
+	Query: "family:Crocodylidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "UF 32439" ; Times: 1
+	Query: "fieldnumber:2027" ; Times: 1
+	Query: "catalognumber:11220 institutioncode:UF" ; Times: 1
+	Query: "UF 60196" ; Times: 1
+	Query: "196696" ; Times: 1
+	Query: "lemur" ; Times: 1
+	Query: "UF 59216" ; Times: 1
+	Query: "68899" ; Times: 1
+	Query: "UF 53859" ; Times: 2
+	Query: "21294" ; Times: 1
+	Query: "UF 101468" ; Times: 3
+	Query: "catalognumber:18446 institutioncode:UF" ; Times: 2
+	Query: "UF 61734" ; Times: 4
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "UF 109322" ; Times: 1
+	Query: "sloth" ; Times: 5
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "catalognumber:33420 institutioncode:UF" ; Times: 2
+	Query: "Geocapromys ingrahami" ; Times: 1
+	Query: "numenius borealis vntype:specimen" ; Times: 4
+	Query: "413023" ; Times: 1
+	Query: "172670" ; Times: 1
+	Query: "UF 58868" ; Times: 3
+	Query: "19696" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "UF 175921" ; Times: 1
+	Query: "UF 156142" ; Times: 4
+	Query: "UF 60205" ; Times: 1
+	Query: "thermophilus" ; Times: 1
+	Query: "catalognumber:119073" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "UF 60200" ; Times: 2
+	Query: "class:mammalia south carolina county:florence" ; Times: 1
+	Query: "Spizaetus" ; Times: 1
+	Query: "UF 21017" ; Times: 3
+	Query: "UF 21014" ; Times: 1
+	Query: "UF 92083" ; Times: 1
+	Query: "UF 175152" ; Times: 1
+	Query: "99456" ; Times: 1
+	Query: "99457" ; Times: 1
+	Query: "Pseudemys Simpson" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "genus:apalone institutioncode:UF isfossil:1" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 2
+	Query: "64939" ; Times: 1
+	Query: "UF 56803" ; Times: 1
+	Query: "UF 21000" ; Times: 3
+	Query: "order:urodela continent:North America year &gt;= 1918 year &lt;= 2018" ; Times: 5
+	Query: "UF 60176" ; Times: 4
+	Query: "79409" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1956 year &lt;= 1957" ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "UF 61765" ; Times: 2
+	Query: "UF 61767" ; Times: 1
+	Query: "class:Aves catalognumber:31381" ; Times: 3
+	Query: "UF 56804" ; Times: 1
+	Query: "UF 101480" ; Times: 2
+	Query: "UF 59215" ; Times: 3
+	Query: "UF 56368" ; Times: 3
+	Query: "heterodon platyrhinos" ; Times: 6
+	Query: "UF 58470" ; Times: 3
+	Query: "Conepatus leuconotus" ; Times: 2
+	Query: "UF 56367" ; Times: 1
+	Query: "298785" ; Times: 1
+	Query: "UF 64465" ; Times: 4
+	Query: "numenius borealis" ; Times: 54
+	Query: "UF 21009" ; Times: 2
+	Query: "megalodon" ; Times: 3
+	Query: "macrochelys" ; Times: 3
+	Query: "UF 56791" ; Times: 2
+	Query: "42139-1" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; lithobates catesbeianus" ; Times: 2
+	Query: "UF 157236" ; Times: 1
+	Query: "137077" ; Times: 1
+	Query: "UF 58491" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "UF 59217" ; Times: 1
+	Query: "191915" ; Times: 2
+	Query: "UF 64499" ; Times: 2
+	Query: "UF 63175" ; Times: 2
+	Query: "UF 70089" ; Times: 1
+	Query: "306352" ; Times: 1
+	Query: "family:phocidae institutioncode:UF" ; Times: 3
+	Query: "56785" ; Times: 1
+	Query: "UF 58386" ; Times: 3
+	Query: "genus:Homotherium" ; Times: 2
+	Query: "Puma concolor" ; Times: 4
+	Query: "UF 98467" ; Times: 2
+	Query: "31224" ; Times: 1
+	Query: "245341" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "156142" ; Times: 1
+	Query: "39047" ; Times: 1
+	Query: "scientificname:panthera onca " ; Times: 4
+	Query: "187212" ; Times: 1
+	Query: "UF 156139" ; Times: 3
+	Query: "UF 156333" ; Times: 3
+	Query: "UF 96657" ; Times: 1
+	Query: "UF 156335" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 13
+	Query: "UF 61781" ; Times: 2
+	Query: "UF 109324" ; Times: 2
+	Query: "UF 61787" ; Times: 1
+	Query: "UF 58486" ; Times: 3
+	Query: "UF 108689" ; Times: 1
+	Query: "88765" ; Times: 1
+	Query: "UF 61788" ; Times: 3
+	Query: "catalognumber:155300" ; Times: 1
+	Query: "heterodon nasicus" ; Times: 1
+	Query: "class:Aves (15540)" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "catalognumber:18447 institutioncode:UF" ; Times: 2
+	Query: "UF 70088" ; Times: 1
+	Query: "recordedby:Herr" ; Times: 1
+	Query: "70533" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "specificepithet:discors genus:Anas year &gt;= 1956 year &lt;= 1957" ; Times: 1
+	Query: "94944" ; Times: 2
+	Query: "UF 58419" ; Times: 1
+	Query: "157240" ; Times: 1
+	Query: "UF 107198" ; Times: 3
+	Query: "UF 107199" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1169 download events in this period)
+Total number of records downloaded: 3423
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 3
+	Country: Cayman Islands ; Times: 1
+	Country: United States ; Times: 26
+	Country: Ecuador ; Times: 3
+	Country: Puerto Rico ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-13 ; Times: 3
+	Date: 2018-06-07 ; Times: 6
+	Date: 2018-06-06 ; Times: 3
+	Date: 2018-06-05 ; Times: 5
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-17 ; Times: 3
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-29 ; Times: 5
+	Date: 2018-06-27 ; Times: 4
+	Date: 2018-06-18 ; Times: 9
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-22 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "sloth" ; Times: 4
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Geocapromys ingrahami" ; Times: 1
+	Query: "tayassu pecari pecari" ; Times: 3
+	Query: "vntype:specimen specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "vntype:specimen specificepithet:conspersus genus:anolis" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "Siren lacertina" ; Times: 1
+	Query: "tyto glaucops" ; Times: 1
+	Query: "order:Strigiformes" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "Caretta caretta" ; Times: 1
+	Query: "white rhino" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "pseudemys concinna" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 3
+	Query: "Lepidochelys kempii" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Spizaetus" ; Times: 2
+	Query: "penguin" ; Times: 2
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "sea turtle" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "Varanus salvator vntype:specimen" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "Nyctinomops" ; Times: 1
+	Query: "Geothlypis trichas" ; Times: 1
+	Query: "order:Falconiformes" ; Times: 1
+	Query: "Microtus" ; Times: 1
+	Query: "crotalus adamanteus" ; Times: 1
+
+
+End of report.
