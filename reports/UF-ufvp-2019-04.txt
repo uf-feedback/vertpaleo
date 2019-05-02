@@ -1,0 +1,353 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 303
+Number of records retrieved in searches: 3841
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 97
+	Country: Canada ; Times: 6
+	Country: Mexico ; Times: 28
+	Country: Norway ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: Austria ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 6
+	Country: Switzerland ; Times: 7
+	Country: Sweden ; Times: 4
+	Country: Guatemala ; Times: 4
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Belgium ; Times: 7
+	Country: Argentina ; Times: 10
+	Country: United States ; Times: 119
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-22 ; Times: 7
+	Date: 2019-04-19 ; Times: 13
+	Date: 2019-04-18 ; Times: 6
+	Date: 2019-04-05 ; Times: 15
+	Date: 2019-04-12 ; Times: 6
+	Date: 2019-04-11 ; Times: 12
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-17 ; Times: 6
+	Date: 2019-04-16 ; Times: 9
+	Date: 2019-04-15 ; Times: 19
+	Date: 2019-04-14 ; Times: 11
+	Date: 2019-04-30 ; Times: 14
+	Date: 2019-04-21 ; Times: 3
+	Date: 2019-04-02 ; Times: 21
+	Date: 2019-04-03 ; Times: 9
+	Date: 2019-04-06 ; Times: 4
+	Date: 2019-04-04 ; Times: 17
+	Date: 2019-04-23 ; Times: 5
+	Date: 2019-04-20 ; Times: 6
+	Date: 2019-04-07 ; Times: 2
+	Date: 2019-04-26 ; Times: 26
+	Date: 2019-04-01 ; Times: 10
+	Date: 2019-04-24 ; Times: 37
+	Date: 2019-04-25 ; Times: 11
+	Date: 2019-04-28 ; Times: 3
+	Date: 2019-04-29 ; Times: 11
+	Date: 2019-04-08 ; Times: 14
+	Date: 2019-04-09 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "47737" ; Times: 1
+	Query: "84999" ; Times: 1
+	Query: "Leopardus pardalis mappable:1" ; Times: 3
+	Query: "Coccyzus minor" ; Times: 1
+	Query: "Thecadactylus rapicauda mappable:1" ; Times: 1
+	Query: "75419" ; Times: 1
+	Query: "59237" ; Times: 1
+	Query: "R-192222" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "100969" ; Times: 1
+	Query: "115761" ; Times: 1
+	Query: "115767" ; Times: 1
+	Query: "genus:Terrapene year &gt;= 2010 month &gt;= 4 month &lt;= 5" ; Times: 1
+	Query: "Bagre bagre mappable:1" ; Times: 1
+	Query: "35899" ; Times: 1
+	Query: "genus:Lampropeltis class:Reptilia county:&#34;Augusta&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 2
+	Query: "specificepithet:americana genus:Grus" ; Times: 1
+	Query: "236824" ; Times: 1
+	Query: "Eumops glaucinus mappable:1" ; Times: 3
+	Query: "Clelia clelia mappable:1" ; Times: 1
+	Query: "UF 134926" ; Times: 2
+	Query: "Heterodon simus mappable:1" ; Times: 1
+	Query: "236829" ; Times: 1
+	Query: "chilabothrus" ; Times: 1
+	Query: "245385" ; Times: 1
+	Query: "catalognumber:142330" ; Times: 1
+	Query: "specificepithet:poeyi genus:Phyllonycteris" ; Times: 1
+	Query: "Rhineura floridana mappable:1" ; Times: 1
+	Query: "236843" ; Times: 1
+	Query: "UF 50905" ; Times: 1
+	Query: "Panthera onca" ; Times: 5
+	Query: "210378" ; Times: 1
+	Query: "202194" ; Times: 1
+	Query: "236966" ; Times: 3
+	Query: "80729" ; Times: 3
+	Query: "240227" ; Times: 1
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "48825" ; Times: 1
+	Query: "52661" ; Times: 2
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "139554" ; Times: 1
+	Query: "107950" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "50360" ; Times: 1
+	Query: "catalognumber:131327" ; Times: 1
+	Query: "specificepithet:seminolus genus:lasiurus" ; Times: 1
+	Query: "catalognumber:131321" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "catalognumber:90043" ; Times: 1
+	Query: "135136" ; Times: 1
+	Query: "103378" ; Times: 1
+	Query: "109475" ; Times: 1
+	Query: "genus:Aristelliger institutioncode:UF" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Florida&#34;" ; Times: 9
+	Query: "carcharhinus limbatus" ; Times: 1
+	Query: "parnell" ; Times: 3
+	Query: "specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "Elops saurus mappable:1" ; Times: 2
+	Query: "137536" ; Times: 1
+	Query: "vntype:specimen specificepithet:californianus genus:Gymnogyps" ; Times: 3
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "genus:Conepatus institutioncode:UF" ; Times: 1
+	Query: "Nyctinomops macrotis mappable:1" ; Times: 2
+	Query: "236272" ; Times: 1
+	Query: "catalognumber:160879" ; Times: 1
+	Query: "Tonatia bidens mappable:1" ; Times: 3
+	Query: "49917" ; Times: 2
+	Query: "155796" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 1
+	Query: "58395" ; Times: 2
+	Query: "137236" ; Times: 1
+	Query: "Plagiodontia" ; Times: 4
+	Query: "116789" ; Times: 1
+	Query: "236174" ; Times: 1
+	Query: "genus:Terrapene stateprovince:&#34;Florida&#34; year &gt;= 2000 month &gt;= 3 month &lt;= 5" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "candoia bibroni" ; Times: 2
+	Query: "Tantilla coronata mappable:1" ; Times: 1
+	Query: "specificepithet:angustirostris genus:todus" ; Times: 1
+	Query: "64422" ; Times: 1
+	Query: "zombie" ; Times: 2
+	Query: "Crotalus adamanteus mappable:1" ; Times: 1
+	Query: "Gallinula galeata mappable:1" ; Times: 2
+	Query: "Opisthonema oglinum mappable:1" ; Times: 2
+	Query: "137546" ; Times: 2
+	Query: "145278" ; Times: 1
+	Query: "conepatus" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "208083" ; Times: 1
+	Query: "236265" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "115753" ; Times: 1
+	Query: "UF 43204" ; Times: 1
+	Query: "UF 43205" ; Times: 1
+	Query: "196693" ; Times: 1
+	Query: "115755" ; Times: 1
+	Query: "catalognumber:132320" ; Times: 1
+	Query: "12171 class:mammalia" ; Times: 2
+	Query: "135690" ; Times: 1
+	Query: "75298" ; Times: 1
+	Query: "sloth" ; Times: 1
+	Query: "137246" ; Times: 1
+	Query: "catalognumber:170470" ; Times: 2
+	Query: "UF 134215" ; Times: 2
+	Query: "81285" ; Times: 1
+	Query: "55269" ; Times: 3
+	Query: "55268" ; Times: 1
+	Query: "241142" ; Times: 1
+	Query: "10653" ; Times: 1
+	Query: "catalognumber:132317" ; Times: 2
+	Query: "86174" ; Times: 2
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "vireo crassirostris" ; Times: 1
+	Query: "236284" ; Times: 1
+	Query: "28459" ; Times: 1
+	Query: "173062" ; Times: 1
+	Query: "30033 class:Mammalia" ; Times: 1
+	Query: "class:Mammalia catalognumber:29482 collectioncode:UF institutioncode:UF" ; Times: 1
+	Query: "57104" ; Times: 1
+	Query: "57105" ; Times: 1
+	Query: "Eumops underwoodi" ; Times: 1
+	Query: "specificepithet:subulatus genus:todus" ; Times: 1
+	Query: "145378" ; Times: 3
+	Query: "30274" ; Times: 1
+	Query: "57103" ; Times: 1
+	Query: "137989" ; Times: 2
+	Query: "amorphochilus schnablii" ; Times: 1
+	Query: "genus:Mephitis institutioncode:UF" ; Times: 1
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "Gadus morhua mappable:1" ; Times: 4
+	Query: "145372" ; Times: 1
+	Query: "259647" ; Times: 1
+	Query: "49924" ; Times: 3
+	Query: "25148" ; Times: 1
+	Query: "10313" ; Times: 4
+	Query: "catalognumber:43527" ; Times: 1
+	Query: "genus:amphiuma basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "115758" ; Times: 1
+	Query: "catalognumber:227425" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Sumter&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "192345" ; Times: 1
+	Query: "catalognumber:29482 collectioncode:UF" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; Pituophis" ; Times: 9
+	Query: "174337" ; Times: 1
+	Query: "12171 class:Mammalia" ; Times: 3
+	Query: "uf 43204" ; Times: 1
+	Query: "uf 43205" ; Times: 1
+	Query: "156150" ; Times: 1
+	Query: "Hemipristis" ; Times: 1
+	Query: "240082" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Citrus&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "lemur" ; Times: 1
+	Query: "209157" ; Times: 1
+	Query: "churu" ; Times: 1
+	Query: "30033" ; Times: 2
+	Query: "135099" ; Times: 1
+	Query: "208078" ; Times: 1
+	Query: "Arretotherium" ; Times: 2
+	Query: "141864" ; Times: 1
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "catalognumber:143263" ; Times: 1
+	Query: "UF 122629" ; Times: 1
+	Query: "145380" ; Times: 1
+	Query: "explorator" ; Times: 1
+	Query: "190310" ; Times: 1
+	Query: "genus:Conepatus" ; Times: 1
+	Query: "182650" ; Times: 1
+	Query: "(mustela frenata)" ; Times: 1
+	Query: "family:Tyrannidae institutioncode:UF" ; Times: 1
+	Query: "genus:Spilogale institutioncode:UF" ; Times: 1
+	Query: "175723" ; Times: 1
+	Query: "53583" ; Times: 1
+	Query: "Rhadinaea flavilata mappable:1" ; Times: 1
+	Query: "161314" ; Times: 1
+	Query: "93566" ; Times: 1
+	Query: "specificepithet:leucocephala genus:amazona" ; Times: 1
+	Query: "211044" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "174335" ; Times: 1
+	Query: "174336" ; Times: 1
+	Query: "119949" ; Times: 1
+	Query: "Mustela frenata" ; Times: 8
+	Query: "Megaceryle torquata mappable:1" ; Times: 2
+	Query: "241644" ; Times: 1
+	Query: "11235" ; Times: 1
+	Query: "145540" ; Times: 2
+	Query: "crocodylus moreletii" ; Times: 4
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "25385 class:Mammalia" ; Times: 1
+	Query: "246998" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 2
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "specificepithet:californianus genus:Gymnogyps" ; Times: 1
+	Query: "specificepithet:merriami class:mammalia institutioncode:UF" ; Times: 1
+	Query: "30030 class:Mammalia" ; Times: 1
+	Query: "Stellifer stellifer mappable:1" ; Times: 1
+	Query: "202429" ; Times: 1
+	Query: "140271" ; Times: 1
+	Query: "Drymarchon corais mappable:1" ; Times: 1
+	Query: "119950" ; Times: 1
+	Query: "119953" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 1263 download events in this period)
+Total number of records downloaded: 3914
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Brazil ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Canada ; Times: 5
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 9
+	Date: 2019-04-02 ; Times: 11
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 4
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-16 ; Times: 3
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-22 ; Times: 4
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-08 ; Times: 2
+	Date: 2019-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Eumops underwoodi" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 2
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "NYCTICEIUS humeralis" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "Myotis grisescens" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "family:Tyrannidae institutioncode:UF" ; Times: 1
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 1
+	Query: "specificepithet:angustirostris genus:todus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "genus:rhinoclemmys order:testudines" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Florida" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:tigrinum" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "specificepithet:leucocephala genus:amazona" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "Macroscelidea" ; Times: 1
+	Query: "NYCTINOMOPS macrotis" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 2
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 2
+	Query: "specificepithet:subulatus genus:todus" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+
+
+End of report.
