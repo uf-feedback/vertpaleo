@@ -1,0 +1,329 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 396
+Number of records retrieved in searches: 19433
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 42
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: Panama ; Times: 3
+	Country: France ; Times: 117
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Czechia ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 3
+	Country: Belgium ; Times: 10
+	Country: Dominican Republic ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 6
+	Country: United States ; Times: 123
+	Country: New Zealand ; Times: 43
+	Country: Russia ; Times: 1
+	Country: Honduras ; Times: 6
+	Country: Mexico ; Times: 14
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 8
+	Date: 2019-05-31 ; Times: 11
+	Date: 2019-05-09 ; Times: 6
+	Date: 2019-05-08 ; Times: 9
+	Date: 2019-05-07 ; Times: 5
+	Date: 2019-05-06 ; Times: 51
+	Date: 2019-05-05 ; Times: 9
+	Date: 2019-05-03 ; Times: 8
+	Date: 2019-05-02 ; Times: 5
+	Date: 2019-05-01 ; Times: 6
+	Date: 2019-05-25 ; Times: 59
+	Date: 2019-05-24 ; Times: 14
+	Date: 2019-05-27 ; Times: 12
+	Date: 2019-05-26 ; Times: 29
+	Date: 2019-05-21 ; Times: 3
+	Date: 2019-05-20 ; Times: 23
+	Date: 2019-05-23 ; Times: 42
+	Date: 2019-05-22 ; Times: 30
+	Date: 2019-05-29 ; Times: 10
+	Date: 2019-05-28 ; Times: 13
+	Date: 2019-05-18 ; Times: 5
+	Date: 2019-05-19 ; Times: 4
+	Date: 2019-05-10 ; Times: 7
+	Date: 2019-05-11 ; Times: 7
+	Date: 2019-05-13 ; Times: 7
+	Date: 2019-05-14 ; Times: 5
+	Date: 2019-05-15 ; Times: 4
+	Date: 2019-05-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 3
+	Query: "84999" ; Times: 1
+	Query: "Leopardus pardalis mappable:1" ; Times: 1
+	Query: "217679" ; Times: 1
+	Query: "Negaprion brevirostris" ; Times: 1
+	Query: "glaucomys volans" ; Times: 2
+	Query: "Carcharhinus sealei" ; Times: 1
+	Query: "Pseudorca crassidens mappable:1" ; Times: 1
+	Query: "103068" ; Times: 2
+	Query: "catalognumber:49131 institutioncode:UF" ; Times: 1
+	Query: "&#34;panthera onca&#34;" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "Megalops atlanticus mappable:1" ; Times: 1
+	Query: "Myliobatis californica" ; Times: 1
+	Query: "catalognumber:53893" ; Times: 1
+	Query: "151419" ; Times: 1
+	Query: "176358" ; Times: 1
+	Query: "Eumops glaucinus mappable:1" ; Times: 1
+	Query: "trichechus" ; Times: 11
+	Query: "225710" ; Times: 1
+	Query: "Rhinoptera steindachneri" ; Times: 1
+	Query: "Drymarchon corais corais" ; Times: 1
+	Query: "Pomatomus saltatrix" ; Times: 2
+	Query: "Panthera onca" ; Times: 9
+	Query: "217680" ; Times: 2
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "278943" ; Times: 3
+	Query: "Mobula tarapacana" ; Times: 1
+	Query: "Aquila chrysaetos year &gt; 1985" ; Times: 1
+	Query: "Crocodylus rhombifer" ; Times: 1
+	Query: "17485" ; Times: 1
+	Query: "UF 33956" ; Times: 1
+	Query: "88258" ; Times: 1
+	Query: "Bufo terrestris institutioncode:UF" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "278439" ; Times: 1
+	Query: "Mobula munkiana" ; Times: 1
+	Query: "catalognumber:7852 institutioncode:UF" ; Times: 1
+	Query: "Sphyraena barracuda mappable:1" ; Times: 1
+	Query: "167532" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Carcharhinus brachyurus" ; Times: 1
+	Query: "genus:canis country:&#34;USA&#34;" ; Times: 3
+	Query: "31985" ; Times: 1
+	Query: "39672" ; Times: 1
+	Query: "47124" ; Times: 26
+	Query: "Lachnolaimus maximus mappable:1" ; Times: 11
+	Query: "Apogon townsendi mappable:1" ; Times: 20
+	Query: "family:Balaenopteridae stateprovince:&#34;florida&#34; year &gt;= 1900 year &lt;= 1940" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 2
+	Query: "catalognumber:137518 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:182006" ; Times: 1
+	Query: "Macrochelys temminckii mappable:1" ; Times: 3
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Nyctinomops macrotis mappable:1" ; Times: 1
+	Query: "Madison county Florida pituophis" ; Times: 1
+	Query: "&#34;leopardus pardalis&#34;" ; Times: 1
+	Query: "279987" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "Caranx hippos mappable:1" ; Times: 2
+	Query: "vntype:specimen genus:Ectopistes" ; Times: 5
+	Query: "catalognumber:142362 institutioncode:UF" ; Times: 2
+	Query: "Rhynchobatus luebberti" ; Times: 1
+	Query: "Isurus paucus" ; Times: 1
+	Query: "Carcharhinus acronotus" ; Times: 1
+	Query: "catalognumber:88258" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "Carcharhinus signatus" ; Times: 1
+	Query: "catalognumber:21839 institutioncode:UF" ; Times: 1
+	Query: "Centrophorus granulosus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "Isurus oxyrinchus" ; Times: 1
+	Query: "Hemipristis elongata" ; Times: 1
+	Query: "Gallinula galeata" ; Times: 1
+	Query: "Mobula hypostoma" ; Times: 1
+	Query: "24880" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "Gallinula galeata mappable:1" ; Times: 1
+	Query: "308863" ; Times: 1
+	Query: "Opisthonema oglinum mappable:1" ; Times: 1
+	Query: "Diplectrum formosum mappable:1" ; Times: 2
+	Query: "zombie" ; Times: 1
+	Query: "Carcharhinus brevipinna" ; Times: 1
+	Query: "302998" ; Times: 2
+	Query: "39150" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 1
+	Query: "278394" ; Times: 1
+	Query: "259851" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Mycteroperca tigris mappable:1" ; Times: 7
+	Query: "278493" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 1
+	Query: "Carcharias taurus" ; Times: 2
+	Query: "Lepidochelys kempii  mappable:1" ; Times: 1
+	Query: "155228" ; Times: 1
+	Query: "Carcharhinus acronotus mappable:1" ; Times: 21
+	Query: "Squatina squatina" ; Times: 1
+	Query: "319573" ; Times: 1
+	Query: "Calidris canutus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Amorphochilus schnablii" ; Times: 1
+	Query: "Heterodontus portusjacksoni" ; Times: 1
+	Query: "11225" ; Times: 1
+	Query: "Tonatia bidens mappable:1" ; Times: 1
+	Query: "Grus americana year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "genus:Mobula" ; Times: 3
+	Query: "59408" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1951 year &lt;= 1960" ; Times: 1
+	Query: "nana Jamaica" ; Times: 2
+	Query: "Carcharhinus isodon" ; Times: 1
+	Query: "172610" ; Times: 1
+	Query: "265139" ; Times: 1
+	Query: "Notorynchus cepedianus" ; Times: 1
+	Query: "43100 institutioncode:UF" ; Times: 1
+	Query: "Canis lupus familiaris mappable:1 year&gt;=1970 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Ginglymostoma cirratum" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 10
+	Query: "Mustela frenata vntype:specimen country:&#34;USA&#34;" ; Times: 3
+	Query: "0245" ; Times: 1
+	Query: "Ginglymostoma cirratum mappable:1" ; Times: 2
+	Query: "168930" ; Times: 1
+	Query: "Galeocerdo cuvier mappable:1" ; Times: 2
+	Query: "215065" ; Times: 1
+	Query: "Canis rufus" ; Times: 2
+	Query: "Panthera onca mappable:1" ; Times: 3
+	Query: "Alopias superciliosus" ; Times: 1
+	Query: "Epinephelus itajara mappable:1" ; Times: 7
+	Query: "Siren lacertina" ; Times: 5
+	Query: "202492" ; Times: 1
+	Query: "Sphyrna zygaena mappable:1" ; Times: 2
+	Query: "solenodon" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "127198" ; Times: 1
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 2
+	Query: "ectopistes migratorius" ; Times: 3
+	Query: "catalognumber:108402" ; Times: 1
+	Query: "312554" ; Times: 3
+	Query: "46899" ; Times: 1
+	Query: "181338" ; Times: 1
+	Query: "278984" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 6
+	Query: "298783" ; Times: 1
+	Query: "Aetobatus narinari mappable:1" ; Times: 2
+	Query: "196696" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "Carcharhinus falciformis mappable:1" ; Times: 2
+	Query: "Carcharhinus macloti" ; Times: 1
+	Query: "17610" ; Times: 1
+	Query: "208078" ; Times: 1
+	Query: "Mobula japanica" ; Times: 1
+	Query: "rhineura" ; Times: 2
+	Query: "291287" ; Times: 1
+	Query: "Carcharhinus leucas mappable:1" ; Times: 2
+	Query: "304603" ; Times: 1
+	Query: "Negaprion brevirostris mappable:1" ; Times: 13
+	Query: "Rhizoprionodon longurio" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1971 year &lt;= 1980" ; Times: 1
+	Query: "crocodylus" ; Times: 1
+	Query: "catalognumber:147730" ; Times: 1
+	Query: "202942" ; Times: 1
+	Query: "235747" ; Times: 1
+	Query: "Amorphochilus" ; Times: 1
+	Query: "megalomys" ; Times: 1
+	Query: "91493" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 2
+	Query: "Sphyrna mokarran" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 1
+	Query: "catalognumber:137519 institutioncode:UF" ; Times: 2
+	Query: "Stenella frontalis mappable:1" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 2
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "Mustela frenata vntype:specimen stateprovince:&#34;Florida&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "uf 65448" ; Times: 1
+	Query: "Trichechus manatus mappable:1" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 4
+	Query: "Cathartes aura year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 1
+	Query: "country:&#34;USA&#34; (Agkistrodon)" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 1
+	Query: "Sphyrna mokarran mappable:1" ; Times: 2
+	Query: "225763" ; Times: 1
+	Query: "centrophorus granulosus" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 3
+	Query: "Lamna nasus" ; Times: 1
+	Query: "Carcharhinus plumbeus" ; Times: 1
+	Query: "Mobula thurstoni" ; Times: 1
+	Query: "175723" ; Times: 3
+	Query: "76486" ; Times: 1
+	Query: "Albula vulpes mappable:1" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 1
+	Query: "83059" ; Times: 1
+	Query: "Moschus" ; Times: 5
+	Query: "Galeocerdo cuvier" ; Times: 1
+	Query: "catalognumber:860 institutioncode:UF" ; Times: 1
+	Query: "Anhinga anhinga year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 940 download events in this period)
+Total number of records downloaded: 3016
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 13
+	Country: Colombia ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 2
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-23 ; Times: 2
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-31 ; Times: 4
+	Date: 2019-05-18 ; Times: 1
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-06 ; Times: 5
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-14 ; Times: 2
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "Pygoscelis adeliae" ; Times: 2
+	Query: "Crocodylus rhombifer" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "Lanius ludovicianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:coccyzus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1951 year &lt;= 1960" ; Times: 1
+	Query: "class:Reptilia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Ectopistes" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1981 year &lt;= 1990" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "centrophorus granulosus" ; Times: 1
+	Query: "vntype:specimen genus:grus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1971 year &lt;= 1980" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+
+
+End of report.
