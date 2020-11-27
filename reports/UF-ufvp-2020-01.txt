@@ -1,0 +1,559 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 584
+Number of records retrieved in searches: 14449
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 6
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Denmark ; Times: 3
+	Country: Panama ; Times: 1
+	Country: France ; Times: 87
+	Country: United Kingdom ; Times: 13
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: Guadeloupe ; Times: 1
+	Country: United States ; Times: 449
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 12
+	Date: 2020-01-09 ; Times: 3
+	Date: 2020-01-03 ; Times: 21
+	Date: 2020-01-02 ; Times: 11
+	Date: 2020-01-01 ; Times: 35
+	Date: 2020-01-07 ; Times: 17
+	Date: 2020-01-06 ; Times: 73
+	Date: 2020-01-05 ; Times: 33
+	Date: 2020-01-21 ; Times: 22
+	Date: 2020-01-20 ; Times: 43
+	Date: 2020-01-23 ; Times: 27
+	Date: 2020-01-08 ; Times: 10
+	Date: 2020-01-25 ; Times: 4
+	Date: 2020-01-24 ; Times: 55
+	Date: 2020-01-27 ; Times: 12
+	Date: 2020-01-26 ; Times: 2
+	Date: 2020-01-29 ; Times: 15
+	Date: 2020-01-28 ; Times: 19
+	Date: 2020-01-18 ; Times: 1
+	Date: 2020-01-19 ; Times: 6
+	Date: 2020-01-14 ; Times: 15
+	Date: 2020-01-15 ; Times: 9
+	Date: 2020-01-30 ; Times: 40
+	Date: 2020-01-17 ; Times: 5
+	Date: 2020-01-10 ; Times: 10
+	Date: 2020-01-11 ; Times: 4
+	Date: 2020-01-12 ; Times: 9
+	Date: 2020-01-13 ; Times: 20
+	Date: 2020-01-31 ; Times: 15
+	Date: 2020-01-16 ; Times: 36
+
+List of queries that retrieved data from the resource: 
+	Query: "Nesotrochis debooyi" ; Times: 1
+	Query: "241212" ; Times: 1
+	Query: "73465" ; Times: 1
+	Query: "73464" ; Times: 1
+	Query: "genus:Scymnodon" ; Times: 1
+	Query: "Pseudorca crassidens mappable:1" ; Times: 1
+	Query: "179163" ; Times: 1
+	Query: "catalognumber:50657 institutioncode:UF" ; Times: 3
+	Query: "39717" ; Times: 1
+	Query: "Canis familiaris mappable:1" ; Times: 1
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "236340" ; Times: 1
+	Query: "406625" ; Times: 1
+	Query: "Panthera onca" ; Times: 12
+	Query: "Synodus foetens mappable:1" ; Times: 3
+	Query: "specificepithet:longurio genus:Rhizoprionodon" ; Times: 1
+	Query: "catalognumber:47254 institutioncode:UF" ; Times: 1
+	Query: "holotype family:columbidae" ; Times: 1
+	Query: "Rhizoprionodon terraenovae mappable:1" ; Times: 3
+	Query: "309308" ; Times: 2
+	Query: "Carcharhinus acronotus mappable:1" ; Times: 2
+	Query: "243428" ; Times: 1
+	Query: "Zenaida aurita" ; Times: 1
+	Query: "242294" ; Times: 1
+	Query: "Apogon townsendi mappable:1" ; Times: 1
+	Query: "243420" ; Times: 1
+	Query: "279134" ; Times: 1
+	Query: "179864" ; Times: 1
+	Query: "scientificname:Menidia menidia mappable:1" ; Times: 4
+	Query: "279132" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "family:Camelidae stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "dermoptera AND (north america)" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "248743" ; Times: 1
+	Query: "240927" ; Times: 1
+	Query: "240926" ; Times: 1
+	Query: "242062" ; Times: 1
+	Query: "h nichols" ; Times: 3
+	Query: "fieldnumber: 319" ; Times: 1
+	Query: "216997" ; Times: 1
+	Query: "Mycteroperca tigris mappable:1" ; Times: 3
+	Query: "Opisthonema oglinum mappable:1" ; Times: 3
+	Query: "109716" ; Times: 1
+	Query: "406238" ; Times: 1
+	Query: "catalognumber:24376 institutioncode:UF" ; Times: 1
+	Query: "specificepithet:intermedius genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "catalognumber:134710" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "242445" ; Times: 1
+	Query: "specificepithet:leptostomus genus:Megalonyx stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Carcharhinus falciformis mappable:1" ; Times: 3
+	Query: "picta Chrysemys" ; Times: 1
+	Query: "specificepithet:rafinesquii stateprovince:&#34;florida&#34;" ; Times: 4
+	Query: "UF 65801" ; Times: 1
+	Query: "48995" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla institutioncode:UF" ; Times: 1
+	Query: "O.72269" ; Times: 1
+	Query: "297681" ; Times: 2
+	Query: "241818" ; Times: 1
+	Query: "206685" ; Times: 1
+	Query: "204019" ; Times: 1
+	Query: "Eucinostomus gula mappable:1" ; Times: 2
+	Query: "specificepithet:leptostomus genus:Megalonyx" ; Times: 1
+	Query: "Strongylura marina mappable:1" ; Times: 2
+	Query: "family:Tapiridae stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "recordedby:bancroft" ; Times: 1
+	Query: "catalognumber:50658 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:37744 institutioncode:UF" ; Times: 1
+	Query: "Burhinus bistriatus nanus" ; Times: 1
+	Query: "Amplibuteo woodwardi" ; Times: 2
+	Query: "264072" ; Times: 1
+	Query: "242647" ; Times: 1
+	Query: "192726" ; Times: 1
+	Query: "Carcharhinus leucas mappable:1" ; Times: 3
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 2
+	Query: "317653" ; Times: 1
+	Query: "317652" ; Times: 1
+	Query: "Negaprion brevirostris mappable:1" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "98368" ; Times: 1
+	Query: "specificepithet:minor genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "234811" ; Times: 1
+	Query: "317657" ; Times: 1
+	Query: "314525" ; Times: 1
+	Query: "314524" ; Times: 1
+	Query: "226490" ; Times: 1
+	Query: "169605" ; Times: 1
+	Query: "243416" ; Times: 1
+	Query: "243414" ; Times: 1
+	Query: "(&#34;Canis rufus&#34;)" ; Times: 1
+	Query: "Isistius" ; Times: 1
+	Query: "242413" ; Times: 1
+	Query: "224806" ; Times: 1
+	Query: "279166" ; Times: 1
+	Query: "148451" ; Times: 1
+	Query: "205936" ; Times: 1
+	Query: "Trichechus manatus mappable:1" ; Times: 1
+	Query: "Dermoptera" ; Times: 5
+	Query: "242091" ; Times: 1
+	Query: "52543" ; Times: 1
+	Query: "Ophisaurus compressus" ; Times: 1
+	Query: "catalognumber:24624 institutioncode:UF" ; Times: 1
+	Query: "Dulus dominicus" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 2
+	Query: "242099" ; Times: 1
+	Query: "catalognumber:43714 institutioncode:UF" ; Times: 1
+	Query: "307210" ; Times: 1
+	Query: "300338" ; Times: 1
+	Query: "240912" ; Times: 1
+	Query: "240918" ; Times: 2
+	Query: "227121" ; Times: 1
+	Query: "212409" ; Times: 1
+	Query: "Accipiter class:aves isfossil:1" ; Times: 1
+	Query: "241995" ; Times: 1
+	Query: "109191" ; Times: 1
+	Query: "Monachus tropicalis mappable:1" ; Times: 1
+	Query: "241323" ; Times: 1
+	Query: "406204" ; Times: 1
+	Query: "301252" ; Times: 1
+	Query: "329672" ; Times: 1
+	Query: "105377" ; Times: 1
+	Query: "specificepithet:praesignis genus:Aristelliger institutioncode:UF" ; Times: 7
+	Query: "254626" ; Times: 1
+	Query: "159877" ; Times: 1
+	Query: "specificepithet:asio genus:megascops institutioncode:UF" ; Times: 2
+	Query: "241204" ; Times: 2
+	Query: "specificepithet:woodhousii genus:Bufo institutioncode:UF" ; Times: 1
+	Query: "241291" ; Times: 1
+	Query: "catalognumber:23966 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 2
+	Query: "329996" ; Times: 1
+	Query: "Titanohierax gloveralleni" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Gastrophryne institutioncode:UF" ; Times: 1
+	Query: "241334" ; Times: 1
+	Query: "catalognumber:43324 institutioncode:UF" ; Times: 2
+	Query: "124065" ; Times: 2
+	Query: "297173" ; Times: 1
+	Query: "Grus americana" ; Times: 2
+	Query: "Tyto ostologa" ; Times: 3
+	Query: "226456" ; Times: 1
+	Query: "226455" ; Times: 1
+	Query: "226452" ; Times: 1
+	Query: "catalognumber:4526 institutioncode:UF" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "178136" ; Times: 1
+	Query: "128596" ; Times: 1
+	Query: "Sirenia" ; Times: 1
+	Query: "292897" ; Times: 1
+	Query: "genus:Pterosphenus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "catalognumber:50660 institutioncode:UF" ; Times: 1
+	Query: "244076" ; Times: 1
+	Query: "229265" ; Times: 1
+	Query: "catalognumber:49299 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:97853" ; Times: 1
+	Query: "catalognumber:48261 institutioncode:UF" ; Times: 1
+	Query: "241899" ; Times: 1
+	Query: "O.58135" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "242853" ; Times: 1
+	Query: "catalognumber:43613 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:47287 institutioncode:UF" ; Times: 2
+	Query: "206605" ; Times: 1
+	Query: "Scolopax brachycarpa" ; Times: 2
+	Query: "125740" ; Times: 1
+	Query: "231996" ; Times: 1
+	Query: "39597" ; Times: 2
+	Query: "241097" ; Times: 1
+	Query: "catalognumber:37369 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:50831 institutioncode:UF" ; Times: 1
+	Query: "leiothlypis" ; Times: 1
+	Query: "242520" ; Times: 1
+	Query: "catalognumber:48252 institutioncode:UF" ; Times: 2
+	Query: "62878" ; Times: 1
+	Query: "Aetobatus narinari mappable:1" ; Times: 3
+	Query: "255165" ; Times: 1
+	Query: "specificepithet:femoralis genus:Hyla" ; Times: 1
+	Query: "62875" ; Times: 1
+	Query: "406253" ; Times: 1
+	Query: "241276" ; Times: 1
+	Query: "255625" ; Times: 1
+	Query: "Siphonorhis americana" ; Times: 2
+	Query: "specificepithet:americana genus:Tarentola institutioncode:UF" ; Times: 5
+	Query: "189327" ; Times: 1
+	Query: "specificepithet:quercicus genus:Bufo institutioncode:UF" ; Times: 1
+	Query: "243462" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 1
+	Query: "226416" ; Times: 1
+	Query: "241872" ; Times: 1
+	Query: "Xenicibis xympithecus" ; Times: 1
+	Query: "155619" ; Times: 1
+	Query: "256962" ; Times: 1
+	Query: "85834" ; Times: 1
+	Query: "specificepithet:ornata genus:Pseudacris" ; Times: 1
+	Query: "Galeocerdo cuvier mappable:1" ; Times: 2
+	Query: "UF 47413" ; Times: 1
+	Query: "genus:Pterosphenus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Tyrannus cubensis" ; Times: 2
+	Query: "240995" ; Times: 1
+	Query: "241868" ; Times: 1
+	Query: "100760" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "226468" ; Times: 1
+	Query: "97174" ; Times: 1
+	Query: "226464" ; Times: 1
+	Query: "226463" ; Times: 1
+	Query: "226460" ; Times: 1
+	Query: "Leopardus pardalis mappable:1" ; Times: 3
+	Query: "catalognumber:20670 institutioncode:UF" ; Times: 1
+	Query: "(DERMOPTERA)" ; Times: 1
+	Query: "148446" ; Times: 1
+	Query: "243811" ; Times: 1
+	Query: "catalognumber:37368 institutioncode:UF" ; Times: 1
+	Query: "Megalops atlanticus mappable:1" ; Times: 3
+	Query: "catalognumber:20982 institutioncode:UF" ; Times: 1
+	Query: "242554" ; Times: 1
+	Query: "111121" ; Times: 1
+	Query: "258829" ; Times: 1
+	Query: "Neochen barbadiana" ; Times: 3
+	Query: "(dermoptera)" ; Times: 1
+	Query: "Sphyrna mokarran mappable:1" ; Times: 2
+	Query: "Lasiurus intermedius" ; Times: 2
+	Query: "Pulsatrix arredondoi" ; Times: 2
+	Query: "specificepithet:holbrookii genus:Scaphiopus institutioncode:UF" ; Times: 1
+	Query: "406211" ; Times: 1
+	Query: "catalognumber:50668 institutioncode:UF" ; Times: 1
+	Query: "(&#34;canis rufus&#34;)" ; Times: 1
+	Query: "Sphyraena barracuda mappable:1" ; Times: 2
+	Query: "catalognumber:47395 institutioncode:UF" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "specificepithet:terrestris genus:Bufo institutioncode:UF" ; Times: 1
+	Query: "242034" ; Times: 1
+	Query: "288695" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 1
+	Query: "225865" ; Times: 1
+	Query: "catalognumber:4524 institutioncode:UF" ; Times: 1
+	Query: "Lachnolaimus maximus mappable:1" ; Times: 6
+	Query: "specificepithet:dekayi genus:storeria institutioncode:UF" ; Times: 1
+	Query: "13990" ; Times: 2
+	Query: "order:Proboscidea stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "39813" ; Times: 1
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "241839" ; Times: 1
+	Query: "224522" ; Times: 1
+	Query: "specificepithet:gratiosa genus:Hyla institutioncode:UF" ; Times: 1
+	Query: "415452" ; Times: 1
+	Query: "415451" ; Times: 1
+	Query: "Trachinotus carolinus mappable:1" ; Times: 2
+	Query: "263644" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo institutioncode:UF" ; Times: 1
+	Query: "241862" ; Times: 1
+	Query: "226429" ; Times: 1
+	Query: "Gallinago kakuki" ; Times: 2
+	Query: "Carcharodon carcharias" ; Times: 4
+	Query: "329970" ; Times: 1
+	Query: "329971" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 2
+	Query: "110205" ; Times: 1
+	Query: "specificepithet:holbrookii genus:Scaphiopus" ; Times: 1
+	Query: "Nesoctites" ; Times: 3
+	Query: "Diplectrum formosum mappable:1" ; Times: 3
+	Query: "fieldnumber:FS 319" ; Times: 1
+	Query: "catalognumber:24155 institutioncode:UF" ; Times: 1
+	Query: "Dermoptera AND (NOT birds)" ; Times: 1
+	Query: "Ginglymostoma cirratum mappable:1" ; Times: 2
+	Query: "294532" ; Times: 1
+	Query: "catalognumber:37743 institutioncode:UF" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:UF" ; Times: 5
+	Query: "Epinephelus itajara mappable:1" ; Times: 3
+	Query: "catalognumber:10796 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:43771 institutioncode:UF" ; Times: 3
+	Query: "187110" ; Times: 1
+	Query: "dermoptera" ; Times: 16
+	Query: "160370" ; Times: 1
+	Query: "Micropogonias undulatus mappable:1" ; Times: 1
+	Query: "smilodon" ; Times: 1
+	Query: "Fulica podagrica" ; Times: 2
+	Query: "185802" ; Times: 1
+	Query: "catalognumber:1290 institutioncode:UF" ; Times: 1
+	Query: "specificepithet:gratiosa genus:Hyla" ; Times: 1
+	Query: "257139" ; Times: 1
+	Query: "254159" ; Times: 1
+	Query: "116269" ; Times: 1
+	Query: "specificepithet:capito genus:Rana institutioncode:UF" ; Times: 1
+	Query: "dulus" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 1
+	Query: "12353" ; Times: 1
+	Query: "258868" ; Times: 1
+	Query: "12356" ; Times: 2
+	Query: "specificepithet:lar genus:Aristelliger institutioncode:UF" ; Times: 7
+	Query: "Stenella frontalis mappable:1" ; Times: 1
+	Query: "specificepithet:ornata genus:Pseudacris institutioncode:UF" ; Times: 1
+	Query: "239275" ; Times: 1
+	Query: "242124" ; Times: 1
+	Query: "140174" ; Times: 1
+	Query: "239375" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 3
+	Query: "canis rufus" ; Times: 2
+	Query: "87894" ; Times: 1
+	Query: "specificepithet:gryllus genus:Acris institutioncode:UF" ; Times: 1
+	Query: "larry brown" ; Times: 3
+	Query: "Clemmys guttata mappable:1" ; Times: 1
+	Query: "25179" ; Times: 1
+	Query: "catalognumber:49408 institutioncode:UF" ; Times: 3
+	Query: "canadensis 1876" ; Times: 1
+	Query: "specificepithet:capito genus:Rana" ; Times: 1
+	Query: "catalognumber:37741 institutioncode:UF" ; Times: 2
+	Query: "241462" ; Times: 1
+	Query: "252385" ; Times: 1
+	Query: "genus:Tapirus stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "226479" ; Times: 1
+	Query: "specificepithet:grylio genus:Rana institutioncode:UF" ; Times: 1
+	Query: "226472" ; Times: 1
+	Query: "243430" ; Times: 1
+	Query: "242533" ; Times: 1
+	Query: "specificepithet:americana genus:grus" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 3
+	Query: "vntype:specimen specificepithet:Zygaena genus:Sphyrna" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 2
+	Query: "242625" ; Times: 1
+	Query: "Mycteria wetmorei" ; Times: 2
+	Query: "116798" ; Times: 1
+	Query: "116799" ; Times: 1
+	Query: "207097" ; Times: 1
+	Query: "242544" ; Times: 1
+	Query: "Lepidochelys kempii  mappable:1" ; Times: 1
+	Query: "catalognumber:45196 institutioncode:UF" ; Times: 2
+	Query: "242059" ; Times: 1
+	Query: "h. nichols" ; Times: 5
+	Query: "Sphyrna lewini mappable:1" ; Times: 2
+	Query: "252412" ; Times: 1
+	Query: "Elops saurus mappable:1" ; Times: 3
+	Query: "UF 88506" ; Times: 1
+	Query: "406229" ; Times: 1
+	Query: "Caranx hippos mappable:1" ; Times: 2
+	Query: "119592" ; Times: 1
+	Query: "329657" ; Times: 1
+	Query: "15-2654" ; Times: 1
+	Query: "catalognumber:20954 institutioncode:UF" ; Times: 1
+	Query: "180098" ; Times: 1
+	Query: "family:Equidae stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "UF 49970" ; Times: 1
+	Query: "228864" ; Times: 1
+	Query: "126807" ; Times: 1
+	Query: "catalognumber:13821 institutioncode:UF" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34;" ; Times: 1
+	Query: "Chaetodipterus faber mappable:1" ; Times: 3
+	Query: "241042" ; Times: 1
+	Query: "No. O.58135" ; Times: 1
+	Query: "196663" ; Times: 1
+	Query: "196664" ; Times: 1
+	Query: "278077" ; Times: 1
+	Query: "catalognumber:51335 institutioncode:UF" ; Times: 1
+	Query: "115914" ; Times: 1
+	Query: "226439" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 2
+	Query: "240727" ; Times: 1
+	Query: "102707" ; Times: 1
+	Query: "240728" ; Times: 1
+	Query: "284460" ; Times: 1
+	Query: "cubanensis" ; Times: 2
+	Query: "catalognumber:49327 institutioncode:UF" ; Times: 2
+	Query: "159630" ; Times: 2
+	Query: "314059" ; Times: 1
+	Query: "224905" ; Times: 1
+	Query: "Sphyrna zygaena mappable:1" ; Times: 2
+	Query: "specificepithet:femoralis genus:Hyla institutioncode:UF" ; Times: 1
+	Query: "242270" ; Times: 1
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 3
+	Query: "226649" ; Times: 1
+	Query: "164673" ; Times: 1
+	Query: "143785" ; Times: 1
+	Query: "specificepithet:seminolus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Neochen" ; Times: 1
+	Query: "genus:Equus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "226488" ; Times: 2
+	Query: "Ciconia maltha" ; Times: 2
+	Query: "274050" ; Times: 1
+	Query: "242010" ; Times: 1
+	Query: "242012" ; Times: 1
+	Query: "242016" ; Times: 1
+	Query: "ectopistes" ; Times: 2
+	Query: "specificepithet:grylio genus:Rana" ; Times: 1
+	Query: "257636" ; Times: 1
+	Query: "206276" ; Times: 1
+	Query: "Patagioenas squamosa" ; Times: 1
+	Query: "251149" ; Times: 2
+	Query: "307206" ; Times: 1
+	Query: "307209" ; Times: 1
+	Query: "specificepithet:quercicus genus:Bufo" ; Times: 1
+	Query: "Tyto pollens" ; Times: 2
+	Query: "212414" ; Times: 1
+	Query: "212417" ; Times: 1
+	Query: "406284" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "equus" ; Times: 1
+	Query: "406276" ; Times: 1
+	Query: "406275" ; Times: 1
+	Query: "236594" ; Times: 1
+	Query: "Rallus cyanocavi" ; Times: 3
+	Query: "406272" ; Times: 1
+	Query: "Albula vulpes mappable:1" ; Times: 3
+	Query: "329669" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 82 (out of 1584 download events in this period)
+Total number of records downloaded: 3977
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 71
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: China ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-29 ; Times: 6
+	Date: 2020-01-02 ; Times: 5
+	Date: 2020-01-07 ; Times: 3
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-21 ; Times: 2
+	Date: 2020-01-20 ; Times: 6
+	Date: 2020-01-23 ; Times: 2
+	Date: 2020-01-08 ; Times: 3
+	Date: 2020-01-25 ; Times: 4
+	Date: 2020-01-24 ; Times: 6
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-26 ; Times: 3
+	Date: 2020-01-28 ; Times: 2
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-11 ; Times: 3
+	Date: 2020-01-12 ; Times: 7
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-31 ; Times: 12
+	Date: 2020-01-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Leiocephalus carinatus" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "genus:Scaphiopus" ; Times: 1
+	Query: "Zenaida aurita" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "(DERMOPTERA)" ; Times: 3
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "specificepithet:minor genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Iguana iguana" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "class:Aves hastypestatus:1" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "holotype class:aves" ; Times: 1
+	Query: "Nactus pelagicus" ; Times: 1
+	Query: "specificepithet:asio genus:megascops institutioncode:UF" ; Times: 1
+	Query: "specificepithet:seminolus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "(dermoptera)" ; Times: 2
+	Query: "cubanensis" ; Times: 2
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "order:dermoptera" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "Dermoptera" ; Times: 6
+	Query: "holotype family:columbidae" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Ophisaurus compressus" ; Times: 1
+	Query: "dermoptera" ; Times: 16
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "Tyrannus cubensis" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "specificepithet:intermedius genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 2
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Basiliscus basiliscus" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "Varanus salvator" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+
+
+End of report.
