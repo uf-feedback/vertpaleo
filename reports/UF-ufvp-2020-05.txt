@@ -1,0 +1,524 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 474
+Number of records retrieved in searches: 3649
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 9
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 3
+	Country: Ireland ; Times: 10
+	Country: Hong Kong ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: United States ; Times: 432
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 8
+	Date: 2020-05-24 ; Times: 3
+	Date: 2020-05-27 ; Times: 6
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-21 ; Times: 3
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-23 ; Times: 1
+	Date: 2020-05-22 ; Times: 3
+	Date: 2020-05-29 ; Times: 5
+	Date: 2020-05-28 ; Times: 15
+	Date: 2020-05-18 ; Times: 3
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-10 ; Times: 36
+	Date: 2020-05-11 ; Times: 30
+	Date: 2020-05-12 ; Times: 12
+	Date: 2020-05-13 ; Times: 2
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-15 ; Times: 52
+	Date: 2020-05-16 ; Times: 21
+	Date: 2020-05-17 ; Times: 66
+	Date: 2020-05-30 ; Times: 8
+	Date: 2020-05-31 ; Times: 12
+	Date: 2020-05-09 ; Times: 8
+	Date: 2020-05-08 ; Times: 16
+	Date: 2020-05-07 ; Times: 58
+	Date: 2020-05-06 ; Times: 46
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-04 ; Times: 29
+	Date: 2020-05-03 ; Times: 12
+	Date: 2020-05-02 ; Times: 9
+	Date: 2020-05-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "36580" ; Times: 1
+	Query: "134721" ; Times: 1
+	Query: "158008" ; Times: 1
+	Query: "313574" ; Times: 2
+	Query: "47128" ; Times: 1
+	Query: "158005" ; Times: 1
+	Query: "158007" ; Times: 1
+	Query: "283387" ; Times: 1
+	Query: "268213" ; Times: 1
+	Query: "squatina squatina" ; Times: 1
+	Query: "268214" ; Times: 1
+	Query: "165471" ; Times: 1
+	Query: "269591" ; Times: 2
+	Query: "66672" ; Times: 1
+	Query: "97386" ; Times: 1
+	Query: "331880" ; Times: 1
+	Query: "201535" ; Times: 1
+	Query: "413510" ; Times: 1
+	Query: "158094" ; Times: 1
+	Query: "257330" ; Times: 1
+	Query: "413517" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "64705" ; Times: 1
+	Query: "308873" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "276965" ; Times: 1
+	Query: "class:Aves catalognumber:123999" ; Times: 2
+	Query: "234260" ; Times: 1
+	Query: "15583" ; Times: 1
+	Query: "229057" ; Times: 1
+	Query: "284132" ; Times: 1
+	Query: "79663" ; Times: 2
+	Query: "298398" ; Times: 1
+	Query: "175967" ; Times: 1
+	Query: "175963" ; Times: 1
+	Query: "269646" ; Times: 1
+	Query: "191514" ; Times: 1
+	Query: "284910" ; Times: 1
+	Query: "205970" ; Times: 1
+	Query: "416251" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 3
+	Query: "226537" ; Times: 1
+	Query: "226539" ; Times: 1
+	Query: "416259" ; Times: 1
+	Query: "190233" ; Times: 1
+	Query: "catalognumber:123999" ; Times: 1
+	Query: "159578" ; Times: 1
+	Query: "119648" ; Times: 1
+	Query: "284987" ; Times: 2
+	Query: "297682" ; Times: 1
+	Query: "297681" ; Times: 1
+	Query: "locality:Bone Valley" ; Times: 1
+	Query: "jason gibson" ; Times: 1
+	Query: "96194" ; Times: 1
+	Query: "156311" ; Times: 1
+	Query: "413555" ; Times: 1
+	Query: "20009" ; Times: 1
+	Query: "268222" ; Times: 1
+	Query: "284479" ; Times: 1
+	Query: "303096" ; Times: 1
+	Query: "165473" ; Times: 1
+	Query: "159583" ; Times: 1
+	Query: "269644" ; Times: 1
+	Query: "recordedby:Fite" ; Times: 1
+	Query: "120462" ; Times: 1
+	Query: "229081" ; Times: 1
+	Query: "181119" ; Times: 1
+	Query: "143680" ; Times: 1
+	Query: "229082" ; Times: 1
+	Query: "409296" ; Times: 1
+	Query: "231029" ; Times: 1
+	Query: "151630" ; Times: 1
+	Query: "169592" ; Times: 1
+	Query: "141379" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "255227" ; Times: 1
+	Query: "64733" ; Times: 1
+	Query: "Panthera onca" ; Times: 5
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "49138" ; Times: 1
+	Query: "294456" ; Times: 1
+	Query: "153564" ; Times: 1
+	Query: "Anas fulvigula" ; Times: 3
+	Query: "catalognumber:168569 institutioncode:UF" ; Times: 4
+	Query: "Chrysemys stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "297259" ; Times: 1
+	Query: "327264" ; Times: 1
+	Query: "270401" ; Times: 1
+	Query: "274043" ; Times: 1
+	Query: "274042" ; Times: 1
+	Query: "274041" ; Times: 2
+	Query: "274040" ; Times: 1
+	Query: "28960" ; Times: 1
+	Query: "325847" ; Times: 1
+	Query: "288684" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "288683" ; Times: 1
+	Query: "274049" ; Times: 1
+	Query: "262135" ; Times: 1
+	Query: "18482" ; Times: 1
+	Query: "158013" ; Times: 1
+	Query: "190199" ; Times: 1
+	Query: "286932" ; Times: 1
+	Query: "286933" ; Times: 2
+	Query: "190207" ; Times: 1
+	Query: "160325" ; Times: 1
+	Query: "223574" ; Times: 1
+	Query: "283390" ; Times: 1
+	Query: "225006" ; Times: 1
+	Query: "44752" ; Times: 2
+	Query: "175281" ; Times: 1
+	Query: "262000" ; Times: 1
+	Query: "Geotrygon caniceps" ; Times: 1
+	Query: "63237" ; Times: 1
+	Query: "218510" ; Times: 1
+	Query: "257328" ; Times: 1
+	Query: "331879" ; Times: 2
+	Query: "331875" ; Times: 1
+	Query: "stateprovince:&#34;anguilla&#34;" ; Times: 1
+	Query: "264653" ; Times: 1
+	Query: "specificepithet:temminckii genus:Macrochelys" ; Times: 1
+	Query: "316456" ; Times: 1
+	Query: "325991" ; Times: 1
+	Query: "179400" ; Times: 1
+	Query: "115914" ; Times: 1
+	Query: "103059" ; Times: 1
+	Query: "43990" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 2
+	Query: "47956" ; Times: 1
+	Query: "223152" ; Times: 1
+	Query: "171353" ; Times: 1
+	Query: "200175" ; Times: 1
+	Query: "106979" ; Times: 1
+	Query: "recordedby:Barbara Fite" ; Times: 1
+	Query: "93857" ; Times: 1
+	Query: "223154" ; Times: 1
+	Query: "223153" ; Times: 1
+	Query: "family:Felidae hastypestatus:1 isfossil:1" ; Times: 1
+	Query: "161669" ; Times: 1
+	Query: "Anas rubripes" ; Times: 6
+	Query: "228369" ; Times: 1
+	Query: "326515" ; Times: 1
+	Query: "specificepithet:migratorius genus:Ectopistes" ; Times: 6
+	Query: "239883" ; Times: 1
+	Query: "225227" ; Times: 1
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "79405" ; Times: 1
+	Query: "79403" ; Times: 1
+	Query: "274212" ; Times: 1
+	Query: "274213" ; Times: 2
+	Query: "58664" ; Times: 1
+	Query: "259373" ; Times: 1
+	Query: "309928" ; Times: 1
+	Query: "309927" ; Times: 1
+	Query: "305688" ; Times: 1
+	Query: "147969" ; Times: 1
+	Query: "147968" ; Times: 1
+	Query: "75267" ; Times: 2
+	Query: "33042" ; Times: 1
+	Query: "229466" ; Times: 1
+	Query: "229465" ; Times: 1
+	Query: "156711" ; Times: 1
+	Query: "210714" ; Times: 1
+	Query: "225043" ; Times: 1
+	Query: "225044" ; Times: 1
+	Query: "147365" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "96451" ; Times: 1
+	Query: "120772" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "180130" ; Times: 1
+	Query: "65127" ; Times: 1
+	Query: "269588" ; Times: 1
+	Query: "231033" ; Times: 1
+	Query: "269589" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "184657" ; Times: 1
+	Query: "bone valley" ; Times: 3
+	Query: "121605" ; Times: 1
+	Query: "pantherophis obsoletus" ; Times: 1
+	Query: "Barbourofelis" ; Times: 4
+	Query: "280566" ; Times: 1
+	Query: "conepatus leuconotus" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "330422" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "330421" ; Times: 1
+	Query: "210113" ; Times: 1
+	Query: "catalognumber:125618" ; Times: 1
+	Query: "109455" ; Times: 1
+	Query: "223118" ; Times: 1
+	Query: "200187" ; Times: 1
+	Query: "196541" ; Times: 1
+	Query: "233345" ; Times: 2
+	Query: "65493" ; Times: 1
+	Query: "139179" ; Times: 1
+	Query: "233349" ; Times: 1
+	Query: "288625" ; Times: 1
+	Query: "48344" ; Times: 1
+	Query: "297263" ; Times: 1
+	Query: "205957" ; Times: 1
+	Query: "230073" ; Times: 1
+	Query: "Geotrygon chrysia" ; Times: 1
+	Query: "60453" ; Times: 1
+	Query: "325995" ; Times: 1
+	Query: "156057" ; Times: 1
+	Query: "288699" ; Times: 1
+	Query: "288698" ; Times: 1
+	Query: "327370" ; Times: 1
+	Query: "138782" ; Times: 1
+	Query: "325851" ; Times: 1
+	Query: "vntype:specimen class:Aves continent:Antarctica year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "261999" ; Times: 2
+	Query: "Trichechus manatus" ; Times: 9
+	Query: "196725" ; Times: 1
+	Query: "catalognumber:740 institutioncode:UF" ; Times: 2
+	Query: "179064" ; Times: 1
+	Query: "179061" ; Times: 1
+	Query: "157504" ; Times: 1
+	Query: "165755" ; Times: 1
+	Query: "165757" ; Times: 1
+	Query: "190698" ; Times: 1
+	Query: "406502" ; Times: 1
+	Query: "310828" ; Times: 1
+	Query: "318107" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "288250" ; Times: 1
+	Query: "257220" ; Times: 1
+	Query: "211153" ; Times: 1
+	Query: "413526" ; Times: 1
+	Query: "297765" ; Times: 1
+	Query: "184152" ; Times: 1
+	Query: "157973" ; Times: 2
+	Query: "(platt)" ; Times: 4
+	Query: "(128044)" ; Times: 1
+	Query: "293440" ; Times: 1
+	Query: "415750" ; Times: 1
+	Query: "class:aves catalognumber:7319" ; Times: 1
+	Query: "stilosoma" ; Times: 2
+	Query: "38592" ; Times: 1
+	Query: "Tursiops" ; Times: 1
+	Query: "288701" ; Times: 1
+	Query: "303156" ; Times: 1
+	Query: "vntype:specimen class:Aves continent:Antarctica year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "class:Reptilia country:&#34;Colombia&#34; institutioncode:UF" ; Times: 5
+	Query: "187110" ; Times: 1
+	Query: "407090" ; Times: 1
+	Query: "genus:Desmostylus" ; Times: 1
+	Query: "monachus" ; Times: 2
+	Query: "290981" ; Times: 1
+	Query: "158103" ; Times: 1
+	Query: "158102" ; Times: 1
+	Query: "265596" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "274202" ; Times: 1
+	Query: "234156" ; Times: 2
+	Query: "411732" ; Times: 1
+	Query: "157016" ; Times: 1
+	Query: "157015" ; Times: 1
+	Query: "200280" ; Times: 2
+	Query: "12549" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "302588" ; Times: 1
+	Query: "269531" ; Times: 1
+	Query: "46562" ; Times: 1
+	Query: "162690" ; Times: 2
+	Query: "141074" ; Times: 1
+	Query: "162694" ; Times: 1
+	Query: "196565" ; Times: 1
+	Query: "149391" ; Times: 1
+	Query: "265373" ; Times: 1
+	Query: "239074" ; Times: 1
+	Query: "class:Reptilia country:&#34;Panama&#34; institutioncode:UF" ; Times: 2
+	Query: "223291" ; Times: 1
+	Query: "157122" ; Times: 1
+	Query: "255709" ; Times: 1
+	Query: "80301" ; Times: 1
+	Query: "251327" ; Times: 1
+	Query: "165467" ; Times: 1
+	Query: "64668" ; Times: 1
+	Query: "67565" ; Times: 1
+	Query: "64666" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 1
+	Query: "Crenshaw County Crotalus" ; Times: 1
+	Query: "57822" ; Times: 1
+	Query: "413525" ; Times: 1
+	Query: "149300" ; Times: 1
+	Query: "240986" ; Times: 2
+	Query: "240981" ; Times: 1
+	Query: "297127" ; Times: 1
+	Query: "272553" ; Times: 1
+	Query: "234588" ; Times: 1
+	Query: "124265" ; Times: 1
+	Query: "267071" ; Times: 1
+	Query: "113485" ; Times: 1
+	Query: "187155" ; Times: 1
+	Query: "procellariiformes year &gt;= 2015 year &lt;= 2020" ; Times: 1
+	Query: "109465" ; Times: 1
+	Query: "156117" ; Times: 1
+	Query: "64968" ; Times: 1
+	Query: "genus:Tretanorhinus institutioncode:UF" ; Times: 1
+	Query: "129486" ; Times: 1
+	Query: "277457" ; Times: 1
+	Query: "129098" ; Times: 1
+	Query: "141385" ; Times: 1
+	Query: "104174" ; Times: 1
+	Query: "24183" ; Times: 1
+	Query: "46888" ; Times: 1
+	Query: "262233" ; Times: 1
+	Query: "10041" ; Times: 1
+	Query: "262234" ; Times: 1
+	Query: "260192" ; Times: 1
+	Query: "205960" ; Times: 1
+	Query: "300618" ; Times: 1
+	Query: "genus:Bison specificepithet:Bison" ; Times: 1
+	Query: "205966" ; Times: 1
+	Query: "300617" ; Times: 1
+	Query: "136482" ; Times: 1
+	Query: "327364" ; Times: 1
+	Query: "246653" ; Times: 2
+	Query: "246651" ; Times: 1
+	Query: "246656" ; Times: 1
+	Query: "246655" ; Times: 1
+	Query: "Pantherophis obsoletus" ; Times: 1
+	Query: "180098" ; Times: 1
+	Query: "180099" ; Times: 1
+	Query: "zombie" ; Times: 1
+	Query: "157288" ; Times: 1
+	Query: "190222" ; Times: 1
+	Query: "190224" ; Times: 1
+	Query: "258512" ; Times: 1
+	Query: "157285" ; Times: 1
+	Query: "116137" ; Times: 1
+	Query: "taxispilota" ; Times: 3
+	Query: "147948" ; Times: 1
+	Query: "120938" ; Times: 1
+	Query: "monachus monachus" ; Times: 2
+	Query: "159562" ; Times: 1
+	Query: "174980" ; Times: 2
+	Query: "211646" ; Times: 1
+	Query: "284104" ; Times: 1
+	Query: "255567" ; Times: 1
+	Query: "258211" ; Times: 1
+	Query: "165634" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34; isfossil:1" ; Times: 6
+	Query: "175278" ; Times: 1
+	Query: "254764" ; Times: 1
+	Query: "102701" ; Times: 1
+	Query: "102703" ; Times: 1
+	Query: "102704" ; Times: 1
+	Query: "411695" ; Times: 1
+	Query: "Amazona leucocephala leucocephala" ; Times: 1
+	Query: "alligatoridae" ; Times: 1
+	Query: "284494" ; Times: 1
+	Query: "284493" ; Times: 1
+	Query: "284491" ; Times: 1
+	Query: "164075" ; Times: 1
+	Query: "297045" ; Times: 2
+	Query: "159638" ; Times: 2
+	Query: "39437" ; Times: 1
+	Query: "242271" ; Times: 1
+	Query: "242270" ; Times: 1
+	Query: "158356" ; Times: 2
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "Parnell" ; Times: 2
+	Query: "64748" ; Times: 1
+	Query: "crotalus adamanteus" ; Times: 2
+	Query: "132136" ; Times: 1
+	Query: "125792" ; Times: 1
+	Query: "274050" ; Times: 1
+	Query: "413533" ; Times: 1
+	Query: "15579" ; Times: 1
+	Query: "162688" ; Times: 1
+	Query: "73832" ; Times: 1
+	Query: "236272" ; Times: 1
+	Query: "235808" ; Times: 1
+	Query: "295744" ; Times: 1
+	Query: "205962" ; Times: 1
+	Query: "203003" ; Times: 1
+	Query: "203002" ; Times: 1
+	Query: "296769" ; Times: 1
+	Query: "324549" ; Times: 1
+	Query: "162687" ; Times: 1
+	Query: "catalognumber:140077" ; Times: 1
+	Query: "314059" ; Times: 1
+	Query: "79125" ; Times: 1
+	Query: "frank garcia" ; Times: 2
+	Query: "79557" ; Times: 1
+	Query: "catalognumber:125551" ; Times: 1
+	Query: "229483" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1106 download events in this period)
+Total number of records downloaded: 57753
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Ireland ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 21
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-24 ; Times: 3
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-23 ; Times: 4
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-31 ; Times: 3
+	Date: 2020-05-01 ; Times: 1
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-19 ; Times: 2
+	Date: 2020-05-07 ; Times: 4
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-06 ; Times: 4
+	Date: 2020-05-05 ; Times: 4
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Nasua nasua" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "conepatus leuconotus" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Lithobates" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "Geotrygon caniceps" ; Times: 1
+	Query: "NOTOPHTHALMUS VIRIDESCENS" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34; isfossil:1" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 2
+	Query: "Peromyscus polionotus" ; Times: 1
+	Query: "Amazona leucocephala leucocephala" ; Times: 2
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Thamnophis sirtalis" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "bone valley" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "Geotrygon chrysia" ; Times: 1
+	Query: "family:Felidae hastypestatus:1 isfossil:1" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "CROTALUS HORRIDUS" ; Times: 2
+	Query: "Puma concolor" ; Times: 2
+	Query: "Notophthalmus viridescens" ; Times: 3
+	Query: "genus:Triturus family:salamandridae" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
