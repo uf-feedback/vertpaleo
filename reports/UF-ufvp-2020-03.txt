@@ -1,0 +1,751 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 723
+Number of records retrieved in searches: 6100
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 3
+	Country: Australia ; Times: 6
+	Country: Mexico ; Times: 63
+	Country: Unknown ; Times: 6
+	Country: Venezuela ; Times: 3
+	Country: Cuba ; Times: 6
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Sweden ; Times: 3
+	Country: Slovakia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 3
+	Country: Germany ; Times: 3
+	Country: Argentina ; Times: 2
+	Country: Guadeloupe ; Times: 1
+	Country: United States ; Times: 596
+	Country: Ecuador ; Times: 8
+	Country: Ukraine ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-03 ; Times: 27
+	Date: 2020-03-30 ; Times: 6
+	Date: 2020-03-31 ; Times: 132
+	Date: 2020-03-02 ; Times: 21
+	Date: 2020-03-18 ; Times: 56
+	Date: 2020-03-19 ; Times: 15
+	Date: 2020-03-16 ; Times: 2
+	Date: 2020-03-09 ; Times: 21
+	Date: 2020-03-15 ; Times: 4
+	Date: 2020-03-12 ; Times: 34
+	Date: 2020-03-13 ; Times: 18
+	Date: 2020-03-10 ; Times: 11
+	Date: 2020-03-11 ; Times: 11
+	Date: 2020-03-17 ; Times: 9
+	Date: 2020-03-27 ; Times: 22
+	Date: 2020-03-26 ; Times: 20
+	Date: 2020-03-25 ; Times: 9
+	Date: 2020-03-24 ; Times: 6
+	Date: 2020-03-23 ; Times: 34
+	Date: 2020-03-22 ; Times: 29
+	Date: 2020-03-21 ; Times: 15
+	Date: 2020-03-20 ; Times: 76
+	Date: 2020-03-05 ; Times: 13
+	Date: 2020-03-04 ; Times: 13
+	Date: 2020-03-06 ; Times: 3
+	Date: 2020-03-29 ; Times: 52
+	Date: 2020-03-28 ; Times: 64
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Terrapene county:&#34;Levy&#34; year &gt;= 1990" ; Times: 1
+	Query: "(221266)" ; Times: 1
+	Query: "151528" ; Times: 1
+	Query: "Natalus stramineus" ; Times: 1
+	Query: "(200729)" ; Times: 1
+	Query: "(221278)" ; Times: 1
+	Query: "uf 7371" ; Times: 1
+	Query: "129120" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "(56781)" ; Times: 1
+	Query: "82768" ; Times: 1
+	Query: "catalognumber:412159" ; Times: 1
+	Query: "genus:Terrapene county:&#34;Dixie&#34; year &gt;= 1990" ; Times: 1
+	Query: "110524" ; Times: 1
+	Query: "160951" ; Times: 1
+	Query: "75546" ; Times: 1
+	Query: "180204" ; Times: 1
+	Query: "98369" ; Times: 2
+	Query: "43878" ; Times: 1
+	Query: "Primonatalus prattae" ; Times: 1
+	Query: "241453" ; Times: 1
+	Query: "Panthera onca" ; Times: 4
+	Query: "11188" ; Times: 1
+	Query: "120125" ; Times: 1
+	Query: "(216329)" ; Times: 2
+	Query: "(216310)" ; Times: 1
+	Query: "252563" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "class:Reptilia county:&#34;Nassau&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "416073" ; Times: 1
+	Query: "Phyllonycteris aphylla" ; Times: 1
+	Query: "(224147)" ; Times: 1
+	Query: "176527" ; Times: 1
+	Query: "catalognumber:163269" ; Times: 2
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "234782" ; Times: 1
+	Query: "83012" ; Times: 1
+	Query: "242838" ; Times: 1
+	Query: "414605" ; Times: 1
+	Query: "413099" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "(216303)" ; Times: 1
+	Query: "116305" ; Times: 1
+	Query: "411158" ; Times: 1
+	Query: "(222664)" ; Times: 1
+	Query: "22481" ; Times: 1
+	Query: "Monophyllus redmani" ; Times: 2
+	Query: "259122" ; Times: 1
+	Query: "208604" ; Times: 1
+	Query: "genus:Drymarchon" ; Times: 2
+	Query: "(217116)" ; Times: 1
+	Query: "(219235)" ; Times: 3
+	Query: "specificepithet:taxispilota genus:Nerodia county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "192084" ; Times: 1
+	Query: "128296" ; Times: 1
+	Query: "catalognumber:316601" ; Times: 1
+	Query: "catalognumber:316602" ; Times: 1
+	Query: "128354" ; Times: 1
+	Query: "128298" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "149025" ; Times: 1
+	Query: "Suaptenos whitei" ; Times: 1
+	Query: "(222660)" ; Times: 3
+	Query: "Carcharhinus brevipinna" ; Times: 1
+	Query: "&#34;Columba leucocephala&#34; OR &#34;Patagioenas leucocephala&#34; vntype:specimen" ; Times: 1
+	Query: "(219916)" ; Times: 1
+	Query: "411207" ; Times: 1
+	Query: "411204" ; Times: 1
+	Query: "411205" ; Times: 1
+	Query: "21297" ; Times: 1
+	Query: "specificepithet:couperi genus:drymarchon stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "411208" ; Times: 1
+	Query: "uf 188275" ; Times: 1
+	Query: "(216300)" ; Times: 1
+	Query: "87085" ; Times: 1
+	Query: "Lasiurus minor" ; Times: 2
+	Query: "specificepithet:odoratus genus:Sternotherus county:&#34;Marion&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 3
+	Query: "110689" ; Times: 2
+	Query: "Amorphochilus schnablii" ; Times: 1
+	Query: "(224148)" ; Times: 2
+	Query: "76847" ; Times: 1
+	Query: "21449" ; Times: 1
+	Query: "catalognumber:412162" ; Times: 4
+	Query: "241030" ; Times: 1
+	Query: "(216329])" ; Times: 1
+	Query: "255179" ; Times: 1
+	Query: "118930" ; Times: 1
+	Query: "151107" ; Times: 1
+	Query: "251413" ; Times: 1
+	Query: "catalognumber:293184" ; Times: 1
+	Query: "(224143)" ; Times: 1
+	Query: "genus:Cemophora county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 2
+	Query: "(208330)" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Pantherophis county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 2
+	Query: "trichechus" ; Times: 1
+	Query: "257917" ; Times: 1
+	Query: "294039" ; Times: 1
+	Query: "129118" ; Times: 1
+	Query: "159832" ; Times: 1
+	Query: "specificepithet:simus genus:Heterodon county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "uf 30080" ; Times: 1
+	Query: "specificepithet:alleni genus:Regina county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "37094" ; Times: 1
+	Query: "30908 class:aves" ; Times: 1
+	Query: "genus:Terrapene county:&#34;Alachua&#34; year &gt;= 1990" ; Times: 3
+	Query: "(217112)" ; Times: 1
+	Query: "specificepithet:getulus genus:Lampropeltis county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "297033" ; Times: 1
+	Query: "genus:Kinosternon baurii county:&#34;Marion&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "catalognumber:294642" ; Times: 1
+	Query: "130611" ; Times: 1
+	Query: "98368" ; Times: 2
+	Query: "174639" ; Times: 1
+	Query: "Pteronotus quadridens" ; Times: 1
+	Query: "227571" ; Times: 1
+	Query: "38031" ; Times: 1
+	Query: "128439" ; Times: 1
+	Query: "143678" ; Times: 1
+	Query: "236653" ; Times: 2
+	Query: "(216307)" ; Times: 2
+	Query: "genus:Alligator country:&#34;USA&#34;" ; Times: 1
+	Query: "241128" ; Times: 1
+	Query: "(53280)" ; Times: 1
+	Query: "71223" ; Times: 1
+	Query: "30740" ; Times: 1
+	Query: "specificepithet:terrapin genus:Malaclemys county:&#34;Levy&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "(222669)" ; Times: 1
+	Query: "128792" ; Times: 1
+	Query: "89688" ; Times: 1
+	Query: "325374" ; Times: 2
+	Query: "Rhinoptera bonasus" ; Times: 1
+	Query: "332309" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 2
+	Query: "genus:Terrapene county:&#34;Alachua&#34;" ; Times: 1
+	Query: "60756" ; Times: 1
+	Query: "332301" ; Times: 1
+	Query: "(219234)" ; Times: 2
+	Query: "332303" ; Times: 1
+	Query: "uf 183865" ; Times: 1
+	Query: "332305" ; Times: 1
+	Query: "332304" ; Times: 3
+	Query: "332307" ; Times: 1
+	Query: "332306" ; Times: 1
+	Query: "(219230)" ; Times: 1
+	Query: "240917" ; Times: 1
+	Query: "specificepithet:corais genus:drymarchon stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "67214" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "57155" ; Times: 1
+	Query: "(219226)" ; Times: 1
+	Query: "128542" ; Times: 1
+	Query: "174637" ; Times: 1
+	Query: "228933" ; Times: 1
+	Query: "141496" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "47045" ; Times: 1
+	Query: "panthera" ; Times: 2
+	Query: "Brachyphylla cavernarum" ; Times: 1
+	Query: "family:Gomphotheriidae isfossil:1" ; Times: 2
+	Query: "213081" ; Times: 1
+	Query: "100570" ; Times: 1
+	Query: "40413" ; Times: 3
+	Query: "308482" ; Times: 1
+	Query: "uf 65784" ; Times: 2
+	Query: "specificepithet:subrubrum genus:Kinosternon county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "catalognumber:7319" ; Times: 1
+	Query: "159534" ; Times: 1
+	Query: "(221247)" ; Times: 1
+	Query: "141793" ; Times: 1
+	Query: "128314" ; Times: 1
+	Query: "165054" ; Times: 2
+	Query: "(221249)" ; Times: 2
+	Query: "(224150)" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "catalognumber:112554" ; Times: 2
+	Query: "96091" ; Times: 2
+	Query: "(221279)" ; Times: 2
+	Query: "catalognumber:412237" ; Times: 1
+	Query: "genus:Coluber county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "221987" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 8
+	Query: "50678" ; Times: 1
+	Query: "specificepithet:odoratus genus:Sternotherus county:&#34;Columbia&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "UF 156513" ; Times: 1
+	Query: "110080" ; Times: 1
+	Query: "Accipiter cooperi" ; Times: 1
+	Query: "(224154)" ; Times: 1
+	Query: "16664" ; Times: 1
+	Query: "301544" ; Times: 1
+	Query: "(46173)" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Pantherophis county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "214080" ; Times: 1
+	Query: "specificepithet:simus genus:Heterodon county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "(216299)" ; Times: 1
+	Query: "118964" ; Times: 1
+	Query: "13619" ; Times: 2
+	Query: "specificepithet:scripta genus:Trachemys class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:63127" ; Times: 1
+	Query: "catalognumber:63126" ; Times: 1
+	Query: "catalognumber:63124" ; Times: 1
+	Query: "(224146)" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "416086" ; Times: 1
+	Query: "152808" ; Times: 1
+	Query: "56769" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Terrapene county:&#34;Marion&#34; year &gt;= 1990" ; Times: 1
+	Query: "264720" ; Times: 1
+	Query: "244172" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "R 27452" ; Times: 1
+	Query: "Anolis extremus" ; Times: 1
+	Query: "(219907)" ; Times: 1
+	Query: "Desmodus stocki" ; Times: 1
+	Query: "58767" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "83646" ; Times: 2
+	Query: "(217107)" ; Times: 1
+	Query: "Teratornis" ; Times: 2
+	Query: "128468" ; Times: 1
+	Query: "(217117)" ; Times: 1
+	Query: "catalognumber:268274" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "Phyllops vetus" ; Times: 1
+	Query: "23124" ; Times: 2
+	Query: "(208551)" ; Times: 1
+	Query: "specificepithet:Cheriway genus:Caracara" ; Times: 1
+	Query: "30384" ; Times: 1
+	Query: "Desmodus archaeodaptes" ; Times: 1
+	Query: "314020" ; Times: 1
+	Query: "(222665)" ; Times: 1
+	Query: "(219233)" ; Times: 1
+	Query: "172118" ; Times: 2
+	Query: "225184" ; Times: 1
+	Query: "115522" ; Times: 1
+	Query: "151344" ; Times: 1
+	Query: "(15209)" ; Times: 1
+	Query: "Eumops glaucinus" ; Times: 1
+	Query: "109193" ; Times: 1
+	Query: "genus:Tantilla county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "332308" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "57087" ; Times: 1
+	Query: "159506" ; Times: 1
+	Query: "(222672)" ; Times: 1
+	Query: "408263" ; Times: 1
+	Query: "188645" ; Times: 1
+	Query: "catalognumber:112545" ; Times: 1
+	Query: "241959" ; Times: 1
+	Query: "Bay county drymarchon" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "176478" ; Times: 2
+	Query: "(224485)" ; Times: 1
+	Query: "256532" ; Times: 1
+	Query: "332302" ; Times: 1
+	Query: "Monophyllus plethodon" ; Times: 2
+	Query: "Speonycteris aurantiadens" ; Times: 1
+	Query: "112121" ; Times: 1
+	Query: "(202384)" ; Times: 1
+	Query: "catalognumber:46721" ; Times: 1
+	Query: "(208331)" ; Times: 1
+	Query: "(221276)" ; Times: 1
+	Query: "331837" ; Times: 1
+	Query: "159824" ; Times: 1
+	Query: "413629" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "243462" ; Times: 1
+	Query: "(217271)" ; Times: 1
+	Query: "Pteronotus macleayii" ; Times: 1
+	Query: "13715" ; Times: 2
+	Query: "class:Reptilia county:&#34;Colleton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "70888" ; Times: 1
+	Query: "(219911)" ; Times: 1
+	Query: "(217113)" ; Times: 2
+	Query: "276428" ; Times: 1
+	Query: "242381" ; Times: 1
+	Query: "Brachyphylla nana" ; Times: 1
+	Query: "297006" ; Times: 1
+	Query: "genus:Terrapene class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "410314" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "(plethodon) isfossil:1" ; Times: 1
+	Query: "(62898)" ; Times: 2
+	Query: "Tyrannus cubensis" ; Times: 6
+	Query: "76842" ; Times: 1
+	Query: "238923" ; Times: 1
+	Query: "172725" ; Times: 1
+	Query: "135155" ; Times: 1
+	Query: "240991" ; Times: 1
+	Query: "Squalicorax mississippi" ; Times: 1
+	Query: "(224145)" ; Times: 1
+	Query: "genus:Kinosternon baurii county:&#34;Columbia&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "(224151)" ; Times: 1
+	Query: "309328" ; Times: 1
+	Query: "106816" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "298167" ; Times: 1
+	Query: "153573" ; Times: 1
+	Query: "188646" ; Times: 1
+	Query: "(222666)" ; Times: 1
+	Query: "Erophylla bombifrons" ; Times: 1
+	Query: "407731" ; Times: 1
+	Query: "genus:Opheodrys county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "(216304)" ; Times: 1
+	Query: "(11044)" ; Times: 2
+	Query: "110804" ; Times: 1
+	Query: "(222661)" ; Times: 2
+	Query: "213870" ; Times: 1
+	Query: "specificepithet:taxispilota genus:Nerodia county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "(217114)" ; Times: 1
+	Query: "specificepithet:subrubrum genus:Kinosternon county:&#34;Gilchrist&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "24967" ; Times: 1
+	Query: "genus:Pinguinus" ; Times: 1
+	Query: "250621" ; Times: 1
+	Query: "family:Gomphotheriidae" ; Times: 3
+	Query: "241120" ; Times: 1
+	Query: "128373" ; Times: 1
+	Query: "191664" ; Times: 1
+	Query: "specificepithet:baurii genus:Kinosternon county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 2
+	Query: "Lasiurus intermedius" ; Times: 2
+	Query: "(219229)" ; Times: 1
+	Query: "60753" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "60759" ; Times: 1
+	Query: "30908" ; Times: 2
+	Query: "(84514)" ; Times: 1
+	Query: "139482" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "(219228)" ; Times: 1
+	Query: "139485" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "catalognumber:163256" ; Times: 1
+	Query: "genus:Carphophis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "143946" ; Times: 1
+	Query: "29600" ; Times: 2
+	Query: "183797" ; Times: 1
+	Query: "(221248)" ; Times: 1
+	Query: "179541" ; Times: 1
+	Query: "101701" ; Times: 2
+	Query: "(222671)" ; Times: 1
+	Query: "Myotis grisescens" ; Times: 2
+	Query: "157299" ; Times: 1
+	Query: "UF 40814" ; Times: 1
+	Query: "catalognumber:112542" ; Times: 1
+	Query: "uf 98220" ; Times: 1
+	Query: "catalognumber:307779" ; Times: 1
+	Query: "113681" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus county:&#34;Levy&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "234073" ; Times: 1
+	Query: "genus:Deirochelys county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 2
+	Query: "241116" ; Times: 1
+	Query: "class:Reptilia county:&#34;Saline&#34; stateprovince:&#34;Kansas&#34; AND (NOT PDBD)" ; Times: 1
+	Query: "uf 98224" ; Times: 1
+	Query: "(221263)" ; Times: 1
+	Query: "Centrophorus granulosus" ; Times: 1
+	Query: "154687" ; Times: 1
+	Query: "55258" ; Times: 1
+	Query: "uf 188372" ; Times: 1
+	Query: "254265" ; Times: 1
+	Query: "catalognumber:412765" ; Times: 6
+	Query: "291165" ; Times: 1
+	Query: "Pseudorca crassidens" ; Times: 1
+	Query: "257318" ; Times: 1
+	Query: "catalognumber:412617" ; Times: 1
+	Query: "genus:Stilosoma" ; Times: 1
+	Query: "178304" ; Times: 1
+	Query: "332730" ; Times: 1
+	Query: "vntype:specimen (plethodon) isfossil:1" ; Times: 1
+	Query: "catalognumber:316575" ; Times: 1
+	Query: "catalognumber:316573" ; Times: 1
+	Query: "Chilonatalus tumidifrons" ; Times: 1
+	Query: "Eumops floridanus" ; Times: 1
+	Query: "catalognumber:240344" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 2
+	Query: "168780" ; Times: 1
+	Query: "(224141)" ; Times: 1
+	Query: "(55759)" ; Times: 1
+	Query: "177115" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 2
+	Query: "genus:Drymarchon county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "261815" ; Times: 1
+	Query: "catalognumber:316598" ; Times: 1
+	Query: "252351" ; Times: 1
+	Query: "156080" ; Times: 1
+	Query: "genus:Chelydra class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "(77094)" ; Times: 1
+	Query: "(216301)" ; Times: 1
+	Query: "(224142)" ; Times: 1
+	Query: "156088" ; Times: 1
+	Query: "catalognumber:48455" ; Times: 1
+	Query: "123889" ; Times: 1
+	Query: "catalognumber:24548" ; Times: 1
+	Query: "293448" ; Times: 1
+	Query: "Squalicorax" ; Times: 1
+	Query: "128920" ; Times: 1
+	Query: "128925" ; Times: 1
+	Query: "(216308)" ; Times: 1
+	Query: "(221260)" ; Times: 1
+	Query: "(217106)" ; Times: 1
+	Query: "gbifdatasetid:2fba9985-ac30-46cb-99bf-91ccde0d8d2f" ; Times: 2
+	Query: "90583" ; Times: 1
+	Query: "128339" ; Times: 1
+	Query: "Karstala silva" ; Times: 2
+	Query: "PANTHERA" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "(219909)" ; Times: 1
+	Query: "Phyllops falcatus" ; Times: 1
+	Query: "(208552)" ; Times: 1
+	Query: "R.39075" ; Times: 1
+	Query: "113012" ; Times: 1
+	Query: "catalognumber:98646" ; Times: 1
+	Query: "(222662)" ; Times: 1
+	Query: "(219232)" ; Times: 1
+	Query: "231211" ; Times: 1
+	Query: "143571" ; Times: 1
+	Query: "140357" ; Times: 1
+	Query: "(221280)" ; Times: 1
+	Query: "32113" ; Times: 1
+	Query: "Eumops underwoodi" ; Times: 1
+	Query: "specificepithet:ventralis genus:Ophisaurus county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 2
+	Query: "66066" ; Times: 1
+	Query: "family:Plethodontidae county:&#34;Levy&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "145302" ; Times: 1
+	Query: "326034" ; Times: 1
+	Query: "Trichechus" ; Times: 1
+	Query: "52618" ; Times: 1
+	Query: "UF 65783" ; Times: 1
+	Query: "UF 65782" ; Times: 1
+	Query: "genus:Drymarchon county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 2
+	Query: "uf 65801" ; Times: 1
+	Query: "159826" ; Times: 1
+	Query: "326507" ; Times: 1
+	Query: "300716" ; Times: 1
+	Query: "Natalus major" ; Times: 2
+	Query: "112331" ; Times: 1
+	Query: "112332" ; Times: 1
+	Query: "12212" ; Times: 1
+	Query: "404669" ; Times: 1
+	Query: "128705" ; Times: 1
+	Query: "(224486)" ; Times: 1
+	Query: "catalognumber:112551" ; Times: 1
+	Query: "127162" ; Times: 1
+	Query: "130291" ; Times: 1
+	Query: "236909" ; Times: 1
+	Query: "(208332)" ; Times: 1
+	Query: "(221277)" ; Times: 1
+	Query: "156339" ; Times: 1
+	Query: "214269" ; Times: 1
+	Query: "279526" ; Times: 1
+	Query: "77071" ; Times: 1
+	Query: "24177" ; Times: 1
+	Query: "(221270)" ; Times: 1
+	Query: "(221281)" ; Times: 1
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "(216328)" ; Times: 1
+	Query: "154497" ; Times: 1
+	Query: "167705" ; Times: 1
+	Query: "uf 237571" ; Times: 1
+	Query: "24548" ; Times: 1
+	Query: "catalognumber:412725" ; Times: 2
+	Query: "Stilosoma" ; Times: 1
+	Query: "(18641)" ; Times: 1
+	Query: "(224144)" ; Times: 1
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "30505" ; Times: 1
+	Query: "289911" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "(216302)" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus year &lt;= 1930" ; Times: 2
+	Query: "Myotis austroriparius" ; Times: 2
+	Query: "(222667)" ; Times: 1
+	Query: "107116" ; Times: 1
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "107114" ; Times: 1
+	Query: "catalognumber:202796" ; Times: 1
+	Query: "157834" ; Times: 1
+	Query: "24123" ; Times: 1
+	Query: "159573" ; Times: 1
+	Query: "UF 71755" ; Times: 1
+	Query: "UF 71754" ; Times: 1
+	Query: "(219910)" ; Times: 1
+	Query: "134928" ; Times: 1
+	Query: "162520" ; Times: 1
+	Query: "(222673)" ; Times: 2
+	Query: "Nyctiellus lepidus" ; Times: 2
+	Query: "genus:PANTHERA" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "genus:Cemophora county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "120849" ; Times: 1
+	Query: "303060" ; Times: 1
+	Query: "Speonycteris naturalis" ; Times: 1
+	Query: "accipiter cooperi" ; Times: 1
+	Query: "302824" ; Times: 1
+	Query: "242437" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "76294" ; Times: 1
+	Query: "113516" ; Times: 1
+	Query: "50807" ; Times: 1
+	Query: "127286" ; Times: 1
+	Query: "213022" ; Times: 1
+	Query: "119357" ; Times: 2
+	Query: "109988" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "(222670)" ; Times: 1
+	Query: "(224149)" ; Times: 1
+	Query: "97922" ; Times: 1
+	Query: "93597" ; Times: 1
+	Query: "genus:Tantilla county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 2
+	Query: "259851" ; Times: 1
+	Query: "Chilonatalus micropus" ; Times: 1
+	Query: "70672" ; Times: 1
+	Query: "113603" ; Times: 1
+	Query: "Mormoops blainvillii" ; Times: 2
+	Query: "(16380)" ; Times: 1
+	Query: "41248" ; Times: 1
+	Query: "416186" ; Times: 1
+	Query: "Erophylla sezekorni" ; Times: 1
+	Query: "233995" ; Times: 1
+	Query: "genus:Clemmys class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "(49096)" ; Times: 2
+	Query: "(49083)" ; Times: 1
+	Query: "(217118)" ; Times: 2
+	Query: "genus:Anolis country:&#34;Dominican Republic&#34; institutioncode:UF" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "(81591)" ; Times: 1
+	Query: "impennis" ; Times: 1
+	Query: "213213" ; Times: 1
+	Query: "(224152)" ; Times: 1
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "223527" ; Times: 1
+	Query: "103852" ; Times: 1
+	Query: "241952" ; Times: 1
+	Query: "catalognumber:240332" ; Times: 1
+	Query: "71221" ; Times: 1
+	Query: "(224140)" ; Times: 1
+	Query: "catalognumber:57365" ; Times: 1
+	Query: "class:Reptilia county:&#34;Putnam&#34; stateprovince:&#34;Florida&#34; AND (NOT SCELOPORUS NOT PLESTIODON NOT SCINCELLA) institutioncode:UF" ; Times: 3
+	Query: "Bos taurus" ; Times: 1
+	Query: "catalognumber:316589" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "277954" ; Times: 1
+	Query: "(216306)" ; Times: 1
+	Query: "catalognumber:163272" ; Times: 1
+	Query: "Farancia e" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 3
+	Query: "192730" ; Times: 1
+	Query: "(49093)" ; Times: 2
+	Query: "Gomphotheriidae" ; Times: 1
+	Query: "(216309)" ; Times: 1
+	Query: "(224153)" ; Times: 1
+	Query: "120152" ; Times: 1
+	Query: "67524" ; Times: 1
+	Query: "genus:Pseudemys class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "family:sirenidae county:&#34;Levy&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "(217111)" ; Times: 1
+	Query: "38874" ; Times: 2
+	Query: "(76777)" ; Times: 2
+	Query: "country:&#34;Dominican Republic&#34; collectioncode:UF" ; Times: 2
+	Query: "325181" ; Times: 1
+	Query: "(219908)" ; Times: 1
+	Query: "(222668)" ; Times: 1
+	Query: "(208553)" ; Times: 1
+	Query: "240990" ; Times: 1
+	Query: "specificepithet:alleni genus:Regina county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 2
+	Query: "Anolis leachii" ; Times: 1
+	Query: "262964" ; Times: 1
+	Query: "111297" ; Times: 1
+	Query: "(222663)" ; Times: 1
+	Query: "79922" ; Times: 1
+	Query: "(219915)" ; Times: 1
+	Query: "79924" ; Times: 1
+	Query: "(219231)" ; Times: 1
+	Query: "230595" ; Times: 1
+	Query: "120275" ; Times: 1
+	Query: "119493" ; Times: 1
+	Query: "66359" ; Times: 1
+	Query: "120271" ; Times: 1
+	Query: "(219225)" ; Times: 2
+	Query: "(221251)" ; Times: 1
+	Query: "254264" ; Times: 1
+	Query: "(224487)" ; Times: 1
+	Query: "(208554)" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "212414" ; Times: 1
+	Query: "302880" ; Times: 1
+	Query: "(222659)" ; Times: 2
+	Query: "family:Suidae preparations:skeleton" ; Times: 2
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "Anolis conspersus" ; Times: 1
+	Query: "326029" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "specificepithet:odoratus genus:Sternotherus county:&#34;Levy&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "(234423)" ; Times: 1
+	Query: "27757" ; Times: 1
+	Query: "specificepithet:subrubrum genus:Kinosternon county:&#34;Columbia&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "genus:Anolis county:&#34;Levy&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "225702" ; Times: 1
+	Query: "88872" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Masticophis county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 853 download events in this period)
+Total number of records downloaded: 12040
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 28
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Guadeloupe ; Times: 3
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-05 ; Times: 5
+	Date: 2020-03-18 ; Times: 1
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-26 ; Times: 3
+	Date: 2020-03-25 ; Times: 2
+	Date: 2020-03-02 ; Times: 2
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-22 ; Times: 3
+	Date: 2020-03-21 ; Times: 2
+	Date: 2020-03-20 ; Times: 3
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-09 ; Times: 4
+	Date: 2020-03-11 ; Times: 2
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 6
+	Date: 2020-03-10 ; Times: 2
+	Date: 2020-03-04 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "genus:ursus" ; Times: 2
+	Query: "specificepithet:aestivus genus:Opheodrys" ; Times: 1
+	Query: "genus:Coluber" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus" ; Times: 1
+	Query: "genus:Cemophora" ; Times: 1
+	Query: "genus:Agkistrodon" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "101701" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "genus:Anolis country:&#34;Dominican Republic&#34; institutioncode:UF" ; Times: 2
+	Query: "Sistrurus" ; Times: 1
+	Query: "genus:Drymarchon" ; Times: 2
+	Query: "specificepithet:concolor genus:Puma stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "genus:Alligator country:&#34;USA&#34;" ; Times: 1
+	Query: "genus:Sistrurus" ; Times: 1
+	Query: "specificepithet:elapsoides genus:Lampropeltis" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Masticophis" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis" ; Times: 1
+	Query: "Nerodia taxispilota" ; Times: 1
+	Query: "genus:Amphiuma" ; Times: 1
+	Query: "genus:Anolis country:&#34;Haiti&#34; institutioncode:UF" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:getulus genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:means genus:Amphiuma" ; Times: 1
+	Query: "genus:Gopherus" ; Times: 1
+	Query: "genus:Stilosoma" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "&#34;Columba leucocephala&#34; OR &#34;Patagioenas leucocephala&#34; vntype:specimen" ; Times: 3
+	Query: "(plethodon) isfossil:1" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Crotalus" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "genus:Farancia" ; Times: 1
+
+
+End of report.
