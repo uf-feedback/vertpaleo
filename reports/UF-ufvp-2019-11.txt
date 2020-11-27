@@ -1,0 +1,371 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 414
+Number of records retrieved in searches: 7073
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 342
+	Country: Colombia ; Times: 13
+	Country: Singapore ; Times: 10
+	Country: Denmark ; Times: 3
+	Country: Mexico ; Times: 19
+	Country: India ; Times: 7
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Dominican Republic ; Times: 4
+	Country: Brazil ; Times: 2
+	Country: Benin ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 9
+	Date: 2019-11-18 ; Times: 30
+	Date: 2019-11-30 ; Times: 7
+	Date: 2019-11-15 ; Times: 32
+	Date: 2019-11-14 ; Times: 15
+	Date: 2019-11-16 ; Times: 19
+	Date: 2019-11-11 ; Times: 34
+	Date: 2019-11-10 ; Times: 4
+	Date: 2019-11-13 ; Times: 10
+	Date: 2019-11-12 ; Times: 6
+	Date: 2019-11-08 ; Times: 31
+	Date: 2019-11-27 ; Times: 17
+	Date: 2019-11-28 ; Times: 3
+	Date: 2019-11-07 ; Times: 28
+	Date: 2019-11-20 ; Times: 17
+	Date: 2019-11-21 ; Times: 9
+	Date: 2019-11-22 ; Times: 18
+	Date: 2019-11-24 ; Times: 2
+	Date: 2019-11-25 ; Times: 2
+	Date: 2019-11-26 ; Times: 5
+	Date: 2019-11-09 ; Times: 15
+	Date: 2019-11-06 ; Times: 42
+	Date: 2019-11-29 ; Times: 2
+	Date: 2019-11-04 ; Times: 16
+	Date: 2019-11-05 ; Times: 13
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-03 ; Times: 10
+	Date: 2019-11-01 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "242428" ; Times: 1
+	Query: "153578" ; Times: 1
+	Query: "417004" ; Times: 2
+	Query: "52778" ; Times: 1
+	Query: "241585" ; Times: 2
+	Query: "17921" ; Times: 1
+	Query: "Alopias vulpinus vntype:specimen" ; Times: 1
+	Query: "53648" ; Times: 1
+	Query: "Bos primigenius Taurus" ; Times: 2
+	Query: "Amazona leucocephala" ; Times: 1
+	Query: "peccary" ; Times: 1
+	Query: "205107" ; Times: 1
+	Query: "232420" ; Times: 2
+	Query: "67280" ; Times: 1
+	Query: "242308" ; Times: 2
+	Query: "241251" ; Times: 1
+	Query: "120005" ; Times: 1
+	Query: "242076" ; Times: 1
+	Query: "242420" ; Times: 1
+	Query: "18819" ; Times: 2
+	Query: "275527" ; Times: 1
+	Query: "53454" ; Times: 1
+	Query: "95836" ; Times: 1
+	Query: "leon holotype" ; Times: 1
+	Query: "241039" ; Times: 2
+	Query: "56084" ; Times: 1
+	Query: "207571" ; Times: 1
+	Query: "56080" ; Times: 1
+	Query: "genus:Tapirus country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "21851" ; Times: 1
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "20605" ; Times: 1
+	Query: "241451" ; Times: 1
+	Query: "241452" ; Times: 1
+	Query: "242041" ; Times: 1
+	Query: "45051" ; Times: 1
+	Query: "Panthera onca" ; Times: 8
+	Query: "holocene class:mammalia" ; Times: 4
+	Query: "255724" ; Times: 1
+	Query: "109588" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 11
+	Query: "54582" ; Times: 1
+	Query: "genus:siren year &lt;= 1955" ; Times: 3
+	Query: "233108" ; Times: 1
+	Query: "241920" ; Times: 1
+	Query: "catalognumber:73145" ; Times: 1
+	Query: "240589" ; Times: 1
+	Query: "panthera onca" ; Times: 20
+	Query: "234270" ; Times: 1
+	Query: "241929" ; Times: 1
+	Query: "genus:Odontaspis" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 12
+	Query: "catalognumber:58180" ; Times: 1
+	Query: "46986" ; Times: 1
+	Query: "241356" ; Times: 1
+	Query: "154655" ; Times: 1
+	Query: "catalognumber:74838" ; Times: 1
+	Query: "specificepithet:ossifragus genus:Corvus" ; Times: 1
+	Query: "175910" ; Times: 1
+	Query: "53471" ; Times: 1
+	Query: "241928" ; Times: 1
+	Query: "203751" ; Times: 1
+	Query: "216983" ; Times: 1
+	Query: "Leopardus pardalis 2014" ; Times: 4
+	Query: "216907" ; Times: 1
+	Query: "24573" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 1
+	Query: "45295" ; Times: 1
+	Query: "catalognumber:79277 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "20757" ; Times: 1
+	Query: "240911" ; Times: 1
+	Query: "216908" ; Times: 1
+	Query: "20532" ; Times: 2
+	Query: "Drymarchon couperi 2015" ; Times: 4
+	Query: "Drymarchon couperi 2017" ; Times: 4
+	Query: "245949" ; Times: 1
+	Query: "241935" ; Times: 1
+	Query: "Drymarchon couperi 2013" ; Times: 4
+	Query: "genus:Lampropeltis class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "253919" ; Times: 1
+	Query: "56937" ; Times: 2
+	Query: "genus:Plagiodontia country:&#34;Dominican Republic&#34;" ; Times: 1
+	Query: "242437" ; Times: 1
+	Query: "54466" ; Times: 1
+	Query: "Crocodylus acutus 2017" ; Times: 4
+	Query: "86599" ; Times: 1
+	Query: "Crocodylus acutus 2013" ; Times: 4
+	Query: "Plagiodontia" ; Times: 1
+	Query: "204408" ; Times: 1
+	Query: "154662" ; Times: 1
+	Query: "166631" ; Times: 1
+	Query: "candoia bibroni" ; Times: 3
+	Query: "Coccyzus americanus 2013" ; Times: 3
+	Query: "catalognumber:68638" ; Times: 1
+	Query: "54548" ; Times: 1
+	Query: "199506" ; Times: 2
+	Query: "241307" ; Times: 1
+	Query: "25328" ; Times: 1
+	Query: "216997" ; Times: 1
+	Query: "220725" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "zombie" ; Times: 1
+	Query: "64191" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "86545" ; Times: 1
+	Query: "54464" ; Times: 1
+	Query: "specificepithet:extremus genus:anolis" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis year &gt;= 2009 year &lt;= 2019" ; Times: 1
+	Query: "class:Aves (139478)" ; Times: 1
+	Query: "catalognumber:47954 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:sucetta genus:erimyzon stateprovince:&#34;florida&#34; year &gt;= 200 year &lt;= 2019" ; Times: 1
+	Query: "86668" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "catalognumber:942" ; Times: 1
+	Query: "207436" ; Times: 1
+	Query: "catalognumber:101610" ; Times: 1
+	Query: "18905" ; Times: 5
+	Query: "18906" ; Times: 2
+	Query: "164712" ; Times: 1
+	Query: "241949" ; Times: 1
+	Query: "263562" ; Times: 1
+	Query: "215746" ; Times: 1
+	Query: "61552" ; Times: 1
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34;" ; Times: 4
+	Query: "catalognumber:154968 institutioncode:UF" ; Times: 1
+	Query: "58676" ; Times: 1
+	Query: "239415" ; Times: 1
+	Query: "58673" ; Times: 1
+	Query: "241312" ; Times: 1
+	Query: "specificepithet:californianus genus:Gymnogyps" ; Times: 3
+	Query: "Aphelocoma coerulescens 2013" ; Times: 6
+	Query: "53464" ; Times: 2
+	Query: "Aphelocoma coerulescens 2017" ; Times: 6
+	Query: "180927" ; Times: 1
+	Query: "Leon holotype" ; Times: 3
+	Query: "106469" ; Times: 1
+	Query: "224850" ; Times: 1
+	Query: "carcharodontosaurus" ; Times: 1
+	Query: "specificepithet:paradoxus genus:solenodon" ; Times: 2
+	Query: "220724" ; Times: 1
+	Query: "catalognumber:154964 institutioncode:UF" ; Times: 3
+	Query: "Aphelocoma coerulescens 1973" ; Times: 6
+	Query: "Epinephelus itajara" ; Times: 1
+	Query: "Coccyzus americanus 1973" ; Times: 4
+	Query: "66334" ; Times: 1
+	Query: "TAYASSU PECARI" ; Times: 1
+	Query: "154164" ; Times: 1
+	Query: "93361" ; Times: 1
+	Query: "family:Elephantidae isfossil:1" ; Times: 2
+	Query: "gbifdatasetid:2fba9985-ac30-46cb-99bf-91ccde0d8d2f" ; Times: 2
+	Query: "240726" ; Times: 1
+	Query: "61702" ; Times: 1
+	Query: "bridger formation" ; Times: 1
+	Query: "241959" ; Times: 1
+	Query: "10918" ; Times: 1
+	Query: "241498" ; Times: 1
+	Query: "241090" ; Times: 1
+	Query: "61132" ; Times: 1
+	Query: "Sphyraena barracuda vntype:specimen year &gt;= 2015" ; Times: 1
+	Query: "canis lepophagus" ; Times: 1
+	Query: "16051" ; Times: 2
+	Query: "(139478)" ; Times: 1
+	Query: "Canis rufus" ; Times: 2
+	Query: "Physeter macrocephalus" ; Times: 1
+	Query: "16053" ; Times: 2
+	Query: "10565" ; Times: 1
+	Query: "240728" ; Times: 1
+	Query: "290332" ; Times: 1
+	Query: "80642" ; Times: 1
+	Query: "241885" ; Times: 1
+	Query: "McLeod" ; Times: 2
+	Query: "154612" ; Times: 1
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "UF 142444" ; Times: 2
+	Query: "captorhinidae" ; Times: 1
+	Query: "Pterodroma hasitata" ; Times: 3
+	Query: "35568" ; Times: 1
+	Query: "Leopardus pardalis 2017" ; Times: 4
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "241960" ; Times: 1
+	Query: "Coccyzus americanus 2017" ; Times: 4
+	Query: "31201" ; Times: 1
+	Query: "97825" ; Times: 1
+	Query: "catalognumber:208804" ; Times: 1
+	Query: "aves howard 1900" ; Times: 1
+	Query: "241271" ; Times: 1
+	Query: "241273" ; Times: 1
+	Query: "52292" ; Times: 1
+	Query: "53460" ; Times: 2
+	Query: "iniidae" ; Times: 1
+	Query: "249095" ; Times: 1
+	Query: "242396" ; Times: 1
+	Query: "genus:Castor class:Mammalia institutioncode:UF" ; Times: 4
+	Query: "317250" ; Times: 1
+	Query: "catalognumber:143263" ; Times: 1
+	Query: "catalognumber:203485" ; Times: 1
+	Query: "catalognumber:154965 institutioncode:UF" ; Times: 3
+	Query: "241819" ; Times: 1
+	Query: "morus bassanus" ; Times: 1
+	Query: "242042" ; Times: 2
+	Query: "Mycteria americana 2014" ; Times: 4
+	Query: "240963" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "catalognumber:35676" ; Times: 1
+	Query: "Nerodia cyclopion mappable:1" ; Times: 1
+	Query: "53498" ; Times: 1
+	Query: "416995" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera country:&#34;USA&#34;" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 1
+	Query: "USA Dasypus" ; Times: 1
+	Query: "86593" ; Times: 1
+	Query: "86616" ; Times: 1
+	Query: "86614" ; Times: 1
+	Query: "241952" ; Times: 1
+	Query: "Regina alleni mappable:1" ; Times: 1
+	Query: "117407" ; Times: 1
+	Query: "241870" ; Times: 1
+	Query: "Mycteria americana 2017" ; Times: 4
+	Query: "mexico fauna" ; Times: 1
+	Query: "53626" ; Times: 1
+	Query: "60015" ; Times: 1
+	Query: "53470" ; Times: 1
+	Query: "243318" ; Times: 1
+	Query: "Sphyraena barracuda vntype:specimen year &gt;= 2000" ; Times: 2
+	Query: "numenius iowa" ; Times: 1
+	Query: "Isistius" ; Times: 2
+	Query: "catalognumber:154969 institutioncode:UF" ; Times: 1
+	Query: "242381" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 1
+	Query: "113634" ; Times: 1
+	Query: "catalognumber:204984" ; Times: 1
+	Query: "catalognumber:97652" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "19720" ; Times: 2
+	Query: "monachus tropicalis" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "Spizella pusilla" ; Times: 1
+	Query: "154810" ; Times: 1
+	Query: "61707" ; Times: 2
+	Query: "54583" ; Times: 1
+	Query: "specificepithet:lacertina genus:siren year &lt;= 1955" ; Times: 2
+	Query: "95833" ; Times: 1
+	Query: "Bridger formation class:mammalia" ; Times: 1
+	Query: "252433" ; Times: 1
+	Query: "242259" ; Times: 2
+	Query: "genus:Sphyrna" ; Times: 1
+	Query: "115820" ; Times: 1
+	Query: "220089" ; Times: 1
+	Query: "bridger formation mammalia" ; Times: 1
+	Query: "family:Capromyidae country:&#34;Dominican Republic&#34;" ; Times: 1
+	Query: "241239" ; Times: 1
+	Query: "Pinguinus" ; Times: 1
+	Query: "86613" ; Times: 1
+	Query: "207567" ; Times: 1
+	Query: "macrochelys stateprovince:&#34;Mississippi&#34;" ; Times: 6
+	Query: "241907" ; Times: 1
+	Query: "161009" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1367 download events in this period)
+Total number of records downloaded: 7879
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Brazil ; Times: 4
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 3
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-06 ; Times: 13
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-04 ; Times: 2
+	Date: 2019-11-05 ; Times: 6
+	Date: 2019-11-10 ; Times: 3
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ventralis genus:ophisaurus institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:striatus genus:epicrates institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "order:Charadriiformes" ; Times: 4
+	Query: "specificepithet:abacura genus:farancia institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "order:Anseriformes" ; Times: 2
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:fulvius genus:micrurus institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "TAYASSU PECARI" ; Times: 2
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 1
+	Query: "Melospiza melodia" ; Times: 1
+	Query: "order:Columbiformes" ; Times: 2
+	Query: "Gekkonidae" ; Times: 1
+	Query: "monachus tropicalis" ; Times: 1
+	Query: "order:Accipitriformes" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "specificepithet:floridana genus:rhineura institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 2
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "macrochelys stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "order:Ciconiiformes" ; Times: 2
+
+
+End of report.
