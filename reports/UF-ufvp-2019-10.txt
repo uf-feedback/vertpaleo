@@ -1,0 +1,450 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 543
+Number of records retrieved in searches: 10292
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Canada ; Times: 8
+	Country: Israel ; Times: 1
+	Country: New Zealand ; Times: 84
+	Country: Portugal ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 7
+	Country: Panama ; Times: 1
+	Country: Mexico ; Times: 34
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Belgium ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Sri Lanka ; Times: 6
+	Country: Hungary ; Times: 2
+	Country: Argentina ; Times: 3
+	Country: United States ; Times: 367
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 53
+	Date: 2019-10-08 ; Times: 3
+	Date: 2019-10-21 ; Times: 8
+	Date: 2019-10-20 ; Times: 10
+	Date: 2019-10-27 ; Times: 12
+	Date: 2019-10-25 ; Times: 5
+	Date: 2019-10-24 ; Times: 61
+	Date: 2019-10-01 ; Times: 7
+	Date: 2019-10-03 ; Times: 9
+	Date: 2019-10-02 ; Times: 17
+	Date: 2019-10-04 ; Times: 30
+	Date: 2019-10-07 ; Times: 7
+	Date: 2019-10-06 ; Times: 2
+	Date: 2019-10-23 ; Times: 53
+	Date: 2019-10-22 ; Times: 36
+	Date: 2019-10-29 ; Times: 15
+	Date: 2019-10-18 ; Times: 9
+	Date: 2019-10-19 ; Times: 10
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-13 ; Times: 8
+	Date: 2019-10-10 ; Times: 13
+	Date: 2019-10-11 ; Times: 9
+	Date: 2019-10-16 ; Times: 5
+	Date: 2019-10-31 ; Times: 92
+	Date: 2019-10-14 ; Times: 2
+	Date: 2019-10-17 ; Times: 8
+	Date: 2019-10-15 ; Times: 22
+	Date: 2019-10-28 ; Times: 21
+	Date: 2019-10-30 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "Sus scrofa preparations:skeleton" ; Times: 1
+	Query: "boa constrictor mappable:1" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "catalognumber:98520" ; Times: 1
+	Query: "catalognumber:49679 institutioncode:UF" ; Times: 2
+	Query: "264406" ; Times: 1
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "family:dipsadidae country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "tursiops truncatus" ; Times: 8
+	Query: "Negaprion brevirostris" ; Times: 2
+	Query: "54212" ; Times: 1
+	Query: "143822" ; Times: 1
+	Query: "93814" ; Times: 2
+	Query: "collectioncode:UF" ; Times: 1
+	Query: "10109" ; Times: 1
+	Query: "catalognumber:44154 institutioncode:UF" ; Times: 2
+	Query: "UF 51031" ; Times: 2
+	Query: "catalognumber:46893 institutioncode:UF" ; Times: 2
+	Query: "Haliaeetus leucocephalus mappable:1" ; Times: 3
+	Query: "UF 50492" ; Times: 2
+	Query: "catalognumber:49537 institutioncode:UF" ; Times: 2
+	Query: "210746" ; Times: 1
+	Query: "Grus americana mappable:1" ; Times: 1
+	Query: "Myliobatis californica" ; Times: 2
+	Query: "catalognumber:46958 institutioncode:UF" ; Times: 2
+	Query: "peccary" ; Times: 1
+	Query: "Crocodylus acutus 2017" ; Times: 1
+	Query: "Sphyrna" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 5
+	Query: "catalognumber:50122 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:46984 institutioncode:UF" ; Times: 2
+	Query: "T-1484" ; Times: 1
+	Query: "specificepithet:spatula genus:Atractosteus" ; Times: 4
+	Query: "catalognumber:43092 institutioncode:UF" ; Times: 2
+	Query: "Rhinoptera steindachneri" ; Times: 2
+	Query: "Priotelus roseigaster" ; Times: 9
+	Query: "71340" ; Times: 1
+	Query: "199088" ; Times: 1
+	Query: "Podomys floridanus" ; Times: 3
+	Query: "catalognumber:49799 institutioncode:UF" ; Times: 2
+	Query: "UF 49021" ; Times: 4
+	Query: "128373" ; Times: 1
+	Query: "16467" ; Times: 1
+	Query: "Chelonoidis" ; Times: 2
+	Query: "Panthera onca" ; Times: 3
+	Query: "11188" ; Times: 1
+	Query: "23763" ; Times: 1
+	Query: "62920" ; Times: 1
+	Query: "genus:panthera" ; Times: 2
+	Query: "Mycteria americana 2017" ; Times: 1
+	Query: "genus:malaclemys stateprovince:&#34;florida&#34; year &gt;= 1970" ; Times: 2
+	Query: "125203" ; Times: 1
+	Query: "UF 14244" ; Times: 1
+	Query: "52702" ; Times: 1
+	Query: "catalognumber:46831 institutioncode:UF" ; Times: 2
+	Query: "19786" ; Times: 1
+	Query: "catalognumber:49827 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:149750 institutioncode:UF" ; Times: 1
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "96152" ; Times: 2
+	Query: "Mobula tarapacana" ; Times: 2
+	Query: "176633" ; Times: 1
+	Query: "143742" ; Times: 1
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "genus:Plecotus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "50567" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 18
+	Query: "244728" ; Times: 1
+	Query: "catalognumber:43078 institutioncode:UF" ; Times: 2
+	Query: "50678" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 2
+	Query: "Gymnogyps californianus" ; Times: 5
+	Query: "104766" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "UF 51557" ; Times: 1
+	Query: "UF 51556" ; Times: 1
+	Query: "32783" ; Times: 1
+	Query: "UF 51586" ; Times: 1
+	Query: "Carcharhinus brachyurus" ; Times: 2
+	Query: "263050" ; Times: 1
+	Query: "15983" ; Times: 1
+	Query: "catalognumber:132431" ; Times: 1
+	Query: "Carcharhinus signatus" ; Times: 2
+	Query: "catalognumber:49920 institutioncode:UF" ; Times: 2
+	Query: "213213" ; Times: 2
+	Query: "Leopardus pardalis 2014" ; Times: 1
+	Query: "69978" ; Times: 1
+	Query: "192928" ; Times: 2
+	Query: "specificepithet:lherminieri genus:Puffinus institutioncode:UF" ; Times: 1
+	Query: "catalognumber:49927 institutioncode:UF" ; Times: 2
+	Query: "71480" ; Times: 1
+	Query: "catalognumber:42706 institutioncode:UF" ; Times: 2
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "244792" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Drymarchon couperi 2015" ; Times: 1
+	Query: "collectioncode:uf institutioncode:UF" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 6
+	Query: "catalognumber:49859 institutioncode:UF" ; Times: 2
+	Query: "Drymarchon couperi 2013" ; Times: 1
+	Query: "Mycteria americana 2014" ; Times: 1
+	Query: "catalognumber:49819 institutioncode:UF" ; Times: 2
+	Query: "234758" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;Haiti&#34;" ; Times: 1
+	Query: "195456" ; Times: 1
+	Query: "catalognumber:206892" ; Times: 3
+	Query: "128383" ; Times: 1
+	Query: "Rhynchobatus luebberti" ; Times: 1
+	Query: "Isurus paucus" ; Times: 1
+	Query: "68252" ; Times: 1
+	Query: "Carcharhinus acronotus" ; Times: 2
+	Query: "Crocodylus acutus 2013" ; Times: 1
+	Query: "187306" ; Times: 1
+	Query: "catalognumber:50064 institutioncode:UF" ; Times: 2
+	Query: "276516" ; Times: 2
+	Query: "catalognumber:49889 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:48074 institutioncode:UF" ; Times: 2
+	Query: "Centrophorus granulosus" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Isurus oxyrinchus" ; Times: 2
+	Query: "catalognumber:175828" ; Times: 1
+	Query: "40047" ; Times: 1
+	Query: "catalognumber:49745 institutioncode:UF" ; Times: 2
+	Query: "103914" ; Times: 1
+	Query: "200252" ; Times: 1
+	Query: "zombie" ; Times: 1
+	Query: "UF 51579" ; Times: 1
+	Query: "Mobula hypostoma" ; Times: 2
+	Query: "catalognumber:47147 institutioncode:UF" ; Times: 2
+	Query: "Sphyrna lewini" ; Times: 3
+	Query: "141323" ; Times: 1
+	Query: "64055" ; Times: 1
+	Query: "UF Priotelus roseigaster" ; Times: 4
+	Query: "28676" ; Times: 1
+	Query: "R-21808" ; Times: 2
+	Query: "Hemipristis elongata" ; Times: 2
+	Query: "UF 30080" ; Times: 1
+	Query: "143722" ; Times: 1
+	Query: "catalognumber:42970 institutioncode:UF" ; Times: 2
+	Query: "178304" ; Times: 2
+	Query: "catalognumber:49784 institutioncode:UF" ; Times: 2
+	Query: "Sphyrna zygaena" ; Times: 3
+	Query: "UF 43204" ; Times: 1
+	Query: "UF 43205" ; Times: 1
+	Query: "catalognumber:50129 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:47151 institutioncode:UF" ; Times: 3
+	Query: "39463" ; Times: 1
+	Query: "236655" ; Times: 1
+	Query: "catalognumber:49575 institutioncode:UF" ; Times: 2
+	Query: "lepus alleni" ; Times: 1
+	Query: "63905" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "63902" ; Times: 1
+	Query: "catalognumber:160983" ; Times: 1
+	Query: "catalognumber:49870 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:49649 institutioncode:UF" ; Times: 2
+	Query: "Squatina squatina" ; Times: 2
+	Query: "catalognumber:326403" ; Times: 1
+	Query: "Mus musculus 2014" ; Times: 1
+	Query: "geocapromys" ; Times: 1
+	Query: "Coccyzus americanus 1973" ; Times: 1
+	Query: "catalognumber:49706 institutioncode:UF" ; Times: 2
+	Query: "UF 46453" ; Times: 2
+	Query: "Aphelocoma coerulescens 2017" ; Times: 1
+	Query: "Heterodontus portusjacksoni" ; Times: 2
+	Query: "UF 51585" ; Times: 1
+	Query: "63118" ; Times: 1
+	Query: "244746" ; Times: 1
+	Query: "catalognumber:206893" ; Times: 1
+	Query: "250541" ; Times: 1
+	Query: "Aphelocoma coerulescens 2013" ; Times: 1
+	Query: "Aphelocoma coerulescens 1973" ; Times: 1
+	Query: "Carcharhinus isodon" ; Times: 2
+	Query: "UF 52107" ; Times: 1
+	Query: "131983" ; Times: 1
+	Query: "143710" ; Times: 1
+	Query: "catalognumber:82531" ; Times: 1
+	Query: "Mobula japanica" ; Times: 2
+	Query: "Carcharhinus macloti" ; Times: 2
+	Query: "genus:Terrapene county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 6
+	Query: "239882" ; Times: 1
+	Query: "Notorynchus cepedianus" ; Times: 2
+	Query: "18509" ; Times: 1
+	Query: "stateprovince:&#34;Nebraska&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "UF 49006" ; Times: 3
+	Query: "Ginglymostoma cirratum" ; Times: 2
+	Query: "catalognumber:49557 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:45537 institutioncode:UF" ; Times: 1
+	Query: "66686" ; Times: 1
+	Query: "228084" ; Times: 1
+	Query: "recordedby:Brewer" ; Times: 1
+	Query: "gbifdatasetid:2fba9985-ac30-46cb-99bf-91ccde0d8d2f" ; Times: 1
+	Query: "109732" ; Times: 1
+	Query: "M 1607" ; Times: 1
+	Query: "44016" ; Times: 1
+	Query: "catalognumber:46964 institutioncode:UF" ; Times: 2
+	Query: "128314" ; Times: 1
+	Query: "specificepithet:americana genus:Grus class:Aves continent:North America" ; Times: 2
+	Query: "Carcharhinus brevipinna" ; Times: 2
+	Query: "Carcharias taurus" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "catalognumber:91476" ; Times: 1
+	Query: "catalognumber:49592 institutioncode:UF" ; Times: 2
+	Query: "Alopias superciliosus" ; Times: 2
+	Query: "Carcharhinus falciformis" ; Times: 2
+	Query: "catalognumber:49767 institutioncode:UF" ; Times: 2
+	Query: "139695" ; Times: 2
+	Query: "vicugna" ; Times: 1
+	Query: "UF Priotelus" ; Times: 3
+	Query: "110218" ; Times: 1
+	Query: "244769" ; Times: 1
+	Query: "&#34;Negaprion brevirostris&#34;" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 2
+	Query: "(Oswald) institutioncode:UF" ; Times: 1
+	Query: "catalognumber:49809 institutioncode:UF" ; Times: 2
+	Query: "Pterodroma hasitata" ; Times: 1
+	Query: "249016" ; Times: 1
+	Query: "Leopardus pardalis 2017" ; Times: 1
+	Query: "UF 49007" ; Times: 3
+	Query: "catalognumber:50112 institutioncode:UF" ; Times: 2
+	Query: "class:Mammalia catalognumber:98520" ; Times: 1
+	Query: "Coccyzus americanus 2013" ; Times: 1
+	Query: "catalognumber:50203 institutioncode:UF" ; Times: 2
+	Query: "UF 49015" ; Times: 3
+	Query: "10495" ; Times: 2
+	Query: "141513" ; Times: 1
+	Query: "141514" ; Times: 1
+	Query: "catalognumber:49570 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:48144 institutioncode:UF" ; Times: 2
+	Query: "Cathartes aura" ; Times: 1
+	Query: "catalognumber:49879 institutioncode:UF" ; Times: 2
+	Query: "330791" ; Times: 1
+	Query: "genus:plecotus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Smilodon" ; Times: 1
+	Query: "Coccyzus americanus 2017" ; Times: 1
+	Query: "Spheniscus" ; Times: 1
+	Query: "catalognumber:49676 institutioncode:UF" ; Times: 1
+	Query: "Carcharhinus sealei" ; Times: 2
+	Query: "249015" ; Times: 1
+	Query: "catalognumber:50027 institutioncode:UF" ; Times: 2
+	Query: "collectioncode:uf" ; Times: 1
+	Query: "catalognumber:50164 institutioncode:UF" ; Times: 2
+	Query: "podomys floridanus" ; Times: 1
+	Query: "12619" ; Times: 2
+	Query: "249013" ; Times: 1
+	Query: "catalognumber:43775 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:49845 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "Rhizoprionodon longurio" ; Times: 1
+	Query: "Puma concolor" ; Times: 8
+	Query: "43878" ; Times: 1
+	Query: "186599" ; Times: 1
+	Query: "catalognumber:49779 institutioncode:UF" ; Times: 2
+	Query: "141501" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 2
+	Query: "Panthera Onca" ; Times: 1
+	Query: "70530" ; Times: 1
+	Query: "180131" ; Times: 1
+	Query: "13267" ; Times: 3
+	Query: "67214" ; Times: 3
+	Query: "19803" ; Times: 1
+	Query: "catalognumber:42968 institutioncode:UF" ; Times: 2
+	Query: "120011" ; Times: 1
+	Query: "135675" ; Times: 1
+	Query: "catalognumber:49698 institutioncode:UF" ; Times: 2
+	Query: "Drymarchon corais" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 3
+	Query: "176443" ; Times: 2
+	Query: "Carcharhinus obscurus" ; Times: 2
+	Query: "specificepithet:nelsoni genus:pseudemys stateprovince:&#34;florida&#34; year &gt;= 1970" ; Times: 3
+	Query: "drymarchon corais" ; Times: 2
+	Query: "Mobula munkiana" ; Times: 2
+	Query: "catalognumber:49532 institutioncode:UF" ; Times: 2
+	Query: "UF 49063" ; Times: 3
+	Query: "162261" ; Times: 2
+	Query: "12953" ; Times: 1
+	Query: "genus:malaclemys stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "UF 49047" ; Times: 3
+	Query: "UF 49044" ; Times: 3
+	Query: "catalognumber:49750 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:49665 institutioncode:UF" ; Times: 2
+	Query: "Hexanchus griseus" ; Times: 2
+	Query: "178836" ; Times: 2
+	Query: "244743" ; Times: 1
+	Query: "FLMNH 46822" ; Times: 1
+	Query: "Drymarchon couperi 2017" ; Times: 1
+	Query: "Alopias" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 2
+	Query: "speotyto cunicularia" ; Times: 1
+	Query: "genus:Mammut stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "erythrorhynchos Pelecanus" ; Times: 6
+	Query: "equus" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 2
+	Query: "173976" ; Times: 1
+	Query: "236340" ; Times: 1
+	Query: "Carcharhinus leucas" ; Times: 2
+	Query: "Solenodon paradoxus" ; Times: 1
+	Query: "Lamna nasus" ; Times: 2
+	Query: "Carcharhinus plumbeus" ; Times: 2
+	Query: "Mobula thurstoni" ; Times: 2
+	Query: "catalognumber:49732 institutioncode:UF" ; Times: 2
+	Query: "Pantherophis guttatus mappable:1" ; Times: 1
+	Query: "H 6378-16" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "70531" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 2
+	Query: "UF 50179" ; Times: 3
+	Query: "catalognumber:49899 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:49822 institutioncode:UF" ; Times: 2
+	Query: "Galeocerdo cuvier" ; Times: 2
+	Query: "Tretanorhinus variabilis" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 1308 download events in this period)
+Total number of records downloaded: 4031
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Unknown ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 31
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 27
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-21 ; Times: 3
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-11 ; Times: 3
+	Date: 2019-10-30 ; Times: 3
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-07 ; Times: 2
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-28 ; Times: 3
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sus scrofa preparations:skeleton" ; Times: 1
+	Query: "buteo platypterus" ; Times: 1
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "stercorariidae" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "Bufonidae vntype:specimen" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 9
+	Query: "ameiva auberi" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 4
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "puma concolor" ; Times: 10
+	Query: "Geothlypis trichas" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:junco" ; Times: 1
+	Query: "Chelonoidis" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "Bufonidae vntype:specimen institutioncode:UF" ; Times: 1
+	Query: "genus:Opheodrys institutioncode:UF" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "Varanus salvator" ; Times: 2
+	Query: "genus:Plecotus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "platypus" ; Times: 2
+	Query: "Lithobates Catesbeianus" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 2
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "Tretanorhinus variabilis" ; Times: 1
+
+
+End of report.
