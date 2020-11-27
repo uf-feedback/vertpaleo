@@ -1,0 +1,421 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 569
+Number of records retrieved in searches: 21887
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 24
+	Country: United States ; Times: 276
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 8
+	Country: Mexico ; Times: 8
+	Country: Singapore ; Times: 3
+	Country: France ; Times: 234
+	Country: Bahamas ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Ecuador ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 7
+	Date: 2019-12-27 ; Times: 30
+	Date: 2019-12-26 ; Times: 29
+	Date: 2019-12-21 ; Times: 69
+	Date: 2019-12-20 ; Times: 54
+	Date: 2019-12-22 ; Times: 16
+	Date: 2019-12-29 ; Times: 3
+	Date: 2019-12-28 ; Times: 6
+	Date: 2019-12-18 ; Times: 31
+	Date: 2019-12-19 ; Times: 44
+	Date: 2019-12-10 ; Times: 13
+	Date: 2019-12-11 ; Times: 32
+	Date: 2019-12-12 ; Times: 27
+	Date: 2019-12-13 ; Times: 26
+	Date: 2019-12-14 ; Times: 1
+	Date: 2019-12-15 ; Times: 7
+	Date: 2019-12-16 ; Times: 10
+	Date: 2019-12-17 ; Times: 11
+	Date: 2019-12-30 ; Times: 2
+	Date: 2019-12-31 ; Times: 10
+	Date: 2019-12-09 ; Times: 36
+	Date: 2019-12-08 ; Times: 5
+	Date: 2019-12-07 ; Times: 3
+	Date: 2019-12-06 ; Times: 38
+	Date: 2019-12-05 ; Times: 21
+	Date: 2019-12-04 ; Times: 9
+	Date: 2019-12-03 ; Times: 18
+	Date: 2019-12-02 ; Times: 7
+	Date: 2019-12-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "53319" ; Times: 1
+	Query: "242429" ; Times: 1
+	Query: "241057" ; Times: 1
+	Query: "242089" ; Times: 1
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 2
+	Query: "241211" ; Times: 1
+	Query: "239121" ; Times: 1
+	Query: "227820" ; Times: 1
+	Query: "224701" ; Times: 1
+	Query: "231176" ; Times: 1
+	Query: "242463" ; Times: 1
+	Query: "hutia" ; Times: 1
+	Query: "Pseudorca crassidens mappable:1" ; Times: 2
+	Query: "catalognumber:54548 institutioncode:UF" ; Times: 2
+	Query: "109195" ; Times: 1
+	Query: "241908" ; Times: 1
+	Query: "Epinephelus itajara mappable:1" ; Times: 5
+	Query: "243684" ; Times: 1
+	Query: "Megalops atlanticus mappable:1" ; Times: 11
+	Query: "242309" ; Times: 1
+	Query: "227082" ; Times: 1
+	Query: "244584" ; Times: 1
+	Query: "242020" ; Times: 1
+	Query: "205068" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "242650" ; Times: 1
+	Query: "110738" ; Times: 1
+	Query: "241912" ; Times: 1
+	Query: "grus americana florida" ; Times: 1
+	Query: "224542" ; Times: 1
+	Query: "78659" ; Times: 1
+	Query: "242553" ; Times: 1
+	Query: "241454" ; Times: 1
+	Query: "catalognumber:19094 institutioncode:UF" ; Times: 2
+	Query: "242045" ; Times: 1
+	Query: "241322" ; Times: 1
+	Query: "239423" ; Times: 1
+	Query: "242538" ; Times: 1
+	Query: "specificepithet:leucocephala genus:amazona" ; Times: 1
+	Query: "255565" ; Times: 1
+	Query: "241614" ; Times: 1
+	Query: "242122" ; Times: 1
+	Query: "91315" ; Times: 1
+	Query: "241329" ; Times: 1
+	Query: "Synodus foetens mappable:1" ; Times: 2
+	Query: "241514" ; Times: 1
+	Query: "91314" ; Times: 1
+	Query: "58319" ; Times: 1
+	Query: "242201" ; Times: 1
+	Query: "241393" ; Times: 1
+	Query: "243137" ; Times: 1
+	Query: "specificepithet:putorius genus:SPilogale" ; Times: 6
+	Query: "241196" ; Times: 1
+	Query: "Ginglymostoma cirratum mappable:1" ; Times: 2
+	Query: "catalognumber:154615 institutioncode:UF" ; Times: 2
+	Query: "Rhizoprionodon terraenovae mappable:1" ; Times: 12
+	Query: "Sphyraena barracuda mappable:1" ; Times: 2
+	Query: "412627" ; Times: 1
+	Query: "156384" ; Times: 1
+	Query: "241103" ; Times: 1
+	Query: "242031" ; Times: 1
+	Query: "224539" ; Times: 1
+	Query: "242037" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "241844" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+	Query: "241809" ; Times: 1
+	Query: "241840" ; Times: 1
+	Query: "241525" ; Times: 1
+	Query: "uf 98224" ; Times: 4
+	Query: "241337" ; Times: 1
+	Query: "2013-1064" ; Times: 1
+	Query: "32093" ; Times: 1
+	Query: "255898" ; Times: 1
+	Query: "155405" ; Times: 1
+	Query: "Lachnolaimus maximus mappable:1" ; Times: 9
+	Query: "Apogon townsendi mappable:1" ; Times: 13
+	Query: "242523" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 2
+	Query: "52713" ; Times: 1
+	Query: "Elops saurus mappable:1" ; Times: 14
+	Query: "spilogale putorius" ; Times: 2
+	Query: "116149" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "catalognumber:11117 institutioncode:UF" ; Times: 2
+	Query: "20195" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "241937" ; Times: 1
+	Query: "241936" ; Times: 1
+	Query: "240798" ; Times: 1
+	Query: "catalognumber:154619 institutioncode:UF" ; Times: 2
+	Query: "241939" ; Times: 1
+	Query: "uf 98223" ; Times: 1
+	Query: "Caranx hippos mappable:1" ; Times: 3
+	Query: "147931" ; Times: 1
+	Query: "224529" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 2
+	Query: "catalognumber:99077 institutioncode:UF" ; Times: 2
+	Query: "13110" ; Times: 1
+	Query: "catalognumber:154614 institutioncode:UF" ; Times: 2
+	Query: "241116" ; Times: 1
+	Query: "catalognumber:164755" ; Times: 1
+	Query: "specificepithet:putorius genus:spilogale institutioncode:UF" ; Times: 6
+	Query: "240925" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "242204" ; Times: 1
+	Query: "242205" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 2
+	Query: "242518" ; Times: 1
+	Query: "248487" ; Times: 1
+	Query: "242063" ; Times: 1
+	Query: "242064" ; Times: 1
+	Query: "227015" ; Times: 1
+	Query: "241306" ; Times: 1
+	Query: "Monachus tropicalis mappable:1" ; Times: 2
+	Query: "catalognumber:19006 institutioncode:UF" ; Times: 2
+	Query: "Diaphus brachycephalus  mappable:1" ; Times: 1
+	Query: "233094" ; Times: 1
+	Query: "242516" ; Times: 1
+	Query: "242517" ; Times: 1
+	Query: "Mycteroperca tigris mappable:1" ; Times: 6
+	Query: "233097" ; Times: 1
+	Query: "solenodon" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "242524" ; Times: 1
+	Query: "Opisthonema oglinum mappable:1" ; Times: 17
+	Query: "Diplectrum formosum mappable:1" ; Times: 4
+	Query: "241532" ; Times: 1
+	Query: "240953" ; Times: 1
+	Query: "UF 30080" ; Times: 1
+	Query: "208083" ; Times: 1
+	Query: "24368" ; Times: 1
+	Query: "monachus tropicalis" ; Times: 1
+	Query: "242265" ; Times: 1
+	Query: "76706" ; Times: 1
+	Query: "204409" ; Times: 1
+	Query: "241944" ; Times: 1
+	Query: "241945" ; Times: 1
+	Query: "242446" ; Times: 1
+	Query: "242447" ; Times: 1
+	Query: "37484" ; Times: 2
+	Query: "207438" ; Times: 1
+	Query: "242357" ; Times: 1
+	Query: "242448" ; Times: 1
+	Query: "204414" ; Times: 1
+	Query: "241120" ; Times: 1
+	Query: "240636" ; Times: 1
+	Query: "204411" ; Times: 1
+	Query: "242603" ; Times: 1
+	Query: "Lepidochelys kempii  mappable:1" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 7
+	Query: "catalognumber:36799" ; Times: 1
+	Query: "200175" ; Times: 1
+	Query: "23496" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "Trichechus manatus mappable:1" ; Times: 2
+	Query: "139834" ; Times: 1
+	Query: "family:Helodermatidae isfossil:1" ; Times: 2
+	Query: "241424" ; Times: 1
+	Query: "54011" ; Times: 1
+	Query: "catalognumber:71814" ; Times: 1
+	Query: "242855" ; Times: 1
+	Query: "241895" ; Times: 1
+	Query: "412662" ; Times: 1
+	Query: "11270." ; Times: 1
+	Query: "specificepithet:moreletii genus:crocodylus country:&#34;México&#34;" ; Times: 1
+	Query: "241816" ; Times: 1
+	Query: "241989" ; Times: 1
+	Query: "chilabothrus" ; Times: 1
+	Query: "28549" ; Times: 1
+	Query: "207539" ; Times: 1
+	Query: "242499" ; Times: 1
+	Query: "59361" ; Times: 1
+	Query: "50129" ; Times: 2
+	Query: "13208" ; Times: 1
+	Query: "260973" ; Times: 1
+	Query: "241030" ; Times: 1
+	Query: "68443" ; Times: 1
+	Query: "Ambystoma tigrinum stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "240896" ; Times: 1
+	Query: "160714" ; Times: 1
+	Query: "catalognumber:154618 institutioncode:UF" ; Times: 2
+	Query: "241380" ; Times: 1
+	Query: "321200" ; Times: 1
+	Query: "242109" ; Times: 1
+	Query: "242108" ; Times: 1
+	Query: "241384" ; Times: 1
+	Query: "Sturnella magna year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "241369" ; Times: 1
+	Query: "241241" ; Times: 1
+	Query: "78651" ; Times: 2
+	Query: "163509" ; Times: 1
+	Query: "uf 161173" ; Times: 1
+	Query: "241491" ; Times: 1
+	Query: "242009" ; Times: 1
+	Query: "224868" ; Times: 1
+	Query: "catalognumber:139025" ; Times: 1
+	Query: "241364" ; Times: 1
+	Query: "241864" ; Times: 1
+	Query: "241411" ; Times: 1
+	Query: "UF 27737" ; Times: 1
+	Query: "159630" ; Times: 1
+	Query: "124580" ; Times: 1
+	Query: "56609" ; Times: 1
+	Query: "Carcharhinus acronotus mappable:1" ; Times: 13
+	Query: "241552" ; Times: 1
+	Query: "Eucinostomus gula mappable:1" ; Times: 10
+	Query: "Sphyrna zygaena mappable:1" ; Times: 2
+	Query: "91317" ; Times: 1
+	Query: "241802" ; Times: 1
+	Query: "uf 30080" ; Times: 4
+	Query: "241394" ; Times: 1
+	Query: "241807" ; Times: 1
+	Query: "141431" ; Times: 1
+	Query: "Strongylura marina mappable:1" ; Times: 10
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 2
+	Query: "242278" ; Times: 1
+	Query: "234782" ; Times: 1
+	Query: "Pterodroma hasitata" ; Times: 1
+	Query: "Siphonorhis americana" ; Times: 2
+	Query: "241914" ; Times: 2
+	Query: "55764" ; Times: 1
+	Query: "88850" ; Times: 1
+	Query: "242504" ; Times: 1
+	Query: "207439" ; Times: 1
+	Query: "Aetobatus narinari mappable:1" ; Times: 8
+	Query: "242252" ; Times: 1
+	Query: "242464" ; Times: 1
+	Query: "genus:ursus stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "415507" ; Times: 1
+	Query: "Pterodroma hasitata vntype:specimen" ; Times: 1
+	Query: "lepus alleni" ; Times: 1
+	Query: "242375" ; Times: 1
+	Query: "240860" ; Times: 1
+	Query: "catalognumber:163690" ; Times: 1
+	Query: "58113" ; Times: 1
+	Query: "Carcharhinus falciformis mappable:1" ; Times: 10
+	Query: "catalognumber:150338 institutioncode:UF" ; Times: 2
+	Query: "208078" ; Times: 1
+	Query: "catalognumber:294471 institutioncode:UF" ; Times: 1
+	Query: "Micropogonias undulatus mappable:1" ; Times: 5
+	Query: "242014" ; Times: 1
+	Query: "49481" ; Times: 2
+	Query: "242486" ; Times: 1
+	Query: "Micro megalops" ; Times: 2
+	Query: "242485" ; Times: 1
+	Query: "242107" ; Times: 1
+	Query: "Negaprion brevirostris mappable:1" ; Times: 11
+	Query: "124577" ; Times: 1
+	Query: "family:Dactyloidae county:&#34;Pinellas&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "241401" ; Times: 1
+	Query: "243173" ; Times: 1
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "242018" ; Times: 1
+	Query: "catalognumber:143804" ; Times: 1
+	Query: "242254" ; Times: 1
+	Query: "242088" ; Times: 1
+	Query: "catalognumber:9229 institutioncode:UF" ; Times: 3
+	Query: "240958" ; Times: 1
+	Query: "242279" ; Times: 1
+	Query: "vntype:specimen locality:mayport county:&#34;Duval&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "241019" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 4
+	Query: "Chaetodipterus faber mappable:1" ; Times: 10
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "241871" ; Times: 1
+	Query: "203515" ; Times: 1
+	Query: "241943" ; Times: 1
+	Query: "242706" ; Times: 1
+	Query: "Stenella frontalis mappable:1" ; Times: 2
+	Query: "family:Dactyloidae county:&#34;Hillsborough&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "242416" ; Times: 1
+	Query: "125787" ; Times: 1
+	Query: "215898" ; Times: 1
+	Query: "241260" ; Times: 1
+	Query: "FLMNH 46822" ; Times: 1
+	Query: "242497" ; Times: 1
+	Query: "242496" ; Times: 1
+	Query: "Carcharhinus leucas mappable:1" ; Times: 12
+	Query: "catalognumber:249971 institutioncode:UF" ; Times: 1
+	Query: "154973" ; Times: 1
+	Query: "213997" ; Times: 1
+	Query: "204230" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "242087" ; Times: 1
+	Query: "Trachinotus carolinus mappable:1" ; Times: 3
+	Query: "Sphyrna mokarran mappable:1" ; Times: 2
+	Query: "Galeocerdo cuvier mappable:1" ; Times: 2
+	Query: "242314" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 3
+	Query: "specificepithet:rufus genus:Canis" ; Times: 1
+	Query: "242318" ; Times: 1
+	Query: "catalognumber:71812" ; Times: 1
+	Query: "99728" ; Times: 1
+	Query: "204412" ; Times: 1
+	Query: "Albula vulpes mappable:1" ; Times: 18
+	Query: "canis rufus" ; Times: 11
+	Query: "241866" ; Times: 1
+	Query: "207569" ; Times: 1
+	Query: "241902" ; Times: 1
+	Query: "207567" ; Times: 1
+	Query: "11719" ; Times: 1
+	Query: "241906" ; Times: 1
+	Query: "244653" ; Times: 1
+	Query: "241904" ; Times: 1
+	Query: "240919" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 596 download events in this period)
+Total number of records downloaded: 1801
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Paraguay ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Belgium ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 3
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-02 ; Times: 3
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-10 ; Times: 3
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-05 ; Times: 3
+	Date: 2019-12-04 ; Times: 4
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Celestus costatus" ; Times: 1
+	Query: "genus:canis stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+
+
+End of report.
