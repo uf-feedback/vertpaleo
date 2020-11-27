@@ -1,0 +1,427 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 691
+Number of records retrieved in searches: 18254
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 39
+	Country: United States ; Times: 140
+	Country: Australia ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Singapore ; Times: 5
+	Country: Denmark ; Times: 5
+	Country: Mexico ; Times: 6
+	Country: India ; Times: 9
+	Country: Russia ; Times: 1
+	Country: United Kingdom ; Times: 446
+	Country: Ireland ; Times: 10
+	Country: Unknown ; Times: 4
+	Country: Switzerland ; Times: 1
+	Country: Brazil ; Times: 9
+	Country: New Zealand ; Times: 4
+	Country: Eswatini ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 114
+	Date: 2020-04-04 ; Times: 16
+	Date: 2020-04-23 ; Times: 4
+	Date: 2020-04-06 ; Times: 47
+	Date: 2020-04-22 ; Times: 11
+	Date: 2020-04-05 ; Times: 6
+	Date: 2020-04-20 ; Times: 14
+	Date: 2020-04-07 ; Times: 187
+	Date: 2020-04-26 ; Times: 2
+	Date: 2020-04-01 ; Times: 23
+	Date: 2020-04-24 ; Times: 4
+	Date: 2020-04-25 ; Times: 8
+	Date: 2020-04-28 ; Times: 7
+	Date: 2020-04-29 ; Times: 5
+	Date: 2020-04-08 ; Times: 72
+	Date: 2020-04-09 ; Times: 2
+	Date: 2020-04-27 ; Times: 5
+	Date: 2020-04-02 ; Times: 9
+	Date: 2020-04-03 ; Times: 66
+	Date: 2020-04-19 ; Times: 6
+	Date: 2020-04-18 ; Times: 5
+	Date: 2020-04-13 ; Times: 3
+	Date: 2020-04-12 ; Times: 2
+	Date: 2020-04-11 ; Times: 4
+	Date: 2020-04-10 ; Times: 4
+	Date: 2020-04-17 ; Times: 11
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 18
+	Date: 2020-04-14 ; Times: 24
+	Date: 2020-04-30 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 4
+	Query: "Anas carolinensis" ; Times: 10
+	Query: "Haliaeetus leucocephalus" ; Times: 8
+	Query: "Anas acuta" ; Times: 13
+	Query: "171739" ; Times: 2
+	Query: "244897" ; Times: 1
+	Query: "27883" ; Times: 1
+	Query: "Ameiurus natalis" ; Times: 9
+	Query: "phoebastria albatrus" ; Times: 4
+	Query: "Buteo swainsoni" ; Times: 4
+	Query: "Calidris canutus" ; Times: 3
+	Query: "Bison antiquus" ; Times: 1
+	Query: "38543" ; Times: 1
+	Query: "233035" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 4
+	Query: "26821" ; Times: 2
+	Query: "specificepithet:praesignis genus:aristelliger institutioncode:UF" ; Times: 1
+	Query: "Pterodroma hasitata" ; Times: 3
+	Query: "catalognumber:163323" ; Times: 1
+	Query: "Phoenicopterus" ; Times: 1
+	Query: "class:Reptilia locality:Bayano stateprovince:&#34;Panama&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "squatina squatina" ; Times: 1
+	Query: "Lepomis punctatus" ; Times: 6
+	Query: "Anas strepera" ; Times: 13
+	Query: "FLMNH 3173" ; Times: 1
+	Query: "Sciaenops ocellatus" ; Times: 6
+	Query: "Lepomis gulosus" ; Times: 6
+	Query: "Merluccius albidus" ; Times: 6
+	Query: "asio flammeus" ; Times: 2
+	Query: "catalognumber:204522 institutioncode:UF" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 4
+	Query: "233348" ; Times: 1
+	Query: "Mallotus villosus" ; Times: 5
+	Query: "23472" ; Times: 1
+	Query: "169550" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 2
+	Query: "Panthera onca" ; Times: 6
+	Query: "30985" ; Times: 1
+	Query: "180276" ; Times: 2
+	Query: "102423" ; Times: 1
+	Query: "Anhinga anhinga" ; Times: 2
+	Query: "26823" ; Times: 3
+	Query: "173960" ; Times: 1
+	Query: "264497" ; Times: 1
+	Query: "Larimus fasciatus" ; Times: 6
+	Query: "206916" ; Times: 1
+	Query: "280600" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 4
+	Query: "262413" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 4
+	Query: "panthera onca" ; Times: 1
+	Query: "Carcharocles megalodon" ; Times: 5
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "Grus americana" ; Times: 1
+	Query: "Cygnus columbianus" ; Times: 5
+	Query: "Sciurus carolinensis" ; Times: 3
+	Query: "Ardea alba" ; Times: 9
+	Query: "173966" ; Times: 1
+	Query: "Gadus morhua" ; Times: 5
+	Query: "Cynoscion nebulosus" ; Times: 3
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Levy&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Colon&#34; country:&#34;Panama&#34; AND (NOT ANOLIS NOT HOLCOSUS NOT BASILISCUS NOT AMEIVA NOT IGUANA) institutioncode:UF" ; Times: 1
+	Query: "catalognumber:226032" ; Times: 1
+	Query: "Anas crecca" ; Times: 13
+	Query: "class:Aves (30985)" ; Times: 1
+	Query: "Turdus plumbeus" ; Times: 9
+	Query: "Larus dominicanus" ; Times: 6
+	Query: "(18647)" ; Times: 2
+	Query: "260296" ; Times: 2
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "UF 159857" ; Times: 3
+	Query: "Tremarctos" ; Times: 3
+	Query: "Fulica americana" ; Times: 3
+	Query: "Phoenicopterus ruber" ; Times: 6
+	Query: "genus:Pseudemys class:Reptilia county:&#34;Colleton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "173737" ; Times: 1
+	Query: "173736" ; Times: 1
+	Query: "22916" ; Times: 1
+	Query: "class:Reptilia county:&#34;Dorchester&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "Pogonias cromis" ; Times: 5
+	Query: "(10009)" ; Times: 3
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "Coragyps atratus" ; Times: 2
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "235170" ; Times: 1
+	Query: "Phalacrocorax auritus" ; Times: 4
+	Query: "(Mesozoic) institutioncode:UF" ; Times: 2
+	Query: "175761" ; Times: 1
+	Query: "Lepomis auritus" ; Times: 5
+	Query: "(18677)" ; Times: 1
+	Query: "moschus" ; Times: 3
+	Query: "specificepithet:platyrhinos genus:Heterodon" ; Times: 1
+	Query: "vntype:specimen (Antarctica) isfossil:1" ; Times: 2
+	Query: "Buteo lineatus" ; Times: 7
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Marion&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "160588" ; Times: 1
+	Query: "Aythya americana" ; Times: 4
+	Query: "year &gt;= 1960 year &lt;= 2020 laterallus" ; Times: 1
+	Query: "catalognumber:7347" ; Times: 1
+	Query: "Anas americana" ; Times: 11
+	Query: "Ameiurus melas" ; Times: 10
+	Query: "183608" ; Times: 1
+	Query: "Todus todus" ; Times: 3
+	Query: "zombie" ; Times: 2
+	Query: "alligator mississippiensis" ; Times: 3
+	Query: "Opisthonema oglinum" ; Times: 4
+	Query: "173958" ; Times: 1
+	Query: "Tringa melanoleuca" ; Times: 5
+	Query: "18103" ; Times: 2
+	Query: "Equus asinus" ; Times: 2
+	Query: "class:Reptilia county:&#34;Dorchester&#34; stateprovince:&#34;South Carolina&#34; institutioncode:UF" ; Times: 1
+	Query: "260679" ; Times: 1
+	Query: "Recurvirostra americana" ; Times: 2
+	Query: "genus:Pituophis class:Reptilia stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "genus:Trachemys class:Reptilia county:&#34;Colleton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "15034" ; Times: 1
+	Query: "111653" ; Times: 1
+	Query: "217429" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 3
+	Query: "Aix sponsa" ; Times: 2
+	Query: "Ciconia ciconia" ; Times: 7
+	Query: "ryan terrill" ; Times: 2
+	Query: "12876" ; Times: 1
+	Query: "40612" ; Times: 1
+	Query: "173952" ; Times: 1
+	Query: "183611" ; Times: 1
+	Query: "183610" ; Times: 1
+	Query: "183613" ; Times: 1
+	Query: "Limnodromus scolopaceus" ; Times: 6
+	Query: "Pica pica" ; Times: 4
+	Query: "232908" ; Times: 1
+	Query: "Amorphochilus schnablii" ; Times: 1
+	Query: "Leiothlypis celata" ; Times: 8
+	Query: "Anas clypeata" ; Times: 13
+	Query: "36220" ; Times: 1
+	Query: "Todus angustirostris" ; Times: 4
+	Query: "vntype:specimen specificepithet:lotor genus:procyon institutioncode:UF" ; Times: 3
+	Query: "257262" ; Times: 1
+	Query: "144863" ; Times: 1
+	Query: "100852" ; Times: 2
+	Query: "Sus scrofa" ; Times: 6
+	Query: "153538" ; Times: 1
+	Query: "164255" ; Times: 1
+	Query: "Leiostomus xanthurus" ; Times: 6
+	Query: "122876" ; Times: 1
+	Query: "Branta canadensis" ; Times: 5
+	Query: "MBR 4510" ; Times: 2
+	Query: "84344" ; Times: 1
+	Query: "Lithobates sphenocephalus" ; Times: 1
+	Query: "140425" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 10
+	Query: "Farancia" ; Times: 1
+	Query: "41044" ; Times: 2
+	Query: "34276" ; Times: 1
+	Query: "vntype:specimen family:Camelidae" ; Times: 2
+	Query: "Bos taurus" ; Times: 3
+	Query: "Gallus gallus" ; Times: 2
+	Query: "36314" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Pantherophis" ; Times: 1
+	Query: "genus:terrapene class:Reptilia county:&#34;Colleton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 11
+	Query: "Buteo platypterus" ; Times: 7
+	Query: "101040" ; Times: 1
+	Query: "Esox niger" ; Times: 3
+	Query: "Felis catus" ; Times: 4
+	Query: "Eudocimus albus" ; Times: 4
+	Query: "catalognumber:217983 institutioncode:UF" ; Times: 1
+	Query: "uf 43206" ; Times: 2
+	Query: "uf 43204" ; Times: 1
+	Query: "uf 43205" ; Times: 2
+	Query: "Cygnus cygnus" ; Times: 9
+	Query: "catalognumber:85549" ; Times: 1
+	Query: "181465" ; Times: 1
+	Query: "173959" ; Times: 1
+	Query: "Parnell" ; Times: 1
+	Query: "catalognumber:159857 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:45782" ; Times: 1
+	Query: "173957" ; Times: 1
+	Query: "173956" ; Times: 1
+	Query: "173951" ; Times: 1
+	Query: "chelydra serpentina mississippi" ; Times: 1
+	Query: "173953" ; Times: 1
+	Query: "parnell" ; Times: 1
+	Query: "Tyto glaucops" ; Times: 2
+	Query: "61477" ; Times: 1
+	Query: "genus:Chelydra class:Reptilia county:&#34;Colleton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 4
+	Query: "smilodon fatalis" ; Times: 1
+	Query: "catalognumber:26300" ; Times: 1
+	Query: "40579" ; Times: 2
+	Query: "40578" ; Times: 2
+	Query: "Asio flammeus" ; Times: 6
+	Query: "burhinus nanus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Colon&#34; country:&#34;Panama&#34; AND (NOT ANOLIS NOT HOLCOSUS NOT BASILISCUS NOT AMEIVA NOT IGUANA)" ; Times: 1
+	Query: "260158" ; Times: 2
+	Query: "Karnovsky" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "26884" ; Times: 2
+	Query: "268489" ; Times: 1
+	Query: "specificepithet:cardinalis genus:cardinalis institutioncode:UF" ; Times: 2
+	Query: "Carcharodon carcharias" ; Times: 2
+	Query: "Micropogonias undulatus" ; Times: 6
+	Query: "280599" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 8
+	Query: "262275" ; Times: 1
+	Query: "alligator mississippiensis brevard florida" ; Times: 1
+	Query: "class:Reptilia county:&#34;Colleton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "Grus canadensis" ; Times: 4
+	Query: "Elaenia martinica" ; Times: 1
+	Query: "173961" ; Times: 1
+	Query: "Manis temminckii" ; Times: 4
+	Query: "90476" ; Times: 1
+	Query: "173965" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "173967" ; Times: 1
+	Query: "90115" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "genus:Clemmys class:Reptilia county:&#34;Dorchester&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "V. vulpes" ; Times: 5
+	Query: "Anas platyrhynchos" ; Times: 12
+	Query: "Aramus guarauna" ; Times: 4
+	Query: "Podiceps auritus" ; Times: 7
+	Query: "crocodylus moreletii" ; Times: 1
+	Query: "56798" ; Times: 1
+	Query: "UF 3173" ; Times: 1
+	Query: "26886" ; Times: 2
+	Query: "Merluccius merluccius" ; Times: 6
+	Query: "Myrmecophaga tridactyla" ; Times: 6
+	Query: "26816" ; Times: 3
+	Query: "201024" ; Times: 1
+	Query: "Lepus alleni" ; Times: 1
+	Query: "Palaeogale" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "catalognumber:232850" ; Times: 1
+	Query: "specificepithet:lar genus:aristelliger institutioncode:UF" ; Times: 1
+	Query: "catalognumber:163274" ; Times: 1
+	Query: "Kinosternon steindachneri" ; Times: 1
+	Query: "222755" ; Times: 1
+	Query: "121600" ; Times: 2
+	Query: "173970" ; Times: 1
+	Query: "173507" ; Times: 1
+	Query: "173504" ; Times: 1
+	Query: "genus:Malaclemys class:Reptilia county:&#34;Colleton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:182740" ; Times: 1
+	Query: "UF diomedeidae" ; Times: 6
+	Query: "smilodon" ; Times: 1
+	Query: "Eulipotyphla year &gt;= 2005 year &lt;= 2020" ; Times: 1
+	Query: "Sitta pusilla" ; Times: 1
+	Query: "(18642)" ; Times: 2
+	Query: "catalognumber:6129" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "catalognumber:69160 institutioncode:UF" ; Times: 2
+	Query: "UF procellariidae" ; Times: 2
+	Query: "†Carcharocles megalodon" ; Times: 1
+	Query: "199167" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 73 (out of 1171 download events in this period)
+Total number of records downloaded: 454615
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 58
+	Country: Australia ; Times: 2
+	Country: Panama ; Times: 1
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 7
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 5
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-22 ; Times: 3
+	Date: 2020-04-05 ; Times: 2
+	Date: 2020-04-20 ; Times: 3
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-26 ; Times: 2
+	Date: 2020-04-01 ; Times: 4
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-28 ; Times: 12
+	Date: 2020-04-29 ; Times: 4
+	Date: 2020-04-08 ; Times: 2
+	Date: 2020-04-09 ; Times: 1
+	Date: 2020-04-27 ; Times: 2
+	Date: 2020-04-24 ; Times: 3
+	Date: 2020-04-03 ; Times: 4
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-18 ; Times: 3
+	Date: 2020-04-12 ; Times: 2
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 3
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Tyto glaucops" ; Times: 2
+	Query: "vntype:specimen family:Phocidae" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "eretmochelys" ; Times: 1
+	Query: "specificepithet:plethodon genus:Monophyllus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "vntype:specimen genus:Bubo" ; Times: 1
+	Query: "clelia clelia" ; Times: 1
+	Query: "vntype:specimen genus:Scalopus" ; Times: 1
+	Query: "Bison antiquus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "smilodon fatalis" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "Puma concolor" ; Times: 7
+	Query: "specificepithet:platyrhinos genus:Heterodon" ; Times: 1
+	Query: "specificepithet:cardinalis genus:cardinalis institutioncode:UF" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis" ; Times: 2
+	Query: "squatina squatina" ; Times: 1
+	Query: "specificepithet:redmani genus:Monophyllus" ; Times: 1
+	Query: "vntype:specimen genus:Lagidium" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis" ; Times: 1
+	Query: "Scolopax" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "vntype:specimen family:Caviidae" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber" ; Times: 1
+	Query: "Rallus longirostris" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "vntype:specimen family:Camelidae" ; Times: 1
+	Query: "Tremarctos" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Pantherophis" ; Times: 1
+	Query: "vntype:specimen family:Echimyidae" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Lepomis gulosus" ; Times: 1
+	Query: "Eleutherodactylus" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys" ; Times: 1
+	Query: "vntype:specimen (Antarctica) isfossil:1" ; Times: 1
+	Query: "Kinosternon steindachneri" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "genus:Acris" ; Times: 2
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "Coereba flaveola" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "vntype:specimen genus:Lontra" ; Times: 1
+	Query: "sciurus" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+
+
+End of report.
