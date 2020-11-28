@@ -1,0 +1,591 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 566
+Number of records retrieved in searches: 7004
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Ireland ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 26
+	Country: Peru ; Times: 322
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 6
+	Country: Australia ; Times: 2
+	Country: Cuba ; Times: 8
+	Country: Germany ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 123
+	Country: Switzerland ; Times: 1
+	Country: Guadeloupe ; Times: 35
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 13
+	Date: 2020-09-08 ; Times: 3
+	Date: 2020-09-03 ; Times: 41
+	Date: 2020-09-02 ; Times: 5
+	Date: 2020-09-01 ; Times: 5
+	Date: 2020-09-07 ; Times: 5
+	Date: 2020-09-06 ; Times: 5
+	Date: 2020-09-05 ; Times: 3
+	Date: 2020-09-04 ; Times: 11
+	Date: 2020-09-21 ; Times: 4
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-23 ; Times: 14
+	Date: 2020-09-22 ; Times: 14
+	Date: 2020-09-25 ; Times: 6
+	Date: 2020-09-27 ; Times: 3
+	Date: 2020-09-26 ; Times: 2
+	Date: 2020-09-29 ; Times: 10
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-30 ; Times: 12
+	Date: 2020-09-14 ; Times: 9
+	Date: 2020-09-15 ; Times: 6
+	Date: 2020-09-16 ; Times: 17
+	Date: 2020-09-17 ; Times: 10
+	Date: 2020-09-10 ; Times: 297
+	Date: 2020-09-11 ; Times: 9
+	Date: 2020-09-12 ; Times: 9
+	Date: 2020-09-13 ; Times: 28
+	Date: 2020-09-18 ; Times: 19
+	Date: 2020-09-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "FLMNH 30665" ; Times: 1
+	Query: "FLMNH 30664" ; Times: 1
+	Query: "FLMNH 30667" ; Times: 1
+	Query: "FLMNH 30666" ; Times: 1
+	Query: "FLMNH 30661" ; Times: 1
+	Query: "FLMNH 30660" ; Times: 1
+	Query: "FLMNH 30663" ; Times: 1
+	Query: "FLMNH 30662" ; Times: 1
+	Query: "FLMNH 30786" ; Times: 2
+	Query: "FLMNH 30787" ; Times: 1
+	Query: "FLMNH 30784" ; Times: 1
+	Query: "FLMNH 30785" ; Times: 1
+	Query: "FLMNH 30669" ; Times: 1
+	Query: "FLMNH 30668" ; Times: 1
+	Query: "FLMNH 30780" ; Times: 1
+	Query: "FLMNH 30781" ; Times: 1
+	Query: "catalognumber:51650 institutioncode:UF" ; Times: 1
+	Query: "Megalops atlanticus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "FLMNH 30788" ; Times: 1
+	Query: "mappable:1 scientificname:Carcharodon carcharias" ; Times: 1
+	Query: "FLMNH 30711" ; Times: 1
+	Query: "FLMNH 30710" ; Times: 1
+	Query: "FLMNH 30713" ; Times: 1
+	Query: "FLMNH 30712" ; Times: 1
+	Query: "FLMNH 30715" ; Times: 1
+	Query: "FLMNH 30714" ; Times: 1
+	Query: "FLMNH 30717" ; Times: 1
+	Query: "FLMNH 30716" ; Times: 1
+	Query: "FLMNH 30719" ; Times: 1
+	Query: "FLMNH 30718" ; Times: 1
+	Query: "FLMNH 30562" ; Times: 1
+	Query: "FLMNH 30563" ; Times: 1
+	Query: "FLMNH 30560" ; Times: 1
+	Query: "FLMNH 30561" ; Times: 2
+	Query: "FLMNH 30566" ; Times: 2
+	Query: "FLMNH 30567" ; Times: 2
+	Query: "FLMNH 30565" ; Times: 2
+	Query: "Panthera onca" ; Times: 5
+	Query: "FLMNH 30568" ; Times: 2
+	Query: "FLMNH 30569" ; Times: 1
+	Query: "catalognumber: 56328" ; Times: 1
+	Query: "FLMNH 30783" ; Times: 1
+	Query: "Symbolophorus veranyi" ; Times: 1
+	Query: "99661" ; Times: 1
+	Query: "catalognumber:50390 institutioncode:UF" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "specificepithet:niger genus:sciurus institutioncode:UF" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus" ; Times: 1
+	Query: "Carcharhinus brachyurus" ; Times: 1
+	Query: "catalognumber:49981 institutioncode:UF" ; Times: 1
+	Query: "family:Sulidae year &gt;= 1987 year &lt;= 1991" ; Times: 1
+	Query: "FLMNH 30748" ; Times: 3
+	Query: "FLMNH 30449" ; Times: 1
+	Query: "FLMNH 30448" ; Times: 1
+	Query: "37130" ; Times: 1
+	Query: "specificepithet:floridanus genus:Eumops" ; Times: 1
+	Query: "FLMNH 30445" ; Times: 1
+	Query: "FLMNH 30446" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon stateprovince:&#34;Florida&#34; year &gt;= 1970" ; Times: 2
+	Query: "Isurus oxyrinchus" ; Times: 1
+	Query: "FLMNH 30759" ; Times: 1
+	Query: "FLMNH 30758" ; Times: 1
+	Query: "FLMNH 30742" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "catalognumber:44592 institutioncode:UF" ; Times: 1
+	Query: "75208" ; Times: 1
+	Query: "16794" ; Times: 1
+	Query: "mappable:1 scientificname:Apalone ferox" ; Times: 1
+	Query: "FLMNH 30743" ; Times: 1
+	Query: "Carcharias taurus" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "95835" ; Times: 1
+	Query: "recordedby:museum of zoology" ; Times: 2
+	Query: "amorphochilus schnablii" ; Times: 20
+	Query: "catalognumber: 333322" ; Times: 1
+	Query: "catalognumber:48714 institutioncode:UF" ; Times: 1
+	Query: "FLMNH 30621" ; Times: 1
+	Query: "FLMNH 30620" ; Times: 1
+	Query: "FLMNH 30623" ; Times: 1
+	Query: "FLMNH 30622" ; Times: 1
+	Query: "FLMNH 30625" ; Times: 1
+	Query: "FLMNH 30624" ; Times: 1
+	Query: "FLMNH 30627" ; Times: 1
+	Query: "FLMNH 30626" ; Times: 1
+	Query: "FLMNH 30629" ; Times: 1
+	Query: "FLMNH 30628" ; Times: 1
+	Query: "FLMNH 30740" ; Times: 1
+	Query: "FLMNH 30741" ; Times: 1
+	Query: "FLMNH 30746" ; Times: 1
+	Query: "FLMNH 30747" ; Times: 1
+	Query: "FLMNH 30744" ; Times: 1
+	Query: "FLMNH 30745" ; Times: 1
+	Query: "FLMNH 30559" ; Times: 3
+	Query: "FLMNH 30558" ; Times: 1
+	Query: "FLMNH 30553" ; Times: 2
+	Query: "FLMNH 30552" ; Times: 2
+	Query: "FLMNH 30551" ; Times: 4
+	Query: "FLMNH 30550" ; Times: 2
+	Query: "FLMNH 30557" ; Times: 1
+	Query: "FLMNH 30556" ; Times: 4
+	Query: "FLMNH 30555" ; Times: 2
+	Query: "FLMNH 30554" ; Times: 1
+	Query: "catalognumber:51509 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:50175 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:25408" ; Times: 2
+	Query: "catalognumber:44165 institutioncode:UF" ; Times: 1
+	Query: "Mycteroperca tigris" ; Times: 1
+	Query: "family:Sulidae year &gt;= 1989 year &lt;= 1991" ; Times: 1
+	Query: "FLMNH 30520" ; Times: 2
+	Query: "FLMNH 30521" ; Times: 3
+	Query: "specificepithet:rufus genus:canis" ; Times: 1
+	Query: "genus:siren county:&#34;citrus&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "24760" ; Times: 2
+	Query: "catalognumber:46600 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:52859 institutioncode:UF" ; Times: 2
+	Query: "Galeocerdo cuvier" ; Times: 1
+	Query: "catalognumber:51652 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:46227 institutioncode:UF" ; Times: 1
+	Query: "Terrapene carolina hist" ; Times: 1
+	Query: "catalognumber:46214 institutioncode:UF" ; Times: 2
+	Query: "Hygophum benoiti" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "FLMNH 30773" ; Times: 1
+	Query: "FLMNH 30772" ; Times: 1
+	Query: "FLMNH 30771" ; Times: 1
+	Query: "FLMNH 30770" ; Times: 1
+	Query: "FLMNH 30777" ; Times: 1
+	Query: "FLMNH 30776" ; Times: 1
+	Query: "FLMNH 30775" ; Times: 1
+	Query: "FLMNH 30774" ; Times: 2
+	Query: "FLMNH 30779" ; Times: 1
+	Query: "FLMNH 30778" ; Times: 1
+	Query: "63240" ; Times: 1
+	Query: "catalognumber:50054 institutioncode:UF" ; Times: 1
+	Query: "mccarthy 7251" ; Times: 2
+	Query: "catalognumber:49978 institutioncode:UF" ; Times: 1
+	Query: "FLMNH 30522" ; Times: 2
+	Query: "93142" ; Times: 1
+	Query: "FLMNH 30706" ; Times: 1
+	Query: "FLMNH 30707" ; Times: 1
+	Query: "Xiphidiopicus percussus" ; Times: 1
+	Query: "FLMNH 30705" ; Times: 1
+	Query: "FLMNH 30702" ; Times: 1
+	Query: "FLMNH 30703" ; Times: 1
+	Query: "FLMNH 30700" ; Times: 1
+	Query: "FLMNH 30701" ; Times: 1
+	Query: "112340" ; Times: 1
+	Query: "FLMNH 30708" ; Times: 1
+	Query: "FLMNH 30709" ; Times: 2
+	Query: "specificepithet:primigenius genus:Mammuthus" ; Times: 1
+	Query: "Phorusrhacidae" ; Times: 2
+	Query: "FLMNH 30639" ; Times: 1
+	Query: "FLMNH 30687" ; Times: 1
+	Query: "FLMNH 30686" ; Times: 2
+	Query: "xiphidiopicus percussus" ; Times: 3
+	Query: "FLMNH 30684" ; Times: 1
+	Query: "FLMNH 30683" ; Times: 1
+	Query: "FLMNH 30682" ; Times: 1
+	Query: "FLMNH 30681" ; Times: 1
+	Query: "FLMNH 30680" ; Times: 1
+	Query: "FLMNH 30689" ; Times: 1
+	Query: "316586" ; Times: 1
+	Query: "catalognumber:50473 institutioncode:UF" ; Times: 1
+	Query: "FLMNH 30791" ; Times: 2
+	Query: "FLMNH 30678" ; Times: 1
+	Query: "FLMNH 30679" ; Times: 1
+	Query: "FLMNH 30672" ; Times: 1
+	Query: "FLMNH 30673" ; Times: 1
+	Query: "FLMNH 30670" ; Times: 1
+	Query: "FLMNH 30671" ; Times: 1
+	Query: "FLMNH 30676" ; Times: 1
+	Query: "FLMNH 30677" ; Times: 1
+	Query: "FLMNH 30674" ; Times: 1
+	Query: "FLMNH 30675" ; Times: 1
+	Query: "catalognumber:42487 institutioncode:UF" ; Times: 1
+	Query: "169738" ; Times: 1
+	Query: "lemur" ; Times: 2
+	Query: "scientificname:Tursiops truncatus" ; Times: 2
+	Query: "FLMNH 30458" ; Times: 1
+	Query: "FLMNH 30459" ; Times: 1
+	Query: "FLMNH 30456" ; Times: 1
+	Query: "FLMNH 30457" ; Times: 1
+	Query: "FLMNH 30454" ; Times: 1
+	Query: "FLMNH 30455" ; Times: 1
+	Query: "FLMNH 30452" ; Times: 1
+	Query: "FLMNH 30453" ; Times: 1
+	Query: "FLMNH 30450" ; Times: 1
+	Query: "FLMNH 30451" ; Times: 1
+	Query: "126183" ; Times: 1
+	Query: "76541" ; Times: 1
+	Query: "327491" ; Times: 1
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 1
+	Query: "Miracinonyx inexpectatus" ; Times: 1
+	Query: "catalognumber:42486 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "FLMNH 30614" ; Times: 3
+	Query: "bos taurus" ; Times: 1
+	Query: "50030" ; Times: 1
+	Query: "FLMNH 30643" ; Times: 1
+	Query: "FLMNH 30642" ; Times: 1
+	Query: "FLMNH 30641" ; Times: 1
+	Query: "FLMNH 30640" ; Times: 1
+	Query: "FLMNH 30647" ; Times: 1
+	Query: "FLMNH 30646" ; Times: 1
+	Query: "FLMNH 30645" ; Times: 1
+	Query: "FLMNH 30644" ; Times: 1
+	Query: "FLMNH 30649" ; Times: 1
+	Query: "FLMNH 30648" ; Times: 2
+	Query: "specificepithet:inexpectatus genus:Miracinonyx" ; Times: 4
+	Query: "specificepithet:americana genus:Tarentola institutioncode:UF" ; Times: 2
+	Query: "Caranx hippos" ; Times: 1
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "FLMNH 30636" ; Times: 1
+	Query: "FLMNH 30637" ; Times: 1
+	Query: "FLMNH 30634" ; Times: 1
+	Query: "FLMNH 30635" ; Times: 1
+	Query: "FLMNH 30632" ; Times: 1
+	Query: "FLMNH 30633" ; Times: 1
+	Query: "FLMNH 30739" ; Times: 1
+	Query: "FLMNH 30738" ; Times: 1
+	Query: "FLMNH 30737" ; Times: 1
+	Query: "FLMNH 30736" ; Times: 2
+	Query: "FLMNH 30735" ; Times: 1
+	Query: "FLMNH 30734" ; Times: 1
+	Query: "FLMNH 30733" ; Times: 1
+	Query: "FLMNH 30732" ; Times: 1
+	Query: "FLMNH 30638" ; Times: 1
+	Query: "FLMNH 30730" ; Times: 1
+	Query: "FLMNH 30548" ; Times: 2
+	Query: "FLMNH 30549" ; Times: 2
+	Query: "FLMNH 30464" ; Times: 1
+	Query: "FLMNH 30463" ; Times: 1
+	Query: "FLMNH 30462" ; Times: 1
+	Query: "FLMNH 30461" ; Times: 1
+	Query: "FLMNH 30460" ; Times: 1
+	Query: "FLMNH 30547" ; Times: 2
+	Query: "Bagre marinus" ; Times: 2
+	Query: "catalognumber:793 institutioncode:UF" ; Times: 2
+	Query: "Rhinobatos rhinobatos" ; Times: 1
+	Query: "catalognumber:44227 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:49607 institutioncode:UF" ; Times: 1
+	Query: "Carcharhinus plumbeus" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Chiriqui&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "catalognumber:50808 institutioncode:UF" ; Times: 1
+	Query: "collectioncode:UF" ; Times: 1
+	Query: "FLMNH 30471" ; Times: 2
+	Query: "Buteogallus" ; Times: 1
+	Query: "catalognumber: 186941" ; Times: 1
+	Query: "county:&#34;Hamilton&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Megalops atlanticus stateprovince:&#34;Florida&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "139095" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "FLMNH 30760" ; Times: 1
+	Query: "FLMNH 30761" ; Times: 1
+	Query: "FLMNH 30762" ; Times: 1
+	Query: "FLMNH 30763" ; Times: 1
+	Query: "FLMNH 30764" ; Times: 1
+	Query: "FLMNH 30765" ; Times: 1
+	Query: "FLMNH 30766" ; Times: 1
+	Query: "FLMNH 30767" ; Times: 1
+	Query: "FLMNH 30768" ; Times: 1
+	Query: "FLMNH 30769" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Florida&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "Sphoeroides spengleri" ; Times: 1
+	Query: "87306" ; Times: 3
+	Query: "Chilabothrus" ; Times: 1
+	Query: "149295" ; Times: 2
+	Query: "FLMNH 30694" ; Times: 1
+	Query: "FLMNH 30695" ; Times: 1
+	Query: "FLMNH 30696" ; Times: 1
+	Query: "FLMNH 30697" ; Times: 1
+	Query: "FLMNH 30690" ; Times: 1
+	Query: "FLMNH 30691" ; Times: 1
+	Query: "FLMNH 30692" ; Times: 1
+	Query: "FLMNH 30693" ; Times: 1
+	Query: "FLMNH 30698" ; Times: 2
+	Query: "FLMNH 30699" ; Times: 2
+	Query: "FLMNH 30599" ; Times: 1
+	Query: "FLMNH 30598" ; Times: 1
+	Query: "FLMNH 30597" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 1
+	Query: "FLMNH 30595" ; Times: 1
+	Query: "FLMNH 30594" ; Times: 1
+	Query: "FLMNH 30593" ; Times: 1
+	Query: "FLMNH 30592" ; Times: 1
+	Query: "FLMNH 30591" ; Times: 1
+	Query: "FLMNH 30590" ; Times: 1
+	Query: "65175" ; Times: 1
+	Query: "FLMNH 30609" ; Times: 1
+	Query: "FLMNH 30608" ; Times: 1
+	Query: "FLMNH 30607" ; Times: 1
+	Query: "FLMNH 30606" ; Times: 1
+	Query: "FLMNH 30605" ; Times: 1
+	Query: "FLMNH 30604" ; Times: 1
+	Query: "FLMNH 30603" ; Times: 1
+	Query: "FLMNH 30602" ; Times: 1
+	Query: "FLMNH 30601" ; Times: 1
+	Query: "FLMNH 30600" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "32708" ; Times: 1
+	Query: "tyrannus cubensis" ; Times: 4
+	Query: "catalognumber:42488 institutioncode:UF" ; Times: 1
+	Query: "142864" ; Times: 1
+	Query: "leopardus" ; Times: 1
+	Query: "193557" ; Times: 1
+	Query: "catalognumber:50368 institutioncode:UF" ; Times: 1
+	Query: "Carcharhinus brevipinna" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:UF" ; Times: 2
+	Query: "FLMNH 30596" ; Times: 1
+	Query: "sus scrofa continent:north america" ; Times: 2
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Amorphochilus" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "recordedby:Clausen" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 1
+	Query: "FLMNH 30650" ; Times: 1
+	Query: "FLMNH 30651" ; Times: 1
+	Query: "FLMNH 30652" ; Times: 1
+	Query: "FLMNH 30653" ; Times: 1
+	Query: "FLMNH 30654" ; Times: 1
+	Query: "FLMNH 30655" ; Times: 1
+	Query: "FLMNH 30656" ; Times: 1
+	Query: "FLMNH 30657" ; Times: 1
+	Query: "FLMNH 30658" ; Times: 1
+	Query: "FLMNH 30659" ; Times: 1
+	Query: "FLMNH 30792" ; Times: 3
+	Query: "catalognumber:44194 institutioncode:UF" ; Times: 1
+	Query: "174933" ; Times: 1
+	Query: "family:Kinosternidae order:Testudines country:&#34;Panama&#34;" ; Times: 2
+	Query: "catalognumber:17167" ; Times: 2
+	Query: "174938" ; Times: 2
+	Query: "Panthera onca mappable:1" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis" ; Times: 3
+	Query: "FLMNH 30782" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "catalognumber:193664" ; Times: 1
+	Query: "FLMNH 30728" ; Times: 1
+	Query: "FLMNH 30729" ; Times: 1
+	Query: "FLMNH 30724" ; Times: 1
+	Query: "FLMNH 30725" ; Times: 1
+	Query: "FLMNH 30726" ; Times: 1
+	Query: "FLMNH 30727" ; Times: 1
+	Query: "FLMNH 30720" ; Times: 2
+	Query: "FLMNH 30721" ; Times: 1
+	Query: "FLMNH 30722" ; Times: 1
+	Query: "FLMNH 30723" ; Times: 1
+	Query: "FLMNH 30579" ; Times: 2
+	Query: "FLMNH 30578" ; Times: 1
+	Query: "FLMNH 30472" ; Times: 2
+	Query: "FLMNH 30473" ; Times: 2
+	Query: "FLMNH 30575" ; Times: 3
+	Query: "FLMNH 30574" ; Times: 1
+	Query: "FLMNH 30577" ; Times: 1
+	Query: "FLMNH 30576" ; Times: 1
+	Query: "FLMNH 30571" ; Times: 1
+	Query: "FLMNH 30570" ; Times: 1
+	Query: "FLMNH 30573" ; Times: 1
+	Query: "FLMNH 30572" ; Times: 1
+	Query: "catalognumber:48971 institutioncode:UF" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:42165 institutioncode:UF" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; (tigrinum )" ; Times: 1
+	Query: "genus:Picoides" ; Times: 1
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "genus:Rhinoclemmys order:Testudines country:&#34;Panama&#34;" ; Times: 3
+	Query: "10815" ; Times: 3
+	Query: "catalognumber:52688 institutioncode:UF" ; Times: 1
+	Query: "Pomatomus saltatrix" ; Times: 1
+	Query: "FLMNH 30630" ; Times: 1
+	Query: "buteogallus" ; Times: 1
+	Query: "FLMNH 30631" ; Times: 1
+	Query: "genus:Miracinonyx" ; Times: 5
+	Query: "procellariiformes year &gt;= 2015 year &lt;= 2020" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 1
+	Query: "catalognumber:42485 institutioncode:UF" ; Times: 2
+	Query: "Ceratoscopelus maderensis" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "FLMNH 30731" ; Times: 1
+	Query: "catalognumber:45628 institutioncode:UF" ; Times: 1
+	Query: "181804" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "FLMNH 30466" ; Times: 1
+	Query: "UF 42939" ; Times: 1
+	Query: "197262" ; Times: 1
+	Query: "catalognumber:36628" ; Times: 1
+	Query: "FLMNH 30704" ; Times: 1
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "FLMNH 30755" ; Times: 1
+	Query: "FLMNH 30754" ; Times: 1
+	Query: "FLMNH 30757" ; Times: 1
+	Query: "FLMNH 30756" ; Times: 1
+	Query: "FLMNH 30751" ; Times: 1
+	Query: "FLMNH 30750" ; Times: 1
+	Query: "FLMNH 30753" ; Times: 1
+	Query: "FLMNH 30752" ; Times: 1
+	Query: "23496" ; Times: 1
+	Query: "43180 institutioncode:UF" ; Times: 2
+	Query: "Pantherophis obsoletus" ; Times: 2
+	Query: "zombie" ; Times: 2
+	Query: "134990" ; Times: 1
+	Query: "FLMNH 30468" ; Times: 2
+	Query: "FLMNH 307334" ; Times: 1
+	Query: "specificepithet:primigenius genus:mammuthus" ; Times: 2
+	Query: "Merluccius merluccius" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis stateprovince:&#34;Florida&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "catalognumber:163664" ; Times: 1
+	Query: "catalognumber:50062 institutioncode:UF" ; Times: 1
+	Query: "16649" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "FLMNH 30588" ; Times: 1
+	Query: "FLMNH 30589" ; Times: 1
+	Query: "23790" ; Times: 1
+	Query: "genus:Anolis country:&#34;USA&#34;" ; Times: 1
+	Query: "FLMNH 30586" ; Times: 1
+	Query: "FLMNH 30587" ; Times: 1
+	Query: "FLMNH 30580" ; Times: 1
+	Query: "FLMNH 30581" ; Times: 1
+	Query: "FLMNH 30582" ; Times: 1
+	Query: "FLMNH 30583" ; Times: 1
+	Query: "FLMNH 30618" ; Times: 1
+	Query: "FLMNH 30619" ; Times: 1
+	Query: "annette" ; Times: 1
+	Query: "FLMNH 30615" ; Times: 2
+	Query: "FLMNH 30616" ; Times: 1
+	Query: "FLMNH 30617" ; Times: 1
+	Query: "FLMNH 30610" ; Times: 1
+	Query: "FLMNH 30611" ; Times: 1
+	Query: "FLMNH 30612" ; Times: 1
+	Query: "FLMNH 30613" ; Times: 1
+	Query: "catalognumber:50053 institutioncode:UF" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "FLMNH 30685" ; Times: 1
+	Query: "FLMNH 30749" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "26760" ; Times: 1
+	Query: "FLMNH 30688" ; Times: 1
+	Query: "order:Testudines country:&#34;Panama&#34;" ; Times: 1
+	Query: "order:Testudines county:&#34;Sumter&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "15075" ; Times: 1
+	Query: "38572" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Florida&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 976 download events in this period)
+Total number of records downloaded: 8579
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: Brazil ; Times: 3
+	Country: Netherlands ; Times: 6
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 2
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-16 ; Times: 2
+	Date: 2020-09-17 ; Times: 3
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-13 ; Times: 6
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 4
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-18 ; Times: 5
+	Date: 2020-09-30 ; Times: 2
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-09 ; Times: 8
+	Date: 2020-09-22 ; Times: 4
+	Date: 2020-09-04 ; Times: 2
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "specificepithet:lupus genus:canis continent:North America" ; Times: 1
+	Query: "genus:Picoides specificepithet:.*" ; Times: 3
+	Query: "acris" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "specificepithet:inexpectatus genus:Miracinonyx" ; Times: 2
+	Query: "sus scrofa continent:north america" ; Times: 1
+	Query: "Gambusia" ; Times: 1
+	Query: "specificepithet:concolor genus:puma continent:North America" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 2
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "Myocastor coypus continent:north america" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "Tympanuchus" ; Times: 1
+	Query: "Sialia" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "Miracinonyx inexpectatus" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 1
+	Query: "specificepithet:primigenius genus:mammuthus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "nerodia fasciata" ; Times: 1
+	Query: "Gavia immer OR adamsii" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "Aplodontia" ; Times: 1
+	Query: "sitta pygmaea OR sitta pusilla" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "hyla gratiosa" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+
+
+End of report.
