@@ -1,0 +1,377 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 397
+Number of records retrieved in searches: 3010
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 7
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 132
+	Country: Honduras ; Times: 2
+	Country: Ireland ; Times: 9
+	Country: Portugal ; Times: 22
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: India ; Times: 3
+	Country: France ; Times: 3
+	Country: United States ; Times: 102
+	Country: Sweden ; Times: 14
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 17
+	Country: Peru ; Times: 48
+	Country: Belgium ; Times: 5
+	Country: Japan ; Times: 6
+	Country: Bolivia ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 3
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-17 ; Times: 5
+	Date: 2020-08-16 ; Times: 3
+	Date: 2020-08-15 ; Times: 3
+	Date: 2020-08-14 ; Times: 140
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-12 ; Times: 10
+	Date: 2020-08-11 ; Times: 7
+	Date: 2020-08-10 ; Times: 27
+	Date: 2020-08-26 ; Times: 13
+	Date: 2020-08-19 ; Times: 12
+	Date: 2020-08-31 ; Times: 5
+	Date: 2020-08-27 ; Times: 7
+	Date: 2020-08-01 ; Times: 13
+	Date: 2020-08-03 ; Times: 1
+	Date: 2020-08-04 ; Times: 10
+	Date: 2020-08-05 ; Times: 9
+	Date: 2020-08-06 ; Times: 17
+	Date: 2020-08-07 ; Times: 10
+	Date: 2020-08-08 ; Times: 10
+	Date: 2020-08-09 ; Times: 3
+	Date: 2020-08-24 ; Times: 8
+	Date: 2020-08-25 ; Times: 14
+	Date: 2020-08-22 ; Times: 10
+	Date: 2020-08-23 ; Times: 2
+	Date: 2020-08-20 ; Times: 1
+	Date: 2020-08-21 ; Times: 51
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas acuta" ; Times: 1
+	Query: "134043" ; Times: 1
+	Query: "catalognumber:59633 institutioncode:UF" ; Times: 1
+	Query: "107585" ; Times: 1
+	Query: "133795" ; Times: 6
+	Query: "133682" ; Times: 1
+	Query: "134125" ; Times: 1
+	Query: "115232" ; Times: 1
+	Query: "catalognumber:36968 institutioncode:UF" ; Times: 1
+	Query: "12830" ; Times: 1
+	Query: "17163" ; Times: 2
+	Query: "catalognumber:97893" ; Times: 1
+	Query: "family:hyaenidae isfossil:1" ; Times: 1
+	Query: "R 52046" ; Times: 1
+	Query: "70298" ; Times: 1
+	Query: "117272" ; Times: 1
+	Query: "167624" ; Times: 1
+	Query: "107589" ; Times: 2
+	Query: "Anas strepera" ; Times: 1
+	Query: "101565" ; Times: 1
+	Query: "Amorphochilus schnablii Peru" ; Times: 4
+	Query: "eumops glaucinus" ; Times: 3
+	Query: "gadus morhua" ; Times: 1
+	Query: "specificepithet:praesignis genus:Aristelliger institutioncode:UF" ; Times: 5
+	Query: "133705" ; Times: 1
+	Query: "Solenodon" ; Times: 2
+	Query: "solenodon" ; Times: 1
+	Query: "mappable:1 scientificname:Eudocimus albus" ; Times: 1
+	Query: "catalognumber:122706 institutioncode:UF" ; Times: 1
+	Query: "133907" ; Times: 1
+	Query: "mappable:1 scientificname:Cathartes aura" ; Times: 1
+	Query: "133523" ; Times: 2
+	Query: "133593" ; Times: 2
+	Query: "80729" ; Times: 5
+	Query: "specificepithet:impennis genus:pinguinus" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "urodela" ; Times: 1
+	Query: "Macrochelys" ; Times: 1
+	Query: "catalognumber:12270 institutioncode:UF" ; Times: 3
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "133825" ; Times: 4
+	Query: "mappable:1 scientificname:Larus dominicanus" ; Times: 1
+	Query: "133909" ; Times: 3
+	Query: "133498" ; Times: 2
+	Query: "mappable:1 scientificname:Dolichonyx oryzivorus" ; Times: 1
+	Query: "genus:Drymarchon stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "13097" ; Times: 1
+	Query: "133497" ; Times: 2
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "134326" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "133599" ; Times: 2
+	Query: "mappable:1 scientificname:Aythya valisineria" ; Times: 1
+	Query: "Drymarchon" ; Times: 2
+	Query: "133495" ; Times: 2
+	Query: "133657" ; Times: 7
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "133652" ; Times: 3
+	Query: "133653" ; Times: 2
+	Query: "162720" ; Times: 1
+	Query: "Anas crecca" ; Times: 1
+	Query: "179254" ; Times: 1
+	Query: "UF 172900" ; Times: 2
+	Query: "Turdus plumbeus" ; Times: 1
+	Query: "UF-70089" ; Times: 1
+	Query: "specificepithet:lar genus:Aristelliger institutioncode:UF" ; Times: 5
+	Query: "107626" ; Times: 1
+	Query: "eumops floridanus" ; Times: 10
+	Query: "107622" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "133810" ; Times: 1
+	Query: "133540" ; Times: 2
+	Query: "mappable:1 scientificname:Pantherophis guttatus" ; Times: 1
+	Query: "133487" ; Times: 2
+	Query: "133788" ; Times: 4
+	Query: "Crocodylus acutus 2017" ; Times: 3
+	Query: "71376" ; Times: 1
+	Query: "catalognumber:91481" ; Times: 1
+	Query: "Carcharhinus acronotus" ; Times: 1
+	Query: "Crocodylus acutus 2013" ; Times: 4
+	Query: "133789" ; Times: 1
+	Query: "44744" ; Times: 1
+	Query: "20858" ; Times: 1
+	Query: "specificepithet:granulosus genus:Centrophorus" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "66815" ; Times: 1
+	Query: "64753" ; Times: 1
+	Query: "133377" ; Times: 2
+	Query: "catalognumber:30627" ; Times: 1
+	Query: "catalognumber:68551" ; Times: 1
+	Query: "zombie" ; Times: 1
+	Query: "125180" ; Times: 1
+	Query: "143491" ; Times: 1
+	Query: "235408" ; Times: 1
+	Query: "farancia" ; Times: 2
+	Query: "71370" ; Times: 2
+	Query: "genus:regina stateprovince:&#34;florida&#34;" ; Times: 3
+	Query: "70387" ; Times: 1
+	Query: "Haliaeetus leucocephalus 100" ; Times: 1
+	Query: "289037" ; Times: 1
+	Query: "mappable:1 scientificname:Apalone ferox" ; Times: 1
+	Query: "mappable:1 scientificname:Anas cyanoptera" ; Times: 1
+	Query: "M-46785" ; Times: 1
+	Query: "133800" ; Times: 1
+	Query: "238110" ; Times: 1
+	Query: "92740" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "69660" ; Times: 1
+	Query: "134336" ; Times: 3
+	Query: "11295" ; Times: 1
+	Query: "mappable:1 scientificname:Jacana jacana" ; Times: 1
+	Query: "Rodent Bolivia" ; Times: 1
+	Query: "catalognumber:91704" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "mappable:1 scientificname:Chelonia mydas" ; Times: 1
+	Query: "catalognumber:58879" ; Times: 1
+	Query: "Aix sponsa 100" ; Times: 1
+	Query: "56164" ; Times: 2
+	Query: "133690" ; Times: 1
+	Query: "133691" ; Times: 1
+	Query: "133618" ; Times: 2
+	Query: "mappable:1 scientificname:Grus canadensis" ; Times: 1
+	Query: "V. vulpes" ; Times: 1
+	Query: "mappable:1 scientificname:Aix sponsa" ; Times: 1
+	Query: "134130" ; Times: 1
+	Query: "Gadus morhua" ; Times: 2
+	Query: "mappable:1 scientificname:Macrochelys temminckii" ; Times: 1
+	Query: "75459" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 2
+	Query: "162725" ; Times: 1
+	Query: "133878" ; Times: 2
+	Query: "107643" ; Times: 2
+	Query: "Amorphochilus schnablii" ; Times: 8
+	Query: "234743" ; Times: 2
+	Query: "133876" ; Times: 2
+	Query: "133877" ; Times: 2
+	Query: "133874" ; Times: 2
+	Query: "141528" ; Times: 1
+	Query: "134371" ; Times: 2
+	Query: "mappable:1 scientificname:Amazona leucocephala" ; Times: 1
+	Query: "Opsanus beta" ; Times: 1
+	Query: "28881" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+	Query: "14405" ; Times: 1
+	Query: "133680" ; Times: 1
+	Query: "mappable:1 scientificname:Oxyura jamaicensis" ; Times: 1
+	Query: "107797" ; Times: 2
+	Query: "127745" ; Times: 3
+	Query: "107791" ; Times: 1
+	Query: "catalognumber:27778" ; Times: 1
+	Query: "65686" ; Times: 1
+	Query: "Canis rufus" ; Times: 4
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:UF" ; Times: 1
+	Query: "catalognumber:13931 institutioncode:UF" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "19285" ; Times: 1
+	Query: "mappable:1 scientificname:Geranoaetus melanoleucus" ; Times: 1
+	Query: "45388" ; Times: 1
+	Query: "133925" ; Times: 1
+	Query: "133906" ; Times: 2
+	Query: "44804" ; Times: 1
+	Query: "133904" ; Times: 2
+	Query: "135125" ; Times: 6
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "63162" ; Times: 1
+	Query: "133861" ; Times: 2
+	Query: "166358" ; Times: 2
+	Query: "133751" ; Times: 1
+	Query: "133862" ; Times: 2
+	Query: "mappable:1 scientificname:Coragyps atratus" ; Times: 1
+	Query: "133867" ; Times: 1
+	Query: "catalognumber:202728" ; Times: 1
+	Query: "133598" ; Times: 2
+	Query: "107388" ; Times: 1
+	Query: "mappable:1 scientificname:Dendrocygna autumnalis" ; Times: 1
+	Query: "170489" ; Times: 1
+	Query: "105735" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "70345" ; Times: 2
+	Query: "Tyto glaucops" ; Times: 1
+	Query: "133595" ; Times: 1
+	Query: "196694" ; Times: 1
+	Query: "108252" ; Times: 1
+	Query: "133852" ; Times: 1
+	Query: "133824" ; Times: 1
+	Query: "107783" ; Times: 1
+	Query: "208078" ; Times: 1
+	Query: "133846" ; Times: 2
+	Query: "139918" ; Times: 1
+	Query: "107787" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Siphonorhis americana" ; Times: 2
+	Query: "133857" ; Times: 1
+	Query: "genus:Antilocapra country:USA" ; Times: 4
+	Query: "133805" ; Times: 1
+	Query: "specificepithet:americana genus:Tarentola institutioncode:UF" ; Times: 1
+	Query: "136360" ; Times: 1
+	Query: "133759" ; Times: 2
+	Query: "133601" ; Times: 2
+	Query: "133600" ; Times: 2
+	Query: "107662" ; Times: 1
+	Query: "107663" ; Times: 1
+	Query: "133911" ; Times: 1
+	Query: "genus:Drymarchon county:&#34;Alachua&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "specificepithet:passerina genus:Columbina year &gt;= 1998 year &lt;= 1998" ; Times: 1
+	Query: "107593" ; Times: 1
+	Query: "mappable:1 scientificname:Platalea ajaja" ; Times: 1
+	Query: "135140" ; Times: 1
+	Query: "10276 vntype:specimen" ; Times: 1
+	Query: "catalognumber:276060" ; Times: 1
+	Query: "133520" ; Times: 3
+	Query: "133522" ; Times: 1
+	Query: "134314" ; Times: 5
+	Query: "Drymarchon corais" ; Times: 2
+	Query: "mappable:1 scientificname:Meleagris gallopavo" ; Times: 1
+	Query: "M. auratus" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:nerodia stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "133782" ; Times: 2
+	Query: "catalognumber:12286 institutioncode:UF" ; Times: 1
+	Query: "133786" ; Times: 2
+	Query: "133787" ; Times: 2
+	Query: "32206" ; Times: 1
+	Query: "32207" ; Times: 1
+	Query: "catalognumber:98699" ; Times: 1
+	Query: "Anas platyrhynchos" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 6
+	Query: "147299" ; Times: 1
+	Query: "Merluccius merluccius" ; Times: 1
+	Query: "Bagre marinus" ; Times: 2
+	Query: "Aetobatus narinari" ; Times: 1
+	Query: "14370" ; Times: 2
+	Query: "Heterodon simus" ; Times: 4
+	Query: "133815" ; Times: 1
+	Query: "133924" ; Times: 5
+	Query: "mappable:1 scientificname:Phoenicopterus ruber" ; Times: 1
+	Query: "162203" ; Times: 1
+	Query: "162202" ; Times: 1
+	Query: "20858 aves" ; Times: 1
+	Query: "equinus" ; Times: 1
+	Query: "133590" ; Times: 2
+	Query: "45154" ; Times: 1
+	Query: "mappable:1 scientificname:Haliaeetus leucocephalus" ; Times: 1
+	Query: "125099" ; Times: 2
+	Query: "47505" ; Times: 1
+	Query: "101570" ; Times: 1
+	Query: "mappable:1 scientificname:Pseudemys concinna" ; Times: 1
+	Query: "71606" ; Times: 1
+	Query: "Phalacrocorax auritus" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 756 download events in this period)
+Total number of records downloaded: 122953
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: Canada ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-08 ; Times: 2
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-14 ; Times: 1
+	Date: 2020-08-05 ; Times: 4
+	Date: 2020-08-06 ; Times: 4
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-26 ; Times: 6
+	Date: 2020-08-27 ; Times: 3
+	Date: 2020-08-24 ; Times: 3
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-31 ; Times: 5
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Squamata" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "Pecari tajacu" ; Times: 2
+	Query: "Texas genus:Pseudemys" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "gadus morhua" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "order:Testudines" ; Times: 2
+	Query: "cemophora coccinea" ; Times: 1
+	Query: "order:Testudines institutioncode:UF" ; Times: 1
+	Query: "specificepithet:impennis genus:pinguinus" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 2
+	Query: "Sternotherus odoratus" ; Times: 2
+	Query: "specificepithet:austroriparius genus:myotis" ; Times: 2
+	Query: "equinus" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 2000" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "crotalus horridus" ; Times: 2
+	Query: "pristis pristis" ; Times: 1
+
+
+End of report.
