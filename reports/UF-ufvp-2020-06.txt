@@ -1,0 +1,178 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 156
+Number of records retrieved in searches: 1524
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 33
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 52
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 48
+	Country: Ireland ; Times: 4
+	Country: Switzerland ; Times: 3
+	Country: New Zealand ; Times: 1
+	Country: Guadeloupe ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-05 ; Times: 6
+	Date: 2020-06-08 ; Times: 3
+	Date: 2020-06-09 ; Times: 7
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-07 ; Times: 9
+	Date: 2020-06-04 ; Times: 41
+	Date: 2020-06-16 ; Times: 2
+	Date: 2020-06-02 ; Times: 10
+	Date: 2020-06-03 ; Times: 3
+	Date: 2020-06-01 ; Times: 8
+	Date: 2020-06-27 ; Times: 1
+	Date: 2020-06-10 ; Times: 30
+	Date: 2020-06-11 ; Times: 18
+	Date: 2020-06-12 ; Times: 2
+	Date: 2020-06-17 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 6
+	Query: "Anas acuta" ; Times: 5
+	Query: "catalognumber:113678" ; Times: 1
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "catalognumber:288868" ; Times: 1
+	Query: "37841" ; Times: 1
+	Query: "specificepithet:extenuatum genus:Stilosoma stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 2
+	Query: "UF 28144" ; Times: 1
+	Query: "UF 28143" ; Times: 1
+	Query: "Anas strepera" ; Times: 6
+	Query: "catalognumber:258138" ; Times: 1
+	Query: "82441" ; Times: 1
+	Query: "catalognumber:236202" ; Times: 1
+	Query: "catalognumber:288874" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Panama&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "59011" ; Times: 1
+	Query: "recordedby: william wood" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 2
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "catalognumber:178321" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 2
+	Query: "catalognumber:98948" ; Times: 1
+	Query: "catalognumber:70280" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "catalognumber:163090" ; Times: 1
+	Query: "Anas crecca" ; Times: 6
+	Query: "catalognumber:175341" ; Times: 1
+	Query: "100399" ; Times: 2
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "catalognumber:105376" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 2
+	Query: "100499" ; Times: 1
+	Query: "specificepithet:gratiosa genus:Hyla stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "Anas americana" ; Times: 5
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "Pantherophis obsoletus" ; Times: 1
+	Query: "Sirenia" ; Times: 1
+	Query: "catalognumber:316689" ; Times: 1
+	Query: "catalognumber:316685" ; Times: 1
+	Query: "catalognumber:316686" ; Times: 1
+	Query: "catalognumber:316687" ; Times: 1
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "catalognumber:211069" ; Times: 1
+	Query: "catalognumber:144379" ; Times: 1
+	Query: "catalognumber:109713" ; Times: 1
+	Query: "catalognumber: 146659" ; Times: 1
+	Query: "UF 52829" ; Times: 1
+	Query: "class:mammalia (10058)" ; Times: 2
+	Query: "sloth" ; Times: 3
+	Query: "sphyrna zygaena" ; Times: 1
+	Query: "catalognumber:229747" ; Times: 1
+	Query: "catalognumber:148194" ; Times: 1
+	Query: "93995" ; Times: 1
+	Query: "catalognumber:122181" ; Times: 1
+	Query: "catalognumber:316691" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "catalognumber:163045" ; Times: 1
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "stilosoma" ; Times: 2
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "catalognumber:148251" ; Times: 1
+	Query: "catalognumber:163086" ; Times: 1
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 1
+	Query: "catalognumber:163087" ; Times: 1
+	Query: "catalognumber:163114" ; Times: 1
+	Query: "Patagioenas leucocephala institutioncode:UF" ; Times: 1
+	Query: "catalognumber:173950" ; Times: 1
+	Query: "93108" ; Times: 1
+	Query: "(10058)" ; Times: 1
+	Query: "Parnell" ; Times: 3
+	Query: "genus:Tropidophis" ; Times: 2
+	Query: "catalognumber:168331" ; Times: 1
+	Query: "catalognumber: 135267" ; Times: 1
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 1
+	Query: "genus:Monachus" ; Times: 1
+	Query: "specificepithet:gratiosa genus:Hyla county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "catalognumber:208464" ; Times: 1
+	Query: "catalognumber:173758" ; Times: 1
+	Query: "230140" ; Times: 1
+	Query: "258276" ; Times: 1
+	Query: "catalognumber:163103" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "Bos taurus" ; Times: 6
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "Lemur" ; Times: 1
+	Query: "Anas platyrhynchos" ; Times: 2
+	Query: "21719" ; Times: 2
+	Query: "catalognumber:232850" ; Times: 1
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "catalognumber: 152184" ; Times: 1
+	Query: "catalognumber:126793" ; Times: 1
+	Query: "catalognumber: 196268" ; Times: 1
+	Query: "Barbourofelis" ; Times: 1
+	Query: "catalognumber: 147946" ; Times: 1
+	Query: "Anas clypeata" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 474 download events in this period)
+Total number of records downloaded: 40083
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 5
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-04 ; Times: 5
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-10 ; Times: 3
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Lagomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Florida" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+
+
+End of report.
