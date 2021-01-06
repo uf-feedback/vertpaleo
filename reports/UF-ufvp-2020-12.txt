@@ -1,0 +1,544 @@
+Report for Institution Code UF, Resource ufvp
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 628
+Number of records retrieved in searches: 15556
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 420
+	Country: Peru ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Cuba ; Times: 8
+	Country: Unknown ; Times: 49
+	Country: Mexico ; Times: 17
+	Country: France ; Times: 44
+	Country: United Kingdom ; Times: 38
+	Country: Sweden ; Times: 13
+	Country: Ecuador ; Times: 6
+	Country: Chile ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Colombia ; Times: 8
+	Country: Bolivia ; Times: 1
+	Country: Spain ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 6
+	Date: 2020-12-31 ; Times: 4
+	Date: 2020-12-09 ; Times: 16
+	Date: 2020-12-08 ; Times: 33
+	Date: 2020-12-07 ; Times: 41
+	Date: 2020-12-06 ; Times: 16
+	Date: 2020-12-05 ; Times: 3
+	Date: 2020-12-04 ; Times: 32
+	Date: 2020-12-03 ; Times: 23
+	Date: 2020-12-02 ; Times: 28
+	Date: 2020-12-01 ; Times: 55
+	Date: 2020-12-25 ; Times: 21
+	Date: 2020-12-24 ; Times: 7
+	Date: 2020-12-27 ; Times: 2
+	Date: 2020-12-20 ; Times: 7
+	Date: 2020-12-23 ; Times: 23
+	Date: 2020-12-22 ; Times: 6
+	Date: 2020-12-29 ; Times: 4
+	Date: 2020-12-28 ; Times: 4
+	Date: 2020-12-18 ; Times: 8
+	Date: 2020-12-19 ; Times: 4
+	Date: 2020-12-10 ; Times: 43
+	Date: 2020-12-11 ; Times: 67
+	Date: 2020-12-12 ; Times: 4
+	Date: 2020-12-13 ; Times: 6
+	Date: 2020-12-14 ; Times: 48
+	Date: 2020-12-15 ; Times: 50
+	Date: 2020-12-16 ; Times: 30
+	Date: 2020-12-17 ; Times: 37
+
+List of queries that retrieved data from the resource: 
+	Query: "UF 173098" ; Times: 2
+	Query: "133791" ; Times: 1
+	Query: "catalognumber:17258" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Brevard&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "scientificname:Carcharias taurus" ; Times: 2
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Sarasota&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "scientificname:Carcharhinus limbatus" ; Times: 1
+	Query: "Leiothlypis celata" ; Times: 2
+	Query: "268214" ; Times: 1
+	Query: "Sciaenops ocellatus" ; Times: 1
+	Query: "234168" ; Times: 1
+	Query: "148600" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "mappable:1 scientificname:Nycticorax nycticorax" ; Times: 2
+	Query: "uf 161913" ; Times: 3
+	Query: "mappable:1 scientificname:Larus dominicanus" ; Times: 1
+	Query: "4784 genus:Geomys" ; Times: 2
+	Query: "37189" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "panthera onca" ; Times: 10
+	Query: "genus:Ambystoma specificepithet:tigrinum stateprovince: Florida" ; Times: 1
+	Query: "UF 112929" ; Times: 2
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Levy&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Turdus plumbeus" ; Times: 3
+	Query: "71718" ; Times: 1
+	Query: "25529" ; Times: 1
+	Query: "80614" ; Times: 1
+	Query: "scientificname:Squatina squatina" ; Times: 1
+	Query: "25113" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma county:&#34;Levy&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "genus:Drymarchon" ; Times: 1
+	Query: "scientificname:Sphyrna mokarran" ; Times: 1
+	Query: "149376" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Sumter&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "240927" ; Times: 1
+	Query: "scientificname:Sphyrna zygaena" ; Times: 1
+	Query: "scientificname:Galeocerdo cuvier" ; Times: 2
+	Query: "268969" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Highlands&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "106323" ; Times: 1
+	Query: "279008" ; Times: 1
+	Query: "42634" ; Times: 1
+	Query: "176987" ; Times: 4
+	Query: "catalognumber:178490 institutioncode:UF" ; Times: 1
+	Query: "148415" ; Times: 1
+	Query: "279006" ; Times: 1
+	Query: "148399" ; Times: 1
+	Query: "148398" ; Times: 1
+	Query: "287939" ; Times: 1
+	Query: "mappable:1 scientificname:Ardea alba" ; Times: 1
+	Query: "mappable:1 scientificname:Zonotrichia capensis" ; Times: 1
+	Query: "mappable:1 scientificname:Rallus longirostris" ; Times: 2
+	Query: "145506" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Suwannee&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "scientificname:Carcharhinus plumbeus" ; Times: 1
+	Query: "catalognumber:178448 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:43415 institutioncode:UF" ; Times: 1
+	Query: "26573" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Volusia&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Hardee&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "catalognumber:178485 institutioncode:UF" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "21726" ; Times: 1
+	Query: "catalognumber:157531" ; Times: 1
+	Query: "scientificname:Sphyrna lewini" ; Times: 1
+	Query: "91527" ; Times: 1
+	Query: "UF UF 7196" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Okeechobee&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "scientificname:Carcharodon carcharias" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "mappable:1 scientificname:Geranoaetus melanoleucus" ; Times: 1
+	Query: "110052" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "172942" ; Times: 1
+	Query: "scientificname:Pristis pristis" ; Times: 2
+	Query: "UF 129478" ; Times: 1
+	Query: "mappable:1 scientificname:Anhinga anhinga" ; Times: 4
+	Query: "39031" ; Times: 1
+	Query: "240860" ; Times: 1
+	Query: "151500" ; Times: 1
+	Query: "mappable:1 scientificname:Egretta caerulea" ; Times: 1
+	Query: "178211" ; Times: 1
+	Query: "scientificname:Centrophorus granulosus" ; Times: 1
+	Query: "&#34;Canis rufus&#34;" ; Times: 2
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Seminole&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "108489" ; Times: 1
+	Query: "scientificname:Alopias vulpinus" ; Times: 1
+	Query: "UF 221610" ; Times: 2
+	Query: "91897" ; Times: 2
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Manatee&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "150729" ; Times: 1
+	Query: "149996" ; Times: 1
+	Query: "204414" ; Times: 2
+	Query: "135395" ; Times: 1
+	Query: "135396" ; Times: 1
+	Query: "UF 120003" ; Times: 2
+	Query: "148357" ; Times: 1
+	Query: "specificepithet:Tigrinum genus:Ambystoma county:&#34;Alachua&#34;" ; Times: 1
+	Query: "148861" ; Times: 1
+	Query: "Galeocerdo cuvier" ; Times: 1
+	Query: "uf 215245" ; Times: 2
+	Query: "scientificname:Ceratoscopelus maderensis" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "41264" ; Times: 1
+	Query: "145443" ; Times: 3
+	Query: "Ameiurus natalis" ; Times: 1
+	Query: "scientificname:Pomatomus saltatrix" ; Times: 1
+	Query: "100576" ; Times: 1
+	Query: "172345" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Charlotte&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Jefferson&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "149173" ; Times: 1
+	Query: "Merluccius albidus" ; Times: 1
+	Query: "36800" ; Times: 1
+	Query: "55866 aves" ; Times: 1
+	Query: "241208" ; Times: 1
+	Query: "Lagodon rhomboides" ; Times: 1
+	Query: "mappable:1 scientificname:Cathartes aura" ; Times: 2
+	Query: "26360" ; Times: 1
+	Query: "orectolobiformes" ; Times: 3
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus stateprovince:&#34;Florida&#34;" ; Times: 3
+	Query: "172330" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "scientificname:Pagrus pagrus" ; Times: 2
+	Query: "279346" ; Times: 1
+	Query: "241440" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Nassau&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Aramus guarauna" ; Times: 2
+	Query: "recordedby:felton" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus institutioncode:UF" ; Times: 1
+	Query: "30561" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 1
+	Query: "285474" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "UF 185209" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Duval&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "148856" ; Times: 1
+	Query: "scientificname:Carcharhinus obscurus" ; Times: 1
+	Query: "148855" ; Times: 1
+	Query: "catalognumber:33488 institutioncode:UF" ; Times: 1
+	Query: "Tiaris bicolor" ; Times: 3
+	Query: "uf 185489" ; Times: 2
+	Query: "scientificname:Hygophum benoiti" ; Times: 1
+	Query: "12995" ; Times: 1
+	Query: "UF 52310" ; Times: 1
+	Query: "145528" ; Times: 2
+	Query: "24209" ; Times: 1
+	Query: "UF 233577" ; Times: 2
+	Query: "Felis catus" ; Times: 1
+	Query: "43687" ; Times: 1
+	Query: "scientificname:Anolis sagrei" ; Times: 2
+	Query: "mappable:1 scientificname:Ixobrychus exilis" ; Times: 1
+	Query: "mappable:1 scientificname:Coereba flaveola" ; Times: 1
+	Query: "UF 7196" ; Times: 2
+	Query: "Todus angustirostris" ; Times: 1
+	Query: "263945" ; Times: 2
+	Query: "kingdom:Plantae " ; Times: 2
+	Query: "242852" ; Times: 1
+	Query: "186572" ; Times: 2
+	Query: "182233" ; Times: 1
+	Query: "41856" ; Times: 1
+	Query: "148400" ; Times: 1
+	Query: "genus:Drymarchon year &gt;= 2000" ; Times: 1
+	Query: "catalognumber:153675 institutioncode:UF" ; Times: 1
+	Query: "241090" ; Times: 1
+	Query: "125002" ; Times: 3
+	Query: "uf 96111" ; Times: 2
+	Query: "145499" ; Times: 1
+	Query: "148297" ; Times: 1
+	Query: "49709" ; Times: 1
+	Query: "mappable:1 scientificname:Anous stolidus" ; Times: 2
+	Query: "145496" ; Times: 4
+	Query: "solenodon" ; Times: 1
+	Query: "genus:Caracara" ; Times: 1
+	Query: "35966" ; Times: 1
+	Query: "148533" ; Times: 1
+	Query: "117901" ; Times: 1
+	Query: "scientificname:Carcharhinus falciformis" ; Times: 1
+	Query: "catalognumber:12488 institutioncode:UF" ; Times: 3
+	Query: "leopardus" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "scientificname:Caranx hippos" ; Times: 2
+	Query: "196053" ; Times: 1
+	Query: "UF 46771" ; Times: 2
+	Query: "127450" ; Times: 1
+	Query: "11296" ; Times: 2
+	Query: "mappable:1 scientificname:Laterallus exilis" ; Times: 1
+	Query: "148747" ; Times: 2
+	Query: "mappable:1 scientificname:Mycteria americana" ; Times: 1
+	Query: "UF 162788" ; Times: 2
+	Query: "uf 165663" ; Times: 2
+	Query: "291686" ; Times: 1
+	Query: "291687" ; Times: 1
+	Query: "mappable:1 scientificname:Megaceryle torquata" ; Times: 1
+	Query: "22063" ; Times: 1
+	Query: "UF 52583" ; Times: 1
+	Query: "UF 52581" ; Times: 2
+	Query: "UF 52580" ; Times: 2
+	Query: "172329" ; Times: 1
+	Query: "Florida genus:Canis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "60372" ; Times: 1
+	Query: "149465" ; Times: 1
+	Query: "67116" ; Times: 1
+	Query: "uf 245708" ; Times: 2
+	Query: "241487" ; Times: 1
+	Query: "149661" ; Times: 1
+	Query: "149503" ; Times: 1
+	Query: "149502" ; Times: 1
+	Query: "18646" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; institutioncode:UF" ; Times: 1
+	Query: "76468" ; Times: 1
+	Query: "151498" ; Times: 1
+	Query: "151499" ; Times: 2
+	Query: "151496" ; Times: 1
+	Query: "279119" ; Times: 1
+	Query: "UF 165989" ; Times: 2
+	Query: "catalognumber:12487 institutioncode:UF" ; Times: 1
+	Query: "UF 237965" ; Times: 2
+	Query: "Anas strepera" ; Times: 1
+	Query: "87609" ; Times: 1
+	Query: "241839" ; Times: 1
+	Query: "166892" ; Times: 1
+	Query: "UF 146363" ; Times: 2
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Columbia&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Asio stygius" ; Times: 2
+	Query: "113294" ; Times: 3
+	Query: "113295" ; Times: 1
+	Query: "113296" ; Times: 1
+	Query: "scientificname:Isurus oxyrinchus" ; Times: 1
+	Query: "uf 114893" ; Times: 2
+	Query: "mappable:1 scientificname:Bos taurus" ; Times: 1
+	Query: "329647" ; Times: 1
+	Query: "186546" ; Times: 3
+	Query: "mappable:1 scientificname:Crotophaga ani" ; Times: 1
+	Query: "186545" ; Times: 3
+	Query: "126020" ; Times: 3
+	Query: "scientificname:Hexanchus griseus" ; Times: 2
+	Query: "mappable:1 scientificname:Nyctanassa violacea" ; Times: 1
+	Query: "Fulica americana" ; Times: 1
+	Query: "uf 172587" ; Times: 1
+	Query: "405987" ; Times: 1
+	Query: "82425" ; Times: 1
+	Query: "172328" ; Times: 1
+	Query: "148788" ; Times: 1
+	Query: "Pterodroma cahow vntype:specimen" ; Times: 2
+	Query: "110151" ; Times: 3
+	Query: "catalognumber:13754 institutioncode:UF" ; Times: 1
+	Query: "154689" ; Times: 1
+	Query: "Ameiurus melas" ; Times: 1
+	Query: "UF 241571" ; Times: 1
+	Query: "Todus todus" ; Times: 1
+	Query: "mappable:1 scientificname:Actitis macularius" ; Times: 1
+	Query: "class:reptilia locality:Caloosahatchee River" ; Times: 1
+	Query: "mappable:1 scientificname:Columbina passerina" ; Times: 1
+	Query: "278098" ; Times: 1
+	Query: "278091" ; Times: 1
+	Query: "92027" ; Times: 1
+	Query: "241238" ; Times: 1
+	Query: "uf 174094" ; Times: 2
+	Query: "278097" ; Times: 2
+	Query: "mappable:1 scientificname:Podilymbus podiceps" ; Times: 2
+	Query: "UF 81171" ; Times: 2
+	Query: "tyrannus cubensis" ; Times: 4
+	Query: "178126" ; Times: 1
+	Query: "241420" ; Times: 1
+	Query: "41740" ; Times: 1
+	Query: "417433" ; Times: 2
+	Query: "197050" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 4
+	Query: "UF 82677" ; Times: 2
+	Query: "82259" ; Times: 1
+	Query: "114232" ; Times: 1
+	Query: "Gallus gallus" ; Times: 1
+	Query: "294532" ; Times: 1
+	Query: "1997-381" ; Times: 1
+	Query: "303156" ; Times: 1
+	Query: "25857" ; Times: 1
+	Query: "mappable:1 scientificname:Coragyps atratus" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 2
+	Query: "91485" ; Times: 1
+	Query: "148267" ; Times: 1
+	Query: "27650" ; Times: 1
+	Query: "catalognumber:110151" ; Times: 1
+	Query: "genus:caracara" ; Times: 2
+	Query: "scientificname:Rhinobatos rhinobatos" ; Times: 2
+	Query: "154831" ; Times: 1
+	Query: "154833" ; Times: 2
+	Query: "UF 55080" ; Times: 2
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Citrus&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "scientificname:Mustelus mustelus" ; Times: 2
+	Query: "specificepithet:polyphemus genus:gopherus county:&#34;Palm Beach&#34;" ; Times: 1
+	Query: "257133" ; Times: 2
+	Query: "country:&#34;USA&#34; (sciurus niger)" ; Times: 1
+	Query: "catalognumber:51685 institutioncode:UF" ; Times: 2
+	Query: "scientificname:Procyon lotor" ; Times: 16
+	Query: "162169" ; Times: 1
+	Query: "151127" ; Times: 3
+	Query: "204415" ; Times: 1
+	Query: "405332" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus" ; Times: 6
+	Query: "405330" ; Times: 4
+	Query: "scientificname:Sphyraena sphyraena" ; Times: 4
+	Query: "catalognumber:51690 institutioncode:UF" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 5
+	Query: "11258" ; Times: 1
+	Query: "247337" ; Times: 1
+	Query: "268757" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Indian River&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "scientificname:Gadus morhua" ; Times: 1
+	Query: "UF 182306" ; Times: 2
+	Query: "scientificname:Carcharhinus brachyurus" ; Times: 1
+	Query: "Anas carolinensis" ; Times: 1
+	Query: "150068" ; Times: 1
+	Query: "catalognumber:12464 institutioncode:UF" ; Times: 2
+	Query: "uf 208473" ; Times: 2
+	Query: "148207" ; Times: 1
+	Query: "148205" ; Times: 1
+	Query: "UF 90593" ; Times: 1
+	Query: "Tarrant County" ; Times: 5
+	Query: "genus:erethizon isfossil:1" ; Times: 4
+	Query: "catalognumber:86737 institutioncode:UF" ; Times: 2
+	Query: "scientificname:Symbolophorus veranyi" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "genus:drymarchon institutioncode:UF" ; Times: 2
+	Query: "221826" ; Times: 3
+	Query: "121223" ; Times: 1
+	Query: "279101" ; Times: 1
+	Query: "148514" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Marion&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "UF 245708" ; Times: 1
+	Query: "recordedby:gerrit Miller" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "mappable:1 scientificname:Milvago chimachima" ; Times: 1
+	Query: "mappable:1 scientificname:Egretta thula" ; Times: 1
+	Query: "242544" ; Times: 1
+	Query: "UF 52659" ; Times: 2
+	Query: "UF 52653" ; Times: 2
+	Query: "UF 52651" ; Times: 3
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "UF 52657" ; Times: 2
+	Query: "UF 52654" ; Times: 2
+	Query: "167680" ; Times: 1
+	Query: "mappable:1 scientificname:Tachybaptus dominicus" ; Times: 1
+	Query: "145519" ; Times: 2
+	Query: "scientificname:Carcharhinus brevipinna" ; Times: 1
+	Query: "148383" ; Times: 1
+	Query: "Buteo lineatus" ; Times: 1
+	Query: "145511" ; Times: 2
+	Query: "specificepithet:Tigrinum genus:Ambystoma county:&#34;Levy&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Taylor&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "23496" ; Times: 1
+	Query: "zombie" ; Times: 3
+	Query: "scientificname:Merluccius merluccius" ; Times: 1
+	Query: "catalognumber:210025" ; Times: 1
+	Query: "405992" ; Times: 1
+	Query: "70387" ; Times: 1
+	Query: "91533" ; Times: 2
+	Query: "241043" ; Times: 2
+	Query: "189644" ; Times: 2
+	Query: "127628" ; Times: 1
+	Query: "151501" ; Times: 1
+	Query: "241824" ; Times: 1
+	Query: "mappable:1 scientificname:Jacana jacana" ; Times: 1
+	Query: "151989" ; Times: 1
+	Query: "UF 88607" ; Times: 2
+	Query: "scientificname:Sphoeroides spengleri" ; Times: 1
+	Query: "uf 226168" ; Times: 2
+	Query: "uf 246747" ; Times: 1
+	Query: "UF 80187" ; Times: 1
+	Query: "242935" ; Times: 1
+	Query: "159925" ; Times: 2
+	Query: "159927" ; Times: 1
+	Query: "278086" ; Times: 1
+	Query: "278085" ; Times: 1
+	Query: "Larimus fasciatus" ; Times: 1
+	Query: "163807" ; Times: 1
+	Query: "278088" ; Times: 2
+	Query: "catalognumber:92027" ; Times: 6
+	Query: "UF 105697" ; Times: 2
+	Query: "uf 133072" ; Times: 2
+	Query: "121309" ; Times: 1
+	Query: "Bos taurus" ; Times: 2
+	Query: "Aepyornithiformes" ; Times: 1
+	Query: "148233" ; Times: 1
+	Query: "19907" ; Times: 1
+	Query: "55866" ; Times: 1
+	Query: "185730" ; Times: 1
+	Query: "mappable:1 scientificname:Tyto alba" ; Times: 2
+	Query: "UF 112048" ; Times: 2
+	Query: "126023" ; Times: 4
+	Query: "\278088" ; Times: 1
+	Query: "Pterodroma hasitata" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 2
+	Query: "vntype:specimen specificepithet:ruber genus:Phoenicopterus" ; Times: 1
+	Query: "UF 174094" ; Times: 2
+	Query: "uf 116856" ; Times: 2
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Orange&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "(21726)" ; Times: 1
+	Query: "17519" ; Times: 1
+	Query: "304603" ; Times: 1
+	Query: "149115" ; Times: 1
+	Query: "UF 173339" ; Times: 2
+	Query: "151049" ; Times: 1
+	Query: "30727" ; Times: 1
+	Query: "111101" ; Times: 1
+	Query: "153856" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;St. Johns&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "UF 238609" ; Times: 1
+	Query: "295744" ; Times: 3
+	Query: "Ectopistes migratorius" ; Times: 2
+	Query: "Podiceps auritus" ; Times: 1
+	Query: "328768" ; Times: 1
+	Query: "mappable:1 scientificname:Gallinula galeata" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Hillsborough&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Athene cunicularia" ; Times: 4
+	Query: "41988" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "UF 182066" ; Times: 2
+	Query: "148694" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Polk&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "118252" ; Times: 1
+	Query: "162173" ; Times: 1
+	Query: "catalognumber:90103" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 705 download events in this period)
+Total number of records downloaded: 5818
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Cuba ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 15
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-23 ; Times: 2
+	Date: 2020-12-02 ; Times: 6
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-07 ; Times: 2
+	Date: 2020-12-11 ; Times: 2
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-03 ; Times: 1
+	Date: 2020-12-15 ; Times: 3
+	Date: 2020-12-01 ; Times: 2
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "tyrannus cubensis" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "specificepithet:polyphemus genus:gopherus county:&#34;Palm Beach&#34;" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "&#34;Canis rufus&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "class:mammalia locality:Caloosahatchee River" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "class:reptilia locality:Caloosahatchee River" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 2
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+
+
+End of report.
